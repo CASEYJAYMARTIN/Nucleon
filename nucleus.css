@@ -26,8 +26,11 @@
 /* Overflow */
 .o-a {overflow: auto}
 .o-h {overflow: hidden}
-.o-s {overdlow: scroll}
+.o-s {overflow: scroll}
 .o-v {overflow: visible}
+
+/* Padding */
+.p-0 {padding: 0}
 
 /* Position */
 .p-a {position: absolute}
