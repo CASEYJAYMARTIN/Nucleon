@@ -9,6 +9,12 @@
 .o-0 {opacity: 0}
 .o-1 {opacity: 1}
 
+/* Position */
+.p-a {position: absolute}
+.p-f {position: fixed}
+.p-r {position: relative}
+.p-s {position: static}
+
 /* Visibility */
 .v-h {visibility: hidden}
 .v-v {visibility: visible}
