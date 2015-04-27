@@ -1,6 +1,10 @@
 /* Border */
 .b-0 {border: 0}
 
+/* Box Sizing */
+.bS-bb {box-sizing: border-box}
+.bS-cb {box-sizing: content-box}
+
 /* Clear */
 .c-b {clear: both}
 .c-l {clear: left}
