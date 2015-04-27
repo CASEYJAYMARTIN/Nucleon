@@ -5,6 +5,11 @@
 .d-ib {display: inline-block}
 .d-n {display: none}
 
+/* Float */
+.f-l {float: left}
+.f-n {float: none}
+.f-r {float: right}
+
 /* Opacity */
 .o-0 {opacity: 0}
 .o-1 {opacity: 1}
