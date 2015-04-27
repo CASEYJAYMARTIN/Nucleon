@@ -5,6 +5,10 @@
 .d-ib {display: inline-block}
 .d-n {display: none}
 
+/* Opacity */
+.o-0 {opacity: 0}
+.o-1 {opacity: 1}
+
 /* Visibility */
 .v-h {visibility: hidden}
 .v-v {visibility: visible}
