@@ -1,3 +1,9 @@
+/* Clear */
+.c-b {clear: both}
+.c-l {clear: left}
+.c-n {clear: none}
+.c-r {clear: right}
+
 /* Display */
 .d-b {display: block}
 .d-f {display: flex}
