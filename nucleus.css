@@ -53,6 +53,12 @@
 .tA-l {text-align: left}
 .tA-r {text-align: right}
 
+/* Text Transform */
+.tT-c {text-transform: capitalize}
+.tT-l {text-transform: lowercase}
+.tT-n {text-transform: none}
+.tT-u {text-transform: uppercase}
+
 /* Visibility */
 .v-h {visibility: hidden}
 .v-v {visibility: visible}
