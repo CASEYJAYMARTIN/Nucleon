@@ -47,6 +47,12 @@
 .p-r {position: relative}
 .p-s {position: static}
 
+/* Text Align */
+.tA-c {text-align: center}
+.tA-j {text-align: justify}
+.tA-l {text-align: left}
+.tA-r {text-align: right}
+
 /* Visibility */
 .v-h {visibility: hidden}
 .v-v {visibility: visible}
