@@ -25,6 +25,8 @@
 
 /* Margin */
 .m-0 {margin: 0}
+.m-0a {margin: 0 auto}
+.m-a {margin: auto}
 
 /* Opacity */
 .o-0 {opacity: 0}
