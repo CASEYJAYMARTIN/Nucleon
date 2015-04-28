@@ -53,6 +53,12 @@
 .tA-l {text-align: left}
 .tA-r {text-align: right}
 
+/* Text Decoration */
+.tD-l {text-decoration: line-through}
+.tD-n {text-decoration: none}
+.tD-o {text-decoration: overline}
+.tD-u {text-decoration: underline}
+
 /* Text Transform */
 .tT-c {text-transform: capitalize}
 .tT-l {text-transform: lowercase}
