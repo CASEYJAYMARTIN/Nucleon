@@ -28,6 +28,10 @@
 .fS-n {font-style: normal}
 .fS-o {font-style: oblique}
 
+/* Font Variant */
+.fV-n {font-variant: normal}
+.fV-s {font-variant: small-caps}
+
 /* Font Weight */
 .fW-b {font-weight: bolder}
 .fW-l {font-weight: lighter}
