@@ -18,6 +18,13 @@
 .d-ib {display: inline-block}
 .d-n {display: none}
 
+/* Flex Direction */
+.fD-c {flex-direction: column}
+.fD-cr {flex-direction: column-reverse}
+.fD-i {flex-direction: inherit}
+.fD-r {flex-direction: row}
+.fD-rr {flex-direction: row-reverse}
+
 /* Float */
 .f-l {float: left}
 .f-n {float: none}
