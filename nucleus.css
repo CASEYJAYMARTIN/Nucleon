@@ -1,6 +1,21 @@
 /* Border */
 .b-0 {border: 0}
 
+/* Background Size */
+.bgS-a {background-size: auto}
+.bgS-c {background-size: cover}
+.bgS-i {background-size: inherit}
+
+/* Border Style */
+.bS-d {border-style: double}
+.bS-g {border-style: groove}
+.bS-h {border-style: hidden}
+.bS-i {border-style: inset}
+.bS-n {border-style: none}
+.bS-o {border-style: outset}
+.bS-r {border-style: ridge}
+.bS-s {border-style: solid}
+
 /* Box Sizing */
 .bS-bb {box-sizing: border-box}
 .bS-cb {box-sizing: content-box}
