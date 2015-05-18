@@ -24,6 +24,11 @@
 .aS-i {align-self: inherit}
 .aS-s {align-self: stretch}
 
+/* Backface Visibility */
+.bV-h {backface-visibility: hidden}
+.bV-i {backface-visibility: inherit}
+.bV-v {backface-visibility: visibile}
+
 /* Border */
 .b-0 {border: 0}
 
