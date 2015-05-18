@@ -38,6 +38,12 @@
 .bgA-l {background-attachment: local}
 .bgA-s {background-attachment: scroll}
 
+/* Background Origin */
+.bgO-bb {background-origin: border-box}
+.bgO-cb {background-origin: content-box}
+.bgO-i {background-origin: inherit}
+.bgO-pb {background-origin: padding-box}
+
 /* Background Size */
 .bgS-a {background-size: auto}
 .bgS-c {background-size: cover}
