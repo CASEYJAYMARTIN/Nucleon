@@ -133,6 +133,12 @@
 .m-0a {margin: 0 auto}
 .m-a {margin: auto}
 
+/* Object Fit */
+.oF-c {object-fit: cover}
+.oF-f {object-fit: fill}
+.oF-n {object-fit: none}
+.oF-sd {object-fit: scale-down}
+
 /* Opacity */
 .o-0 {opacity: 0}
 .o-1 {opacity: 1}
