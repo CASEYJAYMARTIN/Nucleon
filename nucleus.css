@@ -15,6 +15,15 @@
 .aI-i {align-items: inherit}
 .aI-s {align-items: stretch}
 
+/* Align Self */
+.aS-a {align-self: auto}
+.aS-b {align-self: baseline}
+.aS-c {align-self: center}
+.aS-fe {align-self: flex-end}
+.aS-fs {align-self: flex-start}
+.aS-i {align-self: inherit}
+.aS-s {align-self: stretch}
+
 /* Border */
 .b-0 {border: 0}
 
