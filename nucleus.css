@@ -44,6 +44,17 @@
 .bgO-i {background-origin: inherit}
 .bgO-pb {background-origin: padding-box}
 
+/* Background Position */
+.bgP-cb {background-position: center bottom}
+.bgP-cc {background-position: center center}
+.bgP-ct {background-position: center top}
+.bgP-lb {background-position: left bottom}
+.bgP-lc {background-position: left center}
+.bgP-lt {background-position: left top}
+.bgP-rb {background-position: right bottom}
+.bgP-rc {background-position: right center}
+.bgP-rt {background-position: right top}
+
 /* Background Size */
 .bgS-a {background-size: auto}
 .bgS-c {background-size: cover}
