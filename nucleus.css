@@ -29,9 +29,6 @@
 .bV-i {backface-visibility: inherit}
 .bV-v {backface-visibility: visibile}
 
-/* Border */
-.b-0 {border: 0}
-
 /* Background Attachment */
 .bgA-f {background-attachment: fixed}
 .bgA-i {background-attachment: inherit}
@@ -55,10 +52,20 @@
 .bgP-rc {background-position: right center}
 .bgP-rt {background-position: right top}
 
+/* Background Repeat */
+.bgR-i {background-repeat: inherit}
+.bgR-nr {background-repeat: no-repeat}
+.bgR-r {background-repeat: repeat}
+.bgr-rx {background-repeat: repeat-x}
+.bgR-ry {background-repeat: repeat-y}
+
 /* Background Size */
 .bgS-a {background-size: auto}
 .bgS-c {background-size: cover}
 .bgS-i {background-size: inherit}
+
+/* Border */
+.b-0 {border: 0}
 
 /* Border Style */
 .bS-d {border-style: double}
