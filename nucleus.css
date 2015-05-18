@@ -1,3 +1,12 @@
+/* Align Content */
+.aC-c {align-content: center}
+.aC-fe {align-content: flex-end}
+.aC-fs {align-content: flex-start}
+.aC-i {align-content: inherit}
+.aC-s {align-content: stretch}
+.aC-sa {align-content: space-around}
+.aC-sb {align-content: space-between}
+
 /* Border */
 .b-0 {border: 0}
 
