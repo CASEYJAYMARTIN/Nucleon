@@ -7,6 +7,14 @@
 .aC-sa {align-content: space-around}
 .aC-sb {align-content: space-between}
 
+/* Align Items */
+.aI-b {align-items: baseline}
+.aI-c {align-items: center}
+.aI-fe {align-items: flex-end}
+.aI-fs {align-items: flex-start}
+.aI-i {align-items: inherit}
+.aI-s {align-items: stretch}
+
 /* Border */
 .b-0 {border: 0}
 
