@@ -32,6 +32,12 @@
 /* Border */
 .b-0 {border: 0}
 
+/* Background Attachment */
+.bgA-f {background-attachment: fixed}
+.bgA-i {background-attachment: inherit}
+.bgA-l {background-attachment: local}
+.bgA-s {background-attachment: scroll}
+
 /* Background Size */
 .bgS-a {background-size: auto}
 .bgS-c {background-size: cover}
