@@ -231,6 +231,16 @@
 .tS-i {transform-style: inherit}
 .tS-p3d {transform-style: preserve-3d}
 
+/* Transition Timing Function */
+.tTF-e {transition-timing-function: ease}
+.tTF-ei {transition-timing-function: ease-in}
+.tTF-eio {transition-timing-function: ease-in-out}
+.tTF-eo {transition-timing-function: ease-out}
+.tTF-i {transition-timing-function: inherit}
+.tTF-l {transition-timing-function: linear}
+.tTF-se {transition-timing-function: step-end}
+.tTF-ss {transition-timing-function: step-start}
+
 /* Visibility */
 .v-h {visibility: hidden}
 .v-v {visibility: visible}
