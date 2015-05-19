@@ -169,6 +169,11 @@
 /* Padding */
 .p-0 {padding: 0}
 
+/* Pointer Events */
+.pE-a {pointer-events: auto}
+.pE-i {pointer-events: inherit}
+.pE-n {pointer-events: none}
+
 /* Position */
 .p-a {position: absolute}
 .p-f {position: fixed}
