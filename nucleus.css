@@ -241,6 +241,17 @@
 .tTF-se {transition-timing-function: step-end}
 .tTF-ss {transition-timing-function: step-start}
 
+/* Vertical Align */
+.vA-b {vertical-align: bottom}
+.vA-bl {vertical-align: baseline}
+.vA-i {vertical-align: inherit}
+.vA-m {vertical-align: middle}
+.vA-sub {vertical-align: sub}
+.vA-sup {vertical-align: super}
+.vA-t {vertical-align: top}
+.vA-tb {vertical-align: text-bottom}
+.vA-tt {vertical-align: text-top}
+
 /* Visibility */
 .v-h {visibility: hidden}
 .v-v {visibility: visible}
