@@ -145,6 +145,17 @@
 .oF-n {object-fit: none}
 .oF-sd {object-fit: scale-down}
 
+/* Object Position */
+.oP-cb {object-position: center bottom}
+.oP-cc {object-position: center center}
+.oP-ct {object-position: center top}
+.oP-lb {object-position: left bottom}
+.oP-lc {object-position: left center}
+.oP-lt {object-position: left top}
+.oP-rb {object-position: right bottom}
+.oP-rc {object-position: right center}
+.oP-rt {object-position: right top}
+
 /* Opacity */
 .o-0 {opacity: 0}
 .o-1 {opacity: 1}
