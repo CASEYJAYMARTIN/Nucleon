@@ -226,6 +226,11 @@
 .tO-rc {transform-origin: right center}
 .tO-rt {transform-origin: right top}
 
+/* Transform Style */
+.tS-f {transform-style: flat}
+.tS-i {transform-style: inherit}
+.tS-p3d {transform-style: preserve-3d}
+
 /* Visibility */
 .v-h {visibility: hidden}
 .v-v {visibility: visible}
