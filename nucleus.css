@@ -210,6 +210,11 @@
 .tT-n {text-transform: none}
 .tT-u {text-transform: uppercase}
 
+/* Text Underline Position */
+.tUP-a {text-underline-position: auto}
+.tUP-i {text-underline-position: inherit}
+.tUP-u {text-underline-position: under}
+
 /* Visibility */
 .v-h {visibility: hidden}
 .v-v {visibility: visible}
