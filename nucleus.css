@@ -192,6 +192,11 @@
 .tD-o {text-decoration: overline}
 .tD-u {text-decoration: underline}
 
+/* Text Overflow */
+.tO-c {text-overflow: clip}
+.tO-e {text-overflow: ellipsis}
+.tO-i {text-overflow: inherit}
+
 /* Text Transform */
 .tT-c {text-transform: capitalize}
 .tT-l {text-transform: lowercase}
