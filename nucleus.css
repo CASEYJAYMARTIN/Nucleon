@@ -120,6 +120,12 @@
 .fW-l {font-weight: lighter}
 .fW-n {font-weight: normal}
 
+/* Hyphens */
+.h-a {hyphens: auto}
+.h-i {hyphens: inherit}
+.h-m {hyphens: manual}
+.h-n {hyphens: none}
+
 /* Justify Content */
 .jC-c {justify-content: center}
 .jC-fe {justify-content: flex-end}
