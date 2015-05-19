@@ -215,6 +215,17 @@
 .tUP-i {text-underline-position: inherit}
 .tUP-u {text-underline-position: under}
 
+/* Transform Origin */
+.tO-cb {transform-origin: center bottom}
+.tO-cc {transform-origin: center center}
+.tO-ct {transform-origin: center top}
+.tO-lb {transform-origin: left bottom}
+.tO-lc {transform-origin: left center}
+.tO-lt {transform-origin: left top}
+.tO-rb {transform-origin: right bottom}
+.tO-rc {transform-origin: right center}
+.tO-rt {transform-origin: right top}
+
 /* Visibility */
 .v-h {visibility: hidden}
 .v-v {visibility: visible}
