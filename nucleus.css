@@ -197,6 +197,13 @@
 .tO-e {text-overflow: ellipsis}
 .tO-i {text-overflow: inherit}
 
+/* Text Rendering */
+.tR-a {text-rendering: auto}
+.tR-gP {text-rendering: geometricPrecision}
+.tR-i {text-rendering: inherit}
+.tR-oL {text-rendering: optimizeLegibility}
+.tR-oS {text-rendering: optimizeSpeed}
+
 /* Text Transform */
 .tT-c {text-transform: capitalize}
 .tT-l {text-transform: lowercase}
