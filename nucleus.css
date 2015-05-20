@@ -180,6 +180,13 @@
 .p-r {position: relative}
 .p-s {position: static}
 
+/* Resize */
+.r-b {resize: both}
+.r-h {resize: horizontal}
+.r-i {resize: inherit}
+.r-n {resize: none}
+.r-v {resize: vertical}
+
 /* Text Align */
 .tA-c {text-align: center}
 .tA-j {text-align: justify}
