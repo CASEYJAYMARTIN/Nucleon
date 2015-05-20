@@ -126,6 +126,17 @@
 .h-m {hyphens: manual}
 .h-n {hyphens: none}
 
+/* Image Orientation */
+.iO-90 {image-orientation: 90deg}
+.iO-180 {image-orientation: 180deg}
+.iO-270 {image-orientation: 270deg}
+.iO-90f {image-orientation: 90deg flip}
+.iO-180f {image-orientation: 180deg flip}
+.iO-270f {image-orientation: 270deg flip}
+.iO-f {image-orientation: flip}
+.iO-fi {image-orientation: from-image}
+.iO-i {image-orientation: inherit}
+
 /* Image Rendering */
 .iR-a {image-rendering: auto}
 .iR-ce {image-rendering: crisp-edges}
