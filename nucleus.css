@@ -166,6 +166,11 @@
 .o-s {overflow: scroll}
 .o-v {overflow: visible}
 
+/* Overflow Wrap */
+.oW-bw {word-wrap: break-word; overflow-wrap: break-word}
+.oW-i {word-wrap: inherit; overflow-wrap: inherit}
+.oW-n {word-wrap: normal; overflow-wrap: normal}
+
 /* Padding */
 .p-0 {padding: 0}
 
