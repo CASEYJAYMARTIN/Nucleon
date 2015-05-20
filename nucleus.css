@@ -258,6 +258,13 @@
 .tUP-i {text-underline-position: inherit}
 .tUP-u {text-underline-position: under}
 
+/* Touch Action */
+.tA-a {touch-action: auto}
+.tA-m {touch-action: manipulation}
+.tA-n {touch-action: none}
+.tA-px {touch-action: pan-x}
+.tA-py {touch-action: pan-y}
+
 /* Transform Origin */
 .tO-cb {transform-origin: center bottom}
 .tO-cc {transform-origin: center center}
