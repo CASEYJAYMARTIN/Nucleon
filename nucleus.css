@@ -111,6 +111,16 @@
 .fS-n {font-style: normal}
 .fS-o {font-style: oblique}
 
+/* Font Stretch */
+.fS-c {font-stretch: condensed}
+.fS-e {font-stretch: expanded}
+.fS-ec {font-stretch: extra-condensed}
+.fS-ee {font-stretch: extra-expanded}
+.fS-sc {font-stretch: semi-condensed}
+.fS-se {font-stretch: semi-expanded}
+.fS-uc {font-stretch: ultra-condensed}
+.fS-ue {font-stretch: ultra-expanded}
+
 /* Font Variant */
 .fV-n {font-variant: normal}
 .fV-s {font-variant: small-caps}
