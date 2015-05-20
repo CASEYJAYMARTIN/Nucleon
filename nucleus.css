@@ -126,6 +126,12 @@
 .h-m {hyphens: manual}
 .h-n {hyphens: none}
 
+/* Image Rendering */
+.iR-a {image-rendering: auto}
+.iR-ce {image-rendering: crisp-edges}
+.iR-i {image-rendering: inherit}
+.iR-p {image-rendering: pixelated}
+
 /* Justify Content */
 .jC-c {justify-content: center}
 .jC-fe {justify-content: flex-end}
