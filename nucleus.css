@@ -94,6 +94,10 @@
 .d-ib {display: inline-block}
 .d-n {display: none}
 
+/* Filter */
+.f-g {filter: grayscale(1)}
+.f-s {filter: septia(1)}
+
 /* Flex Direction */
 .fD-c {flex-direction: column}
 .fD-cr {flex-direction: column-reverse}
