@@ -24,6 +24,14 @@
 .aS-i {align-self: inherit}
 .aS-s {align-self: stretch}
 
+/* Animation Fill Mode */
+.aFM-bw {animation-fill-mode: backwards}
+.aFM-b {animation-fill-mode: both}
+.aFM-f {animation-fill-mode: forwards}
+.aFM-inh {animation-fill-mode: inherit}
+.aFM-ini {animation-fill-mode: initial}
+.aFM-n {animation-fill-mode: none}
+
 /* Backface Visibility */
 .bV-h {backface-visibility: hidden}
 .bV-i {backface-visibility: inherit}
