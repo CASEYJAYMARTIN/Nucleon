@@ -24,6 +24,14 @@
 .aS-i {align-self: inherit}
 .aS-s {align-self: stretch}
 
+/* Animation Direction */
+.aD-a {animation-direction: alternate}
+.aD-ar {animation-direction: alternte-reverse}
+.aD-inh {animation-direction: inherit}
+.aD-ini {animation-direction: initial}
+.aD-n {animation-direction: normal}
+.aD-r {animation-direction: reverse}
+
 /* Animation Fill Mode */
 .aFM-bw {animation-fill-mode: backwards}
 .aFM-b {animation-fill-mode: both}
