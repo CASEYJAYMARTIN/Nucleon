@@ -32,6 +32,12 @@
 .aFM-ini {animation-fill-mode: initial}
 .aFM-n {animation-fill-mode: none}
 
+/* Animation Play State */
+.aPS-inh {animation-play-state: inherit}
+.aPS-ini {animation-play-state: initial}
+.aPS-p {animation-play-state: paused}
+.aPS-r {animation-play-state: running}
+
 /* Animation Timing Function */
 .aTF-e {animation-timing-function: ease}
 .aTF-ei {animation-timing-function: ease-in}
