@@ -105,6 +105,13 @@
 .fD-r {flex-direction: row}
 .fD-rr {flex-direction: row-reverse}
 
+/* Flex Wrap */
+.fW-inh {flex-wrap: inherit}
+.fW-ini {flex-wrap: initial}
+.fW-n {flex-wrap: nowrap}
+.fW-w {flex-wrap: wrap}
+.fW-wr {flex-wrap: wrap-reverse}
+
 /* Float */
 .f-l {float: left}
 .f-n {float: none}
