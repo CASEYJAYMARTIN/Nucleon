@@ -32,6 +32,15 @@
 .aFM-ini {animation-fill-mode: initial}
 .aFM-n {animation-fill-mode: none}
 
+/* Animation Timing Function */
+.aTF-e {animation-timing-function: ease}
+.aTF-ei {animation-timing-function: ease-in}
+.aTF-eio {animation-timing-function: ease-in-out}
+.aTF-eo {animation-timing-function: ease-out}
+.aTF-l {animation-timing-function: linear}
+.aTF-se {animation-timing-function: step-end}
+.aTF-ss {animation-timing-function: step-start}
+
 /* Backface Visibility */
 .bV-h {backface-visibility: hidden}
 .bV-i {backface-visibility: inherit}
