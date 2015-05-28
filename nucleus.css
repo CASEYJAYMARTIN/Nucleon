@@ -66,6 +66,13 @@
 .bgA-l {background-attachment: local}
 .bgA-s {background-attachment: scroll}
 
+/* Background Clip */
+.bgC-bb {background-clip: border-box}
+.bgC-cb {background-clip: content-box}
+.bgC-pb {background-clip: padding-box}
+.bgC-inh {background-clip: inherit}
+.bgC-ini {background-clip: initial}
+
 /* Background Origin */
 .bgO-bb {background-origin: border-box}
 .bgO-cb {background-origin: content-box}
