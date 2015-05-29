@@ -210,6 +210,12 @@
 .jC-sa {justify-content: space-around}
 .jC-sb {justify-content: space-between}
 
+/* List Style Position */
+.lSP-inh {list-style-position: inherit}
+.lSP-ini {list-style-position: initial}
+.lSP-ins {list-style-position: inside}
+.lSP-o {list-style-position: outside}
+
 /* List Style Type */
 .lST-a {list-style-type: armenian}
 .lST-c {list-style-type: circle}
