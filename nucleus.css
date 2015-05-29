@@ -76,6 +76,26 @@
 .bgA-l {background-attachment: local}
 .bgA-s {background-attachment: scroll}
 
+/* Background Blend Mode */
+.bgBM-c {background-blend-mode: color}
+.bgBM-cb {background-blend-mode: color-burn}
+.bgBM-cd {background-blend-mode: color-dodge}
+.bgBM-d {background-blend-mode: darken}
+.bgBM-dif {background-blend-mode: difference}
+.bgBM-e {background-blend-mode: exclusion}
+.bgBM-hl {background-blend-mode: hard-light}
+.bgBM-h {background-blend-mode: hue}
+.bgBM-inh {background-blend-mode: inherit}
+.bgBM-ini {background-blend-mode: initial}
+.bgBM-lig {background-blend-mode: lighten}
+.bgBM-lum {background-blend-mode: luminosity}
+.bgBM-m {background-blend-mode: multiply}
+.bgBM-n {background-blend-mode: normal}
+.bgBM-o {background-blend-mode: overlay}
+.bgBM-sat {background-blend-mode: saturation}
+.bgBM-scr {background-blend-mode: screen}
+.bgBM-sl {background-blend-mode: soft-light}
+
 /* Background Clip */
 .bgC-bb {background-clip: border-box}
 .bgC-cb {background-clip: content-box}
