@@ -24,6 +24,11 @@
 .aS-i {align-self: inherit}
 .aS-s {align-self: stretch}
 
+/* All */
+.a-inh {all: inherit}
+.a-ini {all: initial}
+.a-u {all: unset}
+
 /* Animation Direction */
 .aD-a {animation-direction: alternate}
 .aD-ar {animation-direction: alternte-reverse}
