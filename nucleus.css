@@ -37,6 +37,11 @@
 .aD-n {animation-direction: normal}
 .aD-r {animation-direction: reverse}
 
+/* Animation Iteration Count */
+.aIC-i {animation-iteration-count: infinite}
+.aIC-inh {animation-iteration-count: inherit}
+.aIC-ini {animation-iteration-count: initial}
+
 /* Animation Fill Mode */
 .aFM-bw {animation-fill-mode: backwards}
 .aFM-b {animation-fill-mode: both}
