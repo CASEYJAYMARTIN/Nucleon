@@ -163,6 +163,12 @@
 .cF-ini {column-fill: initial}
 .cF-u {column-fill: unset}
 
+/* Column Span */
+.cS-a {column-span: all}
+.cS-inh {column-span: inherit}
+.cS-ini {column-span: initial}
+.cS-n {column-span: none}
+
 /* Display */
 .d-b {display: block}
 .d-f {display: flex}
