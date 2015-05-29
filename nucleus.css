@@ -95,6 +95,7 @@
 .bgBM-sat {background-blend-mode: saturation}
 .bgBM-scr {background-blend-mode: screen}
 .bgBM-sl {background-blend-mode: soft-light}
+.bgBM-u {background-blend-mode: unset}
 
 /* Background Clip */
 .bgC-bb {background-clip: border-box}
@@ -275,6 +276,27 @@
 .m-0 {margin: 0}
 .m-0a {margin: 0 auto}
 .m-a {margin: auto}
+
+/* Mix Blend Mode */
+.mBM-c {mix-blend-mode: color}
+.mBM-cb {mix-blend-mode: color-burn}
+.mBM-cd {mix-blend-mode: color-dodge}
+.mBM-d {mix-blend-mode: darken}
+.mBM-dif {mix-blend-mode: difference}
+.mBM-e {mix-blend-mode: exclusion}
+.mBM-hl {mix-blend-mode: hard-light}
+.mBM-h {mix-blend-mode: hue}
+.mBM-inh {mix-blend-mode: inherit}
+.mBM-ini {mix-blend-mode: initial}
+.mBM-lig {mix-blend-mode: lighten}
+.mBM-lum {mix-blend-mode: luminosity}
+.mBM-m {mix-blend-mode: multiply}
+.mBM-n {mix-blend-mode: normal}
+.mBM-o {mix-blend-mode: overlay}
+.mBM-sat {mix-blend-mode: saturation}
+.mBM-scr {mix-blend-mode: screen}
+.mBM-sl {mix-blend-mode: soft-light}
+.mBM-u {mix-blend-mode: unset}
 
 /* Object Fit */
 .oF-c {object-fit: cover}
