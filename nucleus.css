@@ -156,6 +156,13 @@
 .c-n {clear: none}
 .c-r {clear: right}
 
+/* Column Fill */
+.cF-a {column-fill: auto}
+.cF-b {column-fill: balance}
+.cF-inh {column-fill: inherit}
+.cF-ini {column-fill: initial}
+.cF-u {column-fill: unset}
+
 /* Display */
 .d-b {display: block}
 .d-f {display: flex}
