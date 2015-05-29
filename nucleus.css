@@ -246,6 +246,13 @@
 .iR-i {image-rendering: inherit}
 .iR-p {image-rendering: pixelated}
 
+/* Isolation */
+.i-a {isolation: auto}
+.i-inh {isolation: inherit}
+.i-ini {isolation: initial}
+.i-i {isolation: isolate}
+.i-u {isolation: unset}
+
 /* Justify Content */
 .jC-c {justify-content: center}
 .jC-fe {justify-content: flex-end}
