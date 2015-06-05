@@ -517,4 +517,9 @@
 .v-v {visibility: visible}
 
 /* White Space */
-.wS-n {white-space: nowrap}
+.wS-inh {white-space: inherit}
+.wS-ini {white-space: initial}
+.wS-nor {white-space: normal}
+.wS-now {white-space: nowrap}
+.wS-pl {white-space: pre-line}
+.wS-pw {white-space: pre-wrap}
