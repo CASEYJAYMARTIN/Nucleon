@@ -2,7 +2,8 @@
 .aC-c {align-content: center}
 .aC-fe {align-content: flex-end}
 .aC-fs {align-content: flex-start}
-.aC-i {align-content: inherit}
+.aC-inh {align-content: inherit}
+.aC-ini {align-content: initial}
 .aC-s {align-content: stretch}
 .aC-sa {align-content: space-around}
 .aC-sb {align-content: space-between}
@@ -12,7 +13,8 @@
 .aI-c {align-items: center}
 .aI-fe {align-items: flex-end}
 .aI-fs {align-items: flex-start}
-.aI-i {align-items: inherit}
+.aI-inh {align-items: inherit}
+.aI-ini {align-items: initial}
 .aI-s {align-items: stretch}
 
 /* Align Self */
@@ -21,7 +23,8 @@
 .aS-c {align-self: center}
 .aS-fe {align-self: flex-end}
 .aS-fs {align-self: flex-start}
-.aS-i {align-self: inherit}
+.aS-inh {align-self: inherit}
+.aS-ini {align-self: initial}
 .aS-s {align-self: stretch}
 
 /* All */
@@ -61,18 +64,22 @@
 .aTF-ei {animation-timing-function: ease-in}
 .aTF-eio {animation-timing-function: ease-in-out}
 .aTF-eo {animation-timing-function: ease-out}
+.aTF-inh {animation-timing-function: inherit}
+.aTF-ini {animation-timing-function: initial}
 .aTF-l {animation-timing-function: linear}
 .aTF-se {animation-timing-function: step-end}
 .aTF-ss {animation-timing-function: step-start}
 
 /* Backface Visibility */
 .bV-h {backface-visibility: hidden}
-.bV-i {backface-visibility: inherit}
+.bV-inh {backface-visibility: inherit}
+.bV-ini {backface-visibility: initial}
 .bV-v {backface-visibility: visibile}
 
 /* Background Attachment */
 .bgA-f {background-attachment: fixed}
-.bgA-i {background-attachment: inherit}
+.bgA-inh {background-attachment: inherit}
+.bgA-ini {background-attachment: initial}
 .bgA-l {background-attachment: local}
 .bgA-s {background-attachment: scroll}
 
@@ -100,20 +107,23 @@
 /* Background Clip */
 .bgC-bb {background-clip: border-box}
 .bgC-cb {background-clip: content-box}
-.bgC-pb {background-clip: padding-box}
 .bgC-inh {background-clip: inherit}
 .bgC-ini {background-clip: initial}
+.bgC-pb {background-clip: padding-box}
 
 /* Background Origin */
 .bgO-bb {background-origin: border-box}
 .bgO-cb {background-origin: content-box}
-.bgO-i {background-origin: inherit}
+.bgO-inh {background-origin: inherit}
+.bgO-ini {background-origin: initial}
 .bgO-pb {background-origin: padding-box}
 
 /* Background Position */
 .bgP-cb {background-position: center bottom}
 .bgP-cc {background-position: center center}
 .bgP-ct {background-position: center top}
+.bgP-inh {background-position: inherit}
+.bgP-ini {background-position: initial}
 .bgP-lb {background-position: left bottom}
 .bgP-lc {background-position: left center}
 .bgP-lt {background-position: left top}
@@ -122,7 +132,8 @@
 .bgP-rt {background-position: right top}
 
 /* Background Repeat */
-.bgR-i {background-repeat: inherit}
+.bgR-inh {background-repeat: inherit}
+.bgR-ini {background-repeat: initial}
 .bgR-nr {background-repeat: no-repeat}
 .bgR-r {background-repeat: repeat}
 .bgr-rx {background-repeat: repeat-x}
@@ -131,7 +142,8 @@
 /* Background Size */
 .bgS-a {background-size: auto}
 .bgS-c {background-size: cover}
-.bgS-i {background-size: inherit}
+.bgS-inh {background-size: inherit}
+.bgS-ini {background-size: initial}
 
 /* Border */
 .b-0 {border: 0}
@@ -140,6 +152,8 @@
 .bS-d {border-style: double}
 .bS-g {border-style: groove}
 .bS-h {border-style: hidden}
+.bS-inh {border-style: inherit}
+.bS-ini {border-style: initial}
 .bS-i {border-style: inset}
 .bS-n {border-style: none}
 .bS-o {border-style: outset}
@@ -172,6 +186,8 @@
 /* Display */
 .d-b {display: block}
 .d-f {display: flex}
+.d-inh {display: inherit}
+.d-ini {display: initial}
 .d-i {display: inline}
 .d-ib {display: inline-block}
 .d-n {display: none}
@@ -183,7 +199,8 @@
 /* Flex Direction */
 .fD-c {flex-direction: column}
 .fD-cr {flex-direction: column-reverse}
-.fD-i {flex-direction: inherit}
+.fD-inh {flex-direction: inherit}
+.fF-ini {flex-direction: initial}
 .fD-r {flex-direction: row}
 .fD-rr {flex-direction: row-reverse}
 
@@ -195,11 +212,15 @@
 .fW-wr {flex-wrap: wrap-reverse}
 
 /* Float */
+.f-inh {float: inherit}
+.f-ini {float: initial}
 .f-l {float: left}
 .f-n {float: none}
 .f-r {float: right}
 
 /* Font Style */
+.fS-inh {font-style: inherit}
+.fS-ini {font-style: initial}
 .fS-i {font-style: italic}
 .fS-n {font-style: normal}
 .fS-o {font-style: oblique}
@@ -209,23 +230,32 @@
 .fS-e {font-stretch: expanded}
 .fS-ec {font-stretch: extra-condensed}
 .fS-ee {font-stretch: extra-expanded}
+.fS-inh {font-stretch: inherit}
+.fS-ini {font-stretch: initial}
 .fS-sc {font-stretch: semi-condensed}
 .fS-se {font-stretch: semi-expanded}
 .fS-uc {font-stretch: ultra-condensed}
 .fS-ue {font-stretch: ultra-expanded}
 
 /* Font Variant */
+.fV-inh {font-variant: inherit}
+.fV-ini {font-variant: initlal}
 .fV-n {font-variant: normal}
 .fV-s {font-variant: small-caps}
 
 /* Font Weight */
-.fW-b {font-weight: bolder}
-.fW-l {font-weight: lighter}
+.fW-b {font-weight: bold}
+.fW-br {font-weight: bolder}
+.fW-inh {font-weight: inherit}
+.fW-ini {font-weight: initial}
+.fW-l {font-weight: light}
+.fW-lr {font-weight: lighter}
 .fW-n {font-weight: normal}
 
 /* Hyphens */
 .h-a {hyphens: auto}
-.h-i {hyphens: inherit}
+.h-inh {hyphens: inherit}
+.h-ini {hyphens: initial}
 .h-m {hyphens: manual}
 .h-n {hyphens: none}
 
@@ -238,12 +268,14 @@
 .iO-270f {image-orientation: 270deg flip}
 .iO-f {image-orientation: flip}
 .iO-fi {image-orientation: from-image}
-.iO-i {image-orientation: inherit}
+.iO-inh {image-orientation: inherit}
+.iO-ini {image-orientation: initial}
 
 /* Image Rendering */
 .iR-a {image-rendering: auto}
 .iR-ce {image-rendering: crisp-edges}
-.iR-i {image-rendering: inherit}
+.iR-inh {image-rendering: inherit}
+.iR-ini {image-rendering: initial}
 .iR-p {image-rendering: pixelated}
 
 /* Isolation */
@@ -257,7 +289,8 @@
 .jC-c {justify-content: center}
 .jC-fe {justify-content: flex-end}
 .jC-fs {justify-content: flex-start}
-.jC-i {justify-content: inherit}
+.jC-inh {justify-content: inherit}
+.jC-ini {justify-content: initial}
 .jC-sa {justify-content: space-around}
 .jC-sb {justify-content: space-between}
 
@@ -296,6 +329,8 @@
 .m-0 {margin: 0}
 .m-0a {margin: 0 auto}
 .m-a {margin: auto}
+.m-inh {margin: inherit}
+.m-ini {margin: initial}
 
 /* Mix Blend Mode */
 .mBM-c {mix-blend-mode: color}
@@ -321,6 +356,8 @@
 /* Object Fit */
 .oF-c {object-fit: cover}
 .oF-f {object-fit: fill}
+.oF-inh {object-fit: inherit}
+.oF-ini {object-fit: initial}
 .oF-n {object-fit: none}
 .oF-sd {object-fit: scale-down}
 
@@ -328,6 +365,8 @@
 .oP-cb {object-position: center bottom}
 .oP-cc {object-position: center center}
 .oP-ct {object-position: center top}
+.oP-inh {object-position: inherit}
+.oP-ini {object-position: initial}
 .oP-lb {object-position: left bottom}
 .oP-lc {object-position: left center}
 .oP-lt {object-position: left top}
@@ -342,12 +381,15 @@
 /* Overflow */
 .o-a {overflow: auto}
 .o-h {overflow: hidden}
+.o-inh {overflow: inherit}
+.o-ini {overflow: initial}
 .o-s {overflow: scroll}
 .o-v {overflow: visible}
 
 /* Overflow Wrap */
 .oW-bw {word-wrap: break-word; overflow-wrap: break-word}
-.oW-i {word-wrap: inherit; overflow-wrap: inherit}
+.oW-inh {word-wrap: inherit; overflow-wrap: inherit}
+.oW-ini {word-wrap: initial; overflow-wrap: initial}
 .oW-n {word-wrap: normal; overflow-wrap: normal}
 
 /* Padding */
@@ -355,29 +397,37 @@
 
 /* Pointer Events */
 .pE-a {pointer-events: auto}
-.pE-i {pointer-events: inherit}
+.pE-inh {pointer-events: inherit}
+.pE-ini {pointer-events: initial}
 .pE-n {pointer-events: none}
 
 /* Position */
 .p-a {position: absolute}
 .p-f {position: fixed}
+.p-inh {position: inherit}
+.p-ini {position: initial}
 .p-r {position: relative}
 .p-s {position: static}
 
 /* Resize */
 .r-b {resize: both}
 .r-h {resize: horizontal}
-.r-i {resize: inherit}
+.r-inh {resize: inherit}
+.r-ini {resize: initial}
 .r-n {resize: none}
 .r-v {resize: vertical}
 
 /* Text Align */
 .tA-c {text-align: center}
 .tA-j {text-align: justify}
+.tA-inh {text-align: inherit}
+.tA-ini {text-align: initial}
 .tA-l {text-align: left}
 .tA-r {text-align: right}
 
 /* Text Decoration */
+.tD-inh {text-decoration: inherit}
+.tD-ini {text-decoration: initial}
 .tD-l {text-decoration: line-through}
 .tD-n {text-decoration: none}
 .tD-o {text-decoration: overline}
@@ -386,28 +436,35 @@
 /* Text Overflow */
 .tO-c {text-overflow: clip}
 .tO-e {text-overflow: ellipsis}
-.tO-i {text-overflow: inherit}
+.tO-inh {text-overflow: inherit}
+.tO-ini {text-overflow: initial}
 
 /* Text Rendering */
 .tR-a {text-rendering: auto}
 .tR-gP {text-rendering: geometricPrecision}
-.tR-i {text-rendering: inherit}
+.tR-inh {text-rendering: inherit}
+.tR-ini {text-rendering: initial}
 .tR-oL {text-rendering: optimizeLegibility}
 .tR-oS {text-rendering: optimizeSpeed}
 
 /* Text Transform */
 .tT-c {text-transform: capitalize}
+.tT-inh {text-transform: inherit}
+.tT-ini {text-transform: initial}
 .tT-l {text-transform: lowercase}
 .tT-n {text-transform: none}
 .tT-u {text-transform: uppercase}
 
 /* Text Underline Position */
 .tUP-a {text-underline-position: auto}
-.tUP-i {text-underline-position: inherit}
+.tUP-inh {text-underline-position: inherit}
+.tUP-ini {text-underline-position: initial}
 .tUP-u {text-underline-position: under}
 
 /* Touch Action */
 .tA-a {touch-action: auto}
+.tA-inh {touch-action: inherit}
+.tA-ini {touch-action: initial}
 .tA-m {touch-action: manipulation}
 .tA-n {touch-action: none}
 .tA-px {touch-action: pan-x}
@@ -417,6 +474,8 @@
 .tO-cb {transform-origin: center bottom}
 .tO-cc {transform-origin: center center}
 .tO-ct {transform-origin: center top}
+.tO-inh {transform-origin: inherit}
+.tO-ini {transform-origin: initial}
 .tO-lb {transform-origin: left bottom}
 .tO-lc {transform-origin: left center}
 .tO-lt {transform-origin: left top}
@@ -426,7 +485,8 @@
 
 /* Transform Style */
 .tS-f {transform-style: flat}
-.tS-i {transform-style: inherit}
+.tS-inh {transform-style: inherit}
+.tS-ini {transform-style: initial}
 .tS-p3d {transform-style: preserve-3d}
 
 /* Transition Timing Function */
@@ -434,7 +494,8 @@
 .tTF-ei {transition-timing-function: ease-in}
 .tTF-eio {transition-timing-function: ease-in-out}
 .tTF-eo {transition-timing-function: ease-out}
-.tTF-i {transition-timing-function: inherit}
+.tTF-inh {transition-timing-function: inherit}
+.tTF-ini {transition-timing-function: initial}
 .tTF-l {transition-timing-function: linear}
 .tTF-se {transition-timing-function: step-end}
 .tTF-ss {transition-timing-function: step-start}
@@ -442,7 +503,8 @@
 /* Vertical Align */
 .vA-b {vertical-align: bottom}
 .vA-bl {vertical-align: baseline}
-.vA-i {vertical-align: inherit}
+.vA-inh {vertical-align: inherit}
+.vA-ini {vertical-align: initial}
 .vA-m {vertical-align: middle}
 .vA-sub {vertical-align: sub}
 .vA-sup {vertical-align: super}
