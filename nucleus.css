@@ -198,6 +198,9 @@
   -webkit-filer: grayscale(1);
   filter: grayscale(1);
 }
+.f-inh {filter: inherit}
+.f-ini {filter: initial}
+.f-n {filter: none}
 .f-s {
   filter: url(nucleus.svg#sepia);
   -webkit-filter: sepia(1);
