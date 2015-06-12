@@ -193,8 +193,16 @@
 .d-n {display: none}
 
 /* Filter */
-.f-g {filter: grayscale(1)}
-.f-s {filter: septia(1)}
+.f-g {
+  filter: url(nucleus.svg#grayscale);
+  -webkit-filer: grayscale(1);
+  filter: grayscale(1);
+}
+.f-s {
+  filter: url(nucleus.svg#sepia);
+  -webkit-filter: sepia(1);
+  filter: sepia(1);
+}
 
 /* Flex Direction */
 .fD-c {flex-direction: column}
