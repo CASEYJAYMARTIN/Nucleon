@@ -195,6 +195,12 @@
 .colS-ini {column-span: initial}
 .colS-n {column-span: none}
 
+/* Direction */
+.dir-inh {direction: inherit}
+.dir-ini {direction: initial}
+.dir-ltr {direction: ltr}
+.dir-rtl {direction: rtl}
+
 /* Display */
 .d-b {display: block}
 .d-f {display: flex}
