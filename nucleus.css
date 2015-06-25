@@ -170,6 +170,12 @@
 .bS-bb {box-sizing: border-box}
 .bS-cb {box-sizing: content-box}
 
+/* Caption Side */
+.capS-b {caption-side: bottom}
+.capS-inh {caption-side: inherit}
+.capS-ini {caption-side: initial}
+.capS-t {caption-side: top}
+
 /* Clear */
 .c-b {clear: both}
 .c-l {clear: left}
@@ -184,10 +190,10 @@
 .cF-u {column-fill: unset}
 
 /* Column Span */
-.cS-a {column-span: all}
-.cS-inh {column-span: inherit}
-.cS-ini {column-span: initial}
-.cS-n {column-span: none}
+.colS-a {column-span: all}
+.colS-inh {column-span: inherit}
+.colS-ini {column-span: initial}
+.colS-n {column-span: none}
 
 /* Display */
 .d-b {display: block}
