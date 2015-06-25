@@ -446,6 +446,12 @@
 .r-n {resize: none}
 .r-v {resize: vertical}
 
+/* Table Layout */
+.tL-a {table-layout: auto}
+.tL-f {table-layout: fixed}
+.tL-inh {table-layout: inherit}
+.tL-ini {table-layout: initial}
+
 /* Text Align */
 .tA-c {text-align: center}
 .tA-j {text-align: justify}
