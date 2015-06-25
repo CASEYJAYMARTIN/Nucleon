@@ -204,6 +204,12 @@
 .d-ib {display: inline-block}
 .d-n {display: none}
 
+/* Empty Cells */
+.eC-h {empty-cells: hide}
+.eC-inh {empty-cells: inh}
+.eC-ini {empty-cells: ini}
+.eC-s {empty-cells: show}
+
 /* Filter */
 .f-g {
   filter: url(nucleus.svg#grayscale);
