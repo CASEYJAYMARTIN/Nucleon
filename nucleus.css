@@ -148,6 +148,12 @@
 /* Border */
 .b-0 {border: 0}
 
+/* Border Collapse */
+.bC-c {border-collapse: collapse}
+.bC-inh {border-collapse: inherit}
+.bC-ini {border-collapse: initial}
+.bC-s {border-collapse: separate}
+
 /* Border Style */
 .bS-d {border-style: double}
 .bS-g {border-style: groove}
