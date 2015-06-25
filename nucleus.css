@@ -541,6 +541,13 @@
 .tTF-se {transition-timing-function: step-end}
 .tTF-ss {transition-timing-function: step-start}
 
+/* Unicode Bidi */
+.uB-bo {unicode-bidi: bidi-override}
+.uB-e {unicode-bidi: embed}
+.uB-inh {unicode-bidi: inherit}
+.uB-ini {unicode-bidi: initial}
+.uB-n {unicode-bidi: normal}
+
 /* Vertical Align */
 .vA-b {vertical-align: bottom}
 .vA-bl {vertical-align: baseline}
