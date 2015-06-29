@@ -452,6 +452,13 @@
 .r-n {resize: none}
 .r-v {resize: vertical}
 
+/* Stroke Linejoin */
+.sLJ-b {stroke-linejoin: bevel}
+.sLJ-inh {stroke-linejoin: inherit}
+.sLJ-ini {stroke-linejoin: initial}
+.sLJ-m {stroke-linejoin: miter}
+.sLJ-r {stroke-linejoin: round}
+
 /* Table Layout */
 .tL-a {table-layout: auto}
 .tL-f {table-layout: fixed}
