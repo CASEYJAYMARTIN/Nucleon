@@ -452,6 +452,13 @@
 .r-n {resize: none}
 .r-v {resize: vertical}
 
+/* Stroke Linecap */
+.sLC-b {stroke-linecap: butt}
+.sLC-inh {stroke-linecap: inherit}
+.sLC-ini {stroke-linecap: initial}
+.sLC-r {stroke-linecap: round}
+.sLC-s {stroke-linecap: square}
+
 /* Stroke Linejoin */
 .sLJ-b {stroke-linejoin: bevel}
 .sLJ-inh {stroke-linejoin: inherit}
