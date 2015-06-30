@@ -231,6 +231,12 @@
   filter: sepia(1);
 }
 
+/* Fill Rule */
+.fR-e {fill-rule: evenodd}
+.fR-ini {fill-rule: initial}
+.fR-inh {fill-rule: inherit}
+.fR-n {fill-rule: nonzero}
+
 /* Flex Direction */
 .fD-c {flex-direction: column}
 .fD-cr {flex-direction: column-reverse}
