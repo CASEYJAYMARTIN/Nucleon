@@ -190,6 +190,13 @@
 .c-n {clear: none}
 .c-r {clear: right}
 
+/* Color Interpolation */
+.cI-a {color-interpolation: auto}
+.cI-inh {color-interpolation: inherit}
+.cI-ini {color-interpolation: initial}
+.cI-l {color-interpolation: linearRGB}
+.cI-s {color-interpolation: sRGB}
+
 /* Column Fill */
 .cF-a {column-fill: auto}
 .cF-b {column-fill: balance}
