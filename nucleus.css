@@ -145,6 +145,14 @@
 .bgS-inh {background-size: inherit}
 .bgS-ini {background-size: initial}
 
+/* Baseline Shift */
+.blS-a {baseline-shift: auto}
+.blS-b {baseline-shift: baseline}
+.blS-inh {baseline-shift: inherit}
+.blS-ini {baseline-shift: initial}
+.blS-sub {baseline-shift: sub}
+.blS-sup {baseline-shift: super}
+
 /* Border */
 .b-0 {border: 0}
 
@@ -216,6 +224,12 @@
 .eC-ini {empty-cells: ini}
 .eC-s {empty-cells: show}
 
+/* Fill Rule */
+.fR-e {fill-rule: evenodd}
+.fR-ini {fill-rule: initial}
+.fR-inh {fill-rule: inherit}
+.fR-n {fill-rule: nonzero}
+
 /* Filter */
 .f-g {
   filter: url(nucleus.svg#grayscale);
@@ -230,12 +244,6 @@
   -webkit-filter: sepia(1);
   filter: sepia(1);
 }
-
-/* Fill Rule */
-.fR-e {fill-rule: evenodd}
-.fR-ini {fill-rule: initial}
-.fR-inh {fill-rule: inherit}
-.fR-n {fill-rule: nonzero}
 
 /* Flex Direction */
 .fD-c {flex-direction: column}
