@@ -27,6 +27,22 @@
 .aS-ini {align-self: initial}
 .aS-s {align-self: stretch}
 
+/* Alignment Baseline */
+.aB-a {alignment-baseline: auto}
+.aB-ae {alignment-baseline: after-edge}
+.aB-al {alignment-baseline: alphabetic}
+.aB-b {alignment-baseline: baseline}
+.aB-be {alignment-baseline: before-edge}
+.aB-c {alignment-baseline: central}
+.aB-h {alignment-baseline: hanging}
+.aB-i {alignment-baseline: ideographic}
+.aB-inh {alignment-baseline: inherit}
+.aB-ini {alignment-baseline: initial}
+.aB-m {alignment-baseline: mathematical}
+.aB-mid {alignment-baseline: middle}
+.aB-tae {alignment-baseline: text-after-edge}
+.aB-tbe {alignment-baseline: text-before-edge}
+
 /* All */
 .a-inh {all: inherit}
 .a-ini {all: initial}
