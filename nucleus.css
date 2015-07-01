@@ -213,6 +213,13 @@
 .cI-l {color-interpolation: linearRGB}
 .cI-s {color-interpolation: sRGB}
 
+/* Color Interpolation Filters */
+.cIF-a {color-interpolation-filters: auto}
+.cIF-inh {color-interpolation-filters: inherit}
+.cIF-ini {color-interpolation-filters: initial}
+.cIF-l {color-interpolation-filters: linearRGB}
+.cIF-s {color-interpolation-filters: sRGB}
+
 /* Column Fill */
 .cF-a {column-fill: auto}
 .cF-b {column-fill: balance}
