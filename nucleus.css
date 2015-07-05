@@ -44,9 +44,9 @@
 .aB-tbe {alignment-baseline: text-before-edge}
 
 /* All */
-.a-inh {all: inherit}
-.a-ini {all: initial}
-.a-u {all: unset}
+.all-inh {all: inherit}
+.all-ini {all: initial}
+.all-u {all: unset}
 
 /* Animation Direction */
 .aD-a {animation-direction: alternate}
@@ -193,6 +193,22 @@
 /* Box Sizing */
 .bS-bb {box-sizing: border-box}
 .bS-cb {box-sizing: content-box}
+
+/* Border Top Style */
+.bTS-das {border-top-style: dashed}
+.bTS-dou {border-top-style: double}
+.bTS-dot {border-top-style: dotted}
+.bTS-g {border-top-style: groove}
+.bTS-h {border-top-style: hidden}
+.bTS-inh {border-top-style: inherit}
+.bTS-ini {border-top-style: initial}
+.bTS-ins {border-top-style: inset}
+.bTS-i {border-top-style: inset}
+.bTS-n {border-top-style: none}
+.bTS-o {border-top-style: outset}
+.bTS-r {border-top-style: ridge}
+.bTS-s {border-top-style: solid}
+.bTS-wi {border-top-style: window-inset}
 
 /* Caption Side */
 .capS-b {caption-side: bottom}
