@@ -596,6 +596,13 @@
 .tA-l {text-align: left}
 .tA-r {text-align: right}
 
+/* Text Anchor */
+.tAn-e {text-anchor: end}
+.tAn-inh {text-anchor: inherit}
+.tAn-ini {text-anchor: initial}
+.tAn-s {text-anchor: start}
+.tAn-m {text-anchor: middle}
+
 /* Text Decoration */
 .tD-inh {text-decoration: inherit}
 .tD-ini {text-decoration: initial}
