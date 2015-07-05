@@ -178,6 +178,22 @@
 .bC-ini {border-collapse: initial}
 .bC-s {border-collapse: separate}
 
+/* Border Left Style */
+.bLS-das {border-left-style: dashed}
+.bLS-dou {border-left-style: double}
+.bLS-dot {border-left-style: dotted}
+.bLS-g {border-left-style: groove}
+.bLS-h {border-left-style: hidden}
+.bLS-inh {border-left-style: inherit}
+.bLS-ini {border-left-style: initial}
+.bLS-ins {border-left-style: inset}
+.bLS-i {border-left-style: inset}
+.bLS-n {border-left-style: none}
+.bLS-o {border-left-style: outset}
+.bLS-r {border-left-style: ridge}
+.bLS-s {border-left-style: solid}
+.bLS-wi {border-left-style: window-inset}
+
 /* Border Style */
 .bS-d {border-style: double}
 .bS-g {border-style: groove}
