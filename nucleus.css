@@ -417,9 +417,11 @@
 .h-n {hyphens: none}
 
 /* Image Orientation */
+.iO-0 {image-orientation: 0deg}
 .iO-90 {image-orientation: 90deg}
 .iO-180 {image-orientation: 180deg}
 .iO-270 {image-orientation: 270deg}
+.iO-0f {image-orientation: 0deg flip}
 .iO-90f {image-orientation: 90deg flip}
 .iO-180f {image-orientation: 180deg flip}
 .iO-270f {image-orientation: 270deg flip}
