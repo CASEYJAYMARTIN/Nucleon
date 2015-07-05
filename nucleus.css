@@ -194,6 +194,22 @@
 .bLS-s {border-left-style: solid}
 .bLS-wi {border-left-style: window-inset}
 
+/* Border Right Style */
+.bRS-das {border-right-style: dashed}
+.bRS-dou {border-right-style: double}
+.bRS-dot {border-right-style: dotted}
+.bRS-g {border-right-style: groove}
+.bRS-h {border-right-style: hidden}
+.bRS-inh {border-right-style: inherit}
+.bRS-ini {border-right-style: initial}
+.bRS-ins {border-right-style: inset}
+.bRS-i {border-right-style: inset}
+.bRS-n {border-right-style: none}
+.bRS-o {border-right-style: outset}
+.bRS-r {border-right-style: ridge}
+.bRS-s {border-right-style: solid}
+.bRS-wi {border-right-style: window-inset}
+
 /* Border Style */
 .bS-d {border-style: double}
 .bS-g {border-style: groove}
