@@ -711,3 +711,13 @@
 .wS-now {white-space: nowrap}
 .wS-pl {white-space: pre-line}
 .wS-pw {white-space: pre-wrap}
+
+/* Writing Mode */
+.wM-inh {writing-mode: inherit}
+.wM-ini {writing-mode: initial}
+.wM-lr {writing-mode: lr}
+.wM-lrtb {writing-mode: lr-tb}
+.wM-rl {writing-mode: rl}
+.wM-rltb {writing-mode: rl-tb}
+.wM-tb {writing-mode: tb}
+.wM-tbrl {writing-mode: tb-rl}
