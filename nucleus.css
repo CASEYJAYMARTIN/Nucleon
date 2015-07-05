@@ -312,6 +312,12 @@
 .dB-tbe {dominant-baseline: text-before-edge}
 .dB-us {dominant-baseline: use-script}
 
+/* Enable Background */
+.eB-a {enable-background: accumulate}
+.eB-inh {enable-background: inherit}
+.eB-ini {enable-background: initial}
+.eB-n {enable-background: new}
+
 /* Empty Cells */
 .eC-h {empty-cells: hide}
 .eC-inh {empty-cells: inh}
