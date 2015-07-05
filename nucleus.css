@@ -172,6 +172,22 @@
 /* Border */
 .b-0 {border: 0}
 
+/* Border Bottom Style */
+.bBS-das {border-bottom-style: dashed}
+.bBS-dou {border-bottom-style: double}
+.bBS-dot {border-bottom-style: dotted}
+.bBS-g {border-bottom-style: groove}
+.bBS-h {border-bottom-style: hidden}
+.bBS-inh {border-bottom-style: inherit}
+.bBS-ini {border-bottom-style: initial}
+.bBS-ins {border-bottom-style: inset}
+.bBS-i {border-bottom-style: inset}
+.bBS-n {border-bottom-style: none}
+.bBS-o {border-bottom-style: outset}
+.bBS-r {border-bottom-style: ridge}
+.bBS-s {border-bottom-style: solid}
+.bBS-wi {border-bottom-style: window-inset}
+
 /* Border Collapse */
 .bC-c {border-collapse: collapse}
 .bC-inh {border-collapse: inherit}
