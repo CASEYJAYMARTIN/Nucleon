@@ -409,6 +409,15 @@
 .gOH-inh {glyph-orientation-horizontal: inherit}
 .gOH-ini {glyph-orientation-horizontal: initial}
 
+/* Glyph Orientation Vertical */
+.gOV-0 {glyph-orientation-vertical: 0deg}
+.gOV-90 {glyph-orientation-vertical: 90deg}
+.gOV-180 {glyph-orientation-vertical: 180deg}
+.gOV-270 {glyph-orientation-vertical: 270deg}
+.gOV-a {glyph-orientation-vertical: auto}
+.gOV-inh {glyph-orientation-vertical: inherit}
+.gOV-ini {glyph-orientation-vertical: initial}
+
 /* Hyphens */
 .h-a {hyphens: auto}
 .h-inh {hyphens: inherit}
