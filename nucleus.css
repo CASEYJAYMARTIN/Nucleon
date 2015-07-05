@@ -401,6 +401,14 @@
 .fW-lr {font-weight: lighter}
 .fW-n {font-weight: normal}
 
+/* Glyph Orientation Horizontal */
+.gOH-0 {glyph-orientation-horizontal: 0deg}
+.gOH-90 {glyph-orientation-horizontal: 90deg}
+.gOH-180 {glyph-orientation-horizontal: 180deg}
+.gOH-270 {glyph-orientation-horizontal: 270deg}
+.gOH-inh {glyph-orientation-horizontal: inherit}
+.gOH-ini {glyph-orientation-horizontal: initial}
+
 /* Hyphens */
 .h-a {hyphens: auto}
 .h-inh {hyphens: inherit}
