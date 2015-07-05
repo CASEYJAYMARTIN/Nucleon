@@ -560,6 +560,14 @@
 .r-n {resize: none}
 .r-v {resize: vertical}
 
+/* Shape Rendering */
+.sR-a {shape-rendering: auto}
+.sR-cE {shape-rendering: crispEdges}
+.sR-gP {shape-rendering: geometricPrecision}
+.sR-inh {shape-rendering: inherit}
+.sR-ini {shape-rendering: initial}
+.sR-oS {shape-rendering: optimizeSpeed}
+
 /* Stroke Linecap */
 .sLC-b {stroke-linecap: butt}
 .sLC-inh {stroke-linecap: inherit}
