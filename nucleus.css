@@ -698,7 +698,10 @@
 .vA-tt {vertical-align: text-top}
 
 /* Visibility */
+.v-c {visibility: collapse}
 .v-h {visibility: hidden}
+.v-inh {visibility: inherit}
+.v-ini {visibility: initial}
 .v-v {visibility: visible}
 
 /* White Space */
