@@ -258,6 +258,19 @@
 .bTS-s {border-top-style: solid}
 .bTS-wi {border-top-style: window-inset}
 
+/* Break After */
+.bA-au {break-after: auto}
+.bA-al {break-after: always}
+.bA-av {break-after: avoid}
+.bA-ac {break-after: avoid-column}
+.bA-ap {break-after: avoid-page}
+.bA-c {break-after: column}
+.bA-inh {break-after: inherit}
+.bA-ini {break-after: initial}
+.bA-l {break-after: left}
+.bA-p {break-after: page}
+.bA-r {break-after: right}
+
 /* Caption Side */
 .capS-b {caption-side: bottom}
 .capS-inh {caption-side: inherit}
