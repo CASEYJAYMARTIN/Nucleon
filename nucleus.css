@@ -154,6 +154,13 @@
 .bgPX-l {background-position-x: left}
 .bgPX-r {background-position-x: right}
 
+/* Background Position Y */
+.bgPY-b {background-position-y: bottom}
+.bgPY-c {background-position-y: center}
+.bgPY-inh {background-position-y: inherit}
+.bgPY-ini {background-position-y: initial}
+.bgPY-t {background-position-y: top}
+
 /* Background Repeat */
 .bgR-inh {background-repeat: inherit}
 .bgR-ini {background-repeat: initial}
