@@ -837,3 +837,9 @@
 .wM-rltb {writing-mode: rl-tb}
 .wM-tb {writing-mode: tb}
 .wM-tbrl {writing-mode: tb-rl}
+
+/* Zoom */
+.z-a {zoom: auto}
+.z-inh {zoom: inherit}
+.z-ini {zoom: initial}
+.z-n {zoom: normal}
