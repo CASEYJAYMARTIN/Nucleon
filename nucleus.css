@@ -291,12 +291,16 @@
 .bB-av {break-before: avoid}
 .bB-ac {break-before: avoid-column}
 .bB-ap {break-before: avoid-page}
+.bB-ar {break-before: avoid-region}
 .bB-c {break-before: column}
 .bB-inh {break-before: inherit}
 .bB-ini {break-before: initial}
 .bB-l {break-before: left}
 .bB-p {break-before: page}
-.bB-r {break-before: right}
+.bB-rec {break-before: recto}
+.bB-reg {break-before: region}
+.bB-rig {break-before: right}
+.bB-v {break-before: verso}
 
 /* Break Inside */
 .bI-au {break-inside: auto}
