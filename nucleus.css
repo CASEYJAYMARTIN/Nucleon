@@ -319,6 +319,8 @@
 .capS-b {caption-side: bottom}
 .capS-inh {caption-side: inherit}
 .capS-ini {caption-side: initial}
+.capS-l {caption-side: left}
+.capS-r {caption-side: right}
 .capS-t {caption-side: top}
 
 /* Clear */
