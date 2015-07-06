@@ -468,6 +468,12 @@
   filter: sepia(1);
 }
 
+/* Flex Basis */
+.fB-a {flex-basis: auto}
+.fB-c {flex-basis: content}
+.fB-inh {flex-basis: inherit}
+.fB-ini {flex-basis: initial}
+
 /* Flex Direction */
 .fD-c {flex-direction: column}
 .fD-cr {flex-direction: column-reverse}
