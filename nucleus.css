@@ -684,6 +684,20 @@
 .o-0 {opacity: 0}
 .o-1 {opacity: 1}
 
+/* Outline Style */
+.oS-das {outline-style: dashed}
+.oS-dot {outline-style: dotted}
+.oS-dou {outline-style: double}
+.oS-g {outline-style: groove}
+.oS-inh {outline-style: inherit}
+.oS-ini {outline-style: initial}
+.oS-i {outline-style: inset}
+.oS-n {outline-style: none}
+.oS-o {outline-style: outset}
+.oS-r {outline-style: ridge}
+.oS-s {outline-style: solid}
+.oS-wi {outline-style: window-inset}
+
 /* Overflow */
 .o-a {overflow: auto}
 .o-h {overflow: hidden}
