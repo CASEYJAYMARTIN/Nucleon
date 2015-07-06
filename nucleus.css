@@ -285,6 +285,19 @@
 .bA-p {break-after: page}
 .bA-r {break-after: right}
 
+/* Break Before */
+.bB-au {break-before: auto}
+.bB-al {break-before: always}
+.bB-av {break-before: avoid}
+.bB-ac {break-before: avoid-column}
+.bB-ap {break-before: avoid-page}
+.bB-c {break-before: column}
+.bB-inh {break-before: inherit}
+.bB-ini {break-before: initial}
+.bB-l {break-before: left}
+.bB-p {break-before: page}
+.bB-r {break-before: right}
+
 /* Caption Side */
 .capS-b {caption-side: bottom}
 .capS-inh {caption-side: inherit}
