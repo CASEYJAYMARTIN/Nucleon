@@ -278,12 +278,16 @@
 .bA-av {break-after: avoid}
 .bA-ac {break-after: avoid-column}
 .bA-ap {break-after: avoid-page}
+.bA-ar {break-after: avoid-region}
 .bA-c {break-after: column}
 .bA-inh {break-after: inherit}
 .bA-ini {break-after: initial}
 .bA-l {break-after: left}
 .bA-p {break-after: page}
-.bA-r {break-after: right}
+.bA-rec {break-after: recto}
+.bA-reg {break-after: region}
+.bA-rig {break-after: right}
+.bA-v {break-after: verso}
 
 /* Break Before */
 .bB-au {break-before: auto}
