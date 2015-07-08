@@ -746,6 +746,14 @@
 .rA-s {ruby-align: start}
 .rA-u {ruby-align: unset}
 
+/* Ruby Position */
+.rP-inh {ruby-position: inherit}
+.rP-ini {ruby-position: initial}
+.rP-ic {ruby-position: inter-character}
+.rP-o {ruby-position: over}
+.rP-und {ruby-position: under}
+.rP-uns {ruby-position: unset}
+
 /* Shape Rendering */
 .sR-a {shape-rendering: auto}
 .sR-cE {shape-rendering: crispEdges}
