@@ -638,6 +638,12 @@
 .m-inh {margin: inherit}
 .m-ini {margin: initial}
 
+/* Margin Block Start */
+.mBS-a {margin-block-start: auto}
+.mBS-inh {margin-block-start: inh}
+.mBS-ini {margin-block-start: initial}
+.mBS-u {margin-block-start: unset}
+
 /* Mix Blend Mode */
 .mBM-c {mix-blend-mode: color}
 .mBM-cb {mix-blend-mode: color-burn}
