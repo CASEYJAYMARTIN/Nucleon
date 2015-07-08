@@ -650,6 +650,15 @@
 .mBS-ini {margin-block-start: initial}
 .mBS-u {margin-block-start: unset}
 
+/* Min Inline Size */
+.mIS-fa {min-inline-size: fill-available}
+.mIS-fc {min-inline-size: fit-content}
+.mIS-inh {min-inline-size: inherit}
+.mIS-ini {min-inline-size: initial}
+.mIS-maxc {min-inline-size: max-content}
+.mIS-minc {min-inline-size: min-content}
+.mIS-u {min-inline-size: unset}
+
 /* Mix Blend Mode */
 .mBM-c {mix-blend-mode: color}
 .mBM-cb {mix-blend-mode: color-burn}
