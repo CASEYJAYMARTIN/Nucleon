@@ -737,6 +737,15 @@
 .r-n {resize: none}
 .r-v {resize: vertical}
 
+/* Ruby Align */
+.rA-c {ruby-align: center}
+.rA-inh {ruby-align: inherit}
+.rA-ini {ruby-align: initial}
+.rA-sa {ruby-align: space-around}
+.rA-sb {ruby-align: space-between}
+.rA-s {ruby-align: start}
+.rA-u {ruby-align: unset}
+
 /* Shape Rendering */
 .sR-a {shape-rendering: auto}
 .sR-cE {shape-rendering: crispEdges}
