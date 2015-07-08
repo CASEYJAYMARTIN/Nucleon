@@ -638,6 +638,12 @@
 .m-inh {margin: inherit}
 .m-ini {margin: initial}
 
+/* Margin Block End */
+.mBE-a {margin-block-end: auto}
+.mBE-inh {margin-block-end: inh}
+.mBE-ini {margin-block-end: initial}
+.mBE-u {margin-block-end: unset}
+
 /* Margin Block Start */
 .mBS-a {margin-block-start: auto}
 .mBS-inh {margin-block-start: inh}
