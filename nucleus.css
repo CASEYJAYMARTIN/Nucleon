@@ -7,6 +7,7 @@
 .aC-s {align-content: stretch}
 .aC-sa {align-content: space-around}
 .aC-sb {align-content: space-between}
+.aC-uns {align-content: unset}
 
 /* Align Items */
 .aI-b {align-items: baseline}
@@ -16,6 +17,7 @@
 .aI-inh {align-items: inherit}
 .aI-ini {align-items: initial}
 .aI-s {align-items: stretch}
+.aI-uns {align-items: unset}
 
 /* Align Self */
 .aS-a {align-self: auto}
@@ -26,6 +28,7 @@
 .aS-inh {align-self: inherit}
 .aS-ini {align-self: initial}
 .aS-s {align-self: stretch}
+.aS-uns {align-self: unset}
 
 /* Alignment Baseline */
 .aB-a {alignment-baseline: auto}
@@ -42,6 +45,7 @@
 .aB-mid {alignment-baseline: middle}
 .aB-tae {alignment-baseline: text-after-edge}
 .aB-tbe {alignment-baseline: text-before-edge}
+.aB-uns {alignment-baseline: unset}
 
 /* All */
 .all-inh {all: inherit}
@@ -55,11 +59,13 @@
 .aD-ini {animation-direction: initial}
 .aD-n {animation-direction: normal}
 .aD-r {animation-direction: reverse}
+.aD-uns {animation-direction: unset}
 
 /* Animation Iteration Count */
 .aIC-i {animation-iteration-count: infinite}
 .aIC-inh {animation-iteration-count: inherit}
 .aIC-ini {animation-iteration-count: initial}
+.aIC-uns {animation-iteration: unset}
 
 /* Animation Fill Mode */
 .aFM-bw {animation-fill-mode: backwards}
@@ -68,12 +74,14 @@
 .aFM-inh {animation-fill-mode: inherit}
 .aFM-ini {animation-fill-mode: initial}
 .aFM-n {animation-fill-mode: none}
+.aFM-uns {animation-fill-mode: unset}
 
 /* Animation Play State */
 .aPS-inh {animation-play-state: inherit}
 .aPS-ini {animation-play-state: initial}
 .aPS-p {animation-play-state: paused}
 .aPS-r {animation-play-state: running}
+.aPS-uns {animation-play-state: unset}
 
 /* Animation Timing Function */
 .aTF-e {animation-timing-function: ease}
@@ -85,11 +93,13 @@
 .aTF-l {animation-timing-function: linear}
 .aTF-se {animation-timing-function: step-end}
 .aTF-ss {animation-timing-function: step-start}
+.aTF-uns {animation-timing-funciton: unset}
 
 /* Backface Visibility */
 .bV-h {backface-visibility: hidden}
 .bV-inh {backface-visibility: inherit}
 .bV-ini {backface-visibility: initial}
+.bV-uns {backface-visibility: unset}
 .bV-v {backface-visibility: visibile}
 
 /* Background Attachment */
@@ -98,6 +108,7 @@
 .bgA-ini {background-attachment: initial}
 .bgA-l {background-attachment: local}
 .bgA-s {background-attachment: scroll}
+.bgA-uns {background-attachment: unset}
 
 /* Background Blend Mode */
 .bgBM-c {background-blend-mode: color}
@@ -126,6 +137,7 @@
 .bgC-inh {background-clip: inherit}
 .bgC-ini {background-clip: initial}
 .bgC-pb {background-clip: padding-box}
+.gbC-uns {background-clip: unset}
 
 /* Background Origin */
 .bgO-bb {background-origin: border-box}
@@ -133,6 +145,7 @@
 .bgO-inh {background-origin: inherit}
 .bgO-ini {background-origin: initial}
 .bgO-pb {background-origin: padding-box}
+.bgO-uns {background-origin: unset}
 
 /* Background Position */
 .bgP-cb {background-position: center bottom}
@@ -146,6 +159,7 @@
 .bgP-rb {background-position: right bottom}
 .bgP-rc {background-position: right center}
 .bgP-rt {background-position: right top}
+.bgP-uns {background-position: unset}
 
 /* Background Position X */
 .bgPX-c {background-position-x: center }
@@ -153,6 +167,7 @@
 .bgPX-ini {background-position-x: initial}
 .bgPX-l {background-position-x: left}
 .bgPX-r {background-position-x: right}
+.bgPX-uns {background-position-x: unset}
 
 /* Background Position Y */
 .bgPY-b {background-position-y: bottom}
@@ -160,6 +175,7 @@
 .bgPY-inh {background-position-y: inherit}
 .bgPY-ini {background-position-y: initial}
 .bgPY-t {background-position-y: top}
+.bgPY-uns {background-position-y: unset}
 
 /* Background Repeat */
 .bgR-inh {background-repeat: inherit}
@@ -168,12 +184,14 @@
 .bgR-r {background-repeat: repeat}
 .bgr-rx {background-repeat: repeat-x}
 .bgR-ry {background-repeat: repeat-y}
+.bgR-uns {background-repeat: unset}
 
 /* Background Size */
 .bgS-a {background-size: auto}
 .bgS-c {background-size: cover}
 .bgS-inh {background-size: inherit}
 .bgS-ini {background-size: initial}
+.bgS-uns {background-size: unset}
 
 /* Baseline Shift */
 .blS-a {baseline-shift: auto}
@@ -182,6 +200,7 @@
 .blS-ini {baseline-shift: initial}
 .blS-sub {baseline-shift: sub}
 .blS-sup {baseline-shift: super}
+.blS-uns {baseline-shift: unset}
 
 /* Border */
 .b-0 {border: 0}
@@ -200,6 +219,7 @@
 .bBS-o {border-bottom-style: outset}
 .bBS-r {border-bottom-style: ridge}
 .bBS-s {border-bottom-style: solid}
+.bBS-uns {border-bottom-style: unset}
 .bBS-wi {border-bottom-style: window-inset}
 
 /* Border Collapse */
@@ -207,6 +227,7 @@
 .bC-inh {border-collapse: inherit}
 .bC-ini {border-collapse: initial}
 .bC-s {border-collapse: separate}
+.bC-uns {border-collapse: unset}
 
 /* Border Left Style */
 .bLS-das {border-left-style: dashed}
@@ -222,6 +243,7 @@
 .bLS-o {border-left-style: outset}
 .bLS-r {border-left-style: ridge}
 .bLS-s {border-left-style: solid}
+.bLS-uns {border-left-style: unset}
 .bLS-wi {border-left-style: window-inset}
 
 /* Border Right Style */
@@ -238,6 +260,7 @@
 .bRS-o {border-right-style: outset}
 .bRS-r {border-right-style: ridge}
 .bRS-s {border-right-style: solid}
+.bRS-uns {border-right-style: unset}
 .bRS-wi {border-right-style: window-inset}
 
 /* Border Style */
@@ -251,10 +274,14 @@
 .bS-o {border-style: outset}
 .bS-r {border-style: ridge}
 .bS-s {border-style: solid}
+.bS-uns {border-style: unset}
 
 /* Box Sizing */
 .bS-bb {box-sizing: border-box}
 .bS-cb {box-sizing: content-box}
+.bS-inh {box-sizing: inherit}
+.bS-ini {box-sizing: initial}
+.bS-uns {box-sizing: unset}
 
 /* Border Top Style */
 .bTS-das {border-top-style: dashed}
@@ -270,6 +297,7 @@
 .bTS-o {border-top-style: outset}
 .bTS-r {border-top-style: ridge}
 .bTS-s {border-top-style: solid}
+.bTS-uns {border-top-style: unset}
 .bTS-wi {border-top-style: window-inset}
 
 /* Break After */
@@ -287,6 +315,7 @@
 .bA-rec {break-after: recto}
 .bA-reg {break-after: region}
 .bA-rig {break-after: right}
+.bA-uns {break-after: unset}
 .bA-v {break-after: verso}
 
 /* Break Before */
@@ -304,6 +333,7 @@
 .bB-rec {break-before: recto}
 .bB-reg {break-before: region}
 .bB-rig {break-before: right}
+.bB-uns {break-before: unset}
 .bB-v {break-before: verso}
 
 /* Break Inside */
@@ -314,6 +344,7 @@
 .bI-ar {break-inside: avoid-region}
 .bI-inh {break-inside: inherit}
 .bI-ini {break-inside: initial}
+.bI-uns {break-inside: unset}
 
 /* Caption Side */
 .capS-b {caption-side: bottom}
@@ -322,12 +353,16 @@
 .capS-l {caption-side: left}
 .capS-r {caption-side: right}
 .capS-t {caption-side: top}
+.capS-uns {caption-side: unset}
 
 /* Clear */
 .c-b {clear: both}
+.c-inh {clear: inherit}
+.c-ini {clear: initial}
 .c-l {clear: left}
 .c-n {clear: none}
 .c-r {clear: right}
+.c-uns {clear: unset}
 
 /* Color Interpolation */
 .cI-a {color-interpolation: auto}
@@ -335,6 +370,7 @@
 .cI-ini {color-interpolation: initial}
 .cI-l {color-interpolation: linearRGB}
 .cI-s {color-interpolation: sRGB}
+.cI-uns {color-interpolation: unset}
 
 /* Color Interpolation Filters */
 .cIF-a {color-interpolation-filters: auto}
@@ -342,6 +378,7 @@
 .cIF-ini {color-interpolation-filters: initial}
 .cIF-l {color-interpolation-filters: linearRGB}
 .cIF-s {color-interpolation-filters: sRGB}
+.cIF-uns {color-interpolation-filters: unset}
 
 /* Column Fill */
 .cF-a {column-fill: auto}
@@ -356,12 +393,14 @@
 .cR-ini {color-rendering: initial}
 .cR-oQ {color-rendering: optimizeQuality}
 .cR-oS {color-rendering: optimizeSpeed}
+.cR-uns {color-rendering: unset}
 
 /* Column Span */
 .colS-a {column-span: all}
 .colS-inh {column-span: inherit}
 .colS-ini {column-span: initial}
 .colS-n {column-span: none}
+.colS-uns {column-span: unset}
 
 /* Cursor */
 .cur-al {cursor: alias}
@@ -397,6 +436,7 @@
 .cur-ser {cursor: se-resize}
 .cur-swr {cursor: sw-resize}
 .cur-t {cursor: text}
+.cur-uns {cursor: unset}
 .cur-vt {cursor: vertical-text}
 .cur-wr {cursor: w-resize}
 .cur-w {cursor: wait}
@@ -408,6 +448,7 @@
 .dir-ini {direction: initial}
 .dir-ltr {direction: ltr}
 .dir-rtl {direction: rtl}
+.dir-uns {direction: unset}
 
 /* Display */
 .d-b {display: block}
@@ -417,6 +458,7 @@
 .d-i {display: inline}
 .d-ib {display: inline-block}
 .d-n {display: none}
+.d-uns {display: unset}
 
 /* Dominant Baseline */
 .dB-al {dominant-baseline: alphabetic}
@@ -433,6 +475,7 @@
 .dB-rs {dominant-baseline: reset-size}
 .dB-tae {dominant-baseline: text-after-edge}
 .dB-tbe {dominant-baseline: text-before-edge}
+.dB-uns {dominant-baseline: unset}
 .dB-us {dominant-baseline: use-script}
 
 /* Enable Background */
@@ -440,18 +483,21 @@
 .eB-inh {enable-background: inherit}
 .eB-ini {enable-background: initial}
 .eB-n {enable-background: new}
+.eB-uns {enable-background: unset}
 
 /* Empty Cells */
 .eC-h {empty-cells: hide}
 .eC-inh {empty-cells: inh}
 .eC-ini {empty-cells: ini}
 .eC-s {empty-cells: show}
+.eC-uns {empty-cells: unset}
 
 /* Fill Rule */
 .fR-e {fill-rule: evenodd}
 .fR-ini {fill-rule: initial}
 .fR-inh {fill-rule: inherit}
 .fR-n {fill-rule: nonzero}
+.fR-uns {fill-rule: unset}
 
 /* Filter */
 .f-g {
@@ -467,12 +513,14 @@
   -webkit-filter: sepia(1);
   filter: sepia(1);
 }
+.f-uns {filter: unset}
 
 /* Flex Basis */
 .fB-a {flex-basis: auto}
 .fB-c {flex-basis: content}
 .fB-inh {flex-basis: inherit}
 .fB-ini {flex-basis: initial}
+.fB-uns {flex-basis: unset}
 
 /* Flex Direction */
 .fD-c {flex-direction: column}
@@ -481,11 +529,13 @@
 .fF-ini {flex-direction: initial}
 .fD-r {flex-direction: row}
 .fD-rr {flex-direction: row-reverse}
+.fD-uns {flex-direction: unset}
 
 /* Flex Wrap */
 .fW-inh {flex-wrap: inherit}
 .fW-ini {flex-wrap: initial}
 .fW-n {flex-wrap: nowrap}
+.fW-uns {flex-wrap: unset}
 .fW-w {flex-wrap: wrap}
 .fW-wr {flex-wrap: wrap-reverse}
 
@@ -495,6 +545,7 @@
 .f-l {float: left}
 .f-n {float: none}
 .f-r {float: right}
+.f-uns {float: unset}
 
 /* Font Style */
 .fS-inh {font-style: inherit}
@@ -502,6 +553,7 @@
 .fS-i {font-style: italic}
 .fS-n {font-style: normal}
 .fS-o {font-style: oblique}
+.fS-uns {font-style: unset}
 
 /* Font Stretch */
 .fS-c {font-stretch: condensed}
@@ -514,12 +566,14 @@
 .fS-se {font-stretch: semi-expanded}
 .fS-uc {font-stretch: ultra-condensed}
 .fS-ue {font-stretch: ultra-expanded}
+.fS-uns {font-stretch: unset}
 
 /* Font Variant */
 .fV-inh {font-variant: inherit}
 .fV-ini {font-variant: initlal}
 .fV-n {font-variant: normal}
 .fV-s {font-variant: small-caps}
+.fV-uns {font-variant: unset}
 
 /* Font Weight */
 .fW-b {font-weight: bold}
@@ -529,6 +583,7 @@
 .fW-l {font-weight: light}
 .fW-lr {font-weight: lighter}
 .fW-n {font-weight: normal}
+.fW-uns {font-weight: unset}
 
 /* Glyph Orientation Horizontal */
 .gOH-0 {glyph-orientation-horizontal: 0deg}
@@ -537,6 +592,7 @@
 .gOH-270 {glyph-orientation-horizontal: 270deg}
 .gOH-inh {glyph-orientation-horizontal: inherit}
 .gOH-ini {glyph-orientation-horizontal: initial}
+.gOH-uns {glyph-orientation-horizontal: unset}
 
 /* Glyph Orientation Vertical */
 .gOV-0 {glyph-orientation-vertical: 0deg}
@@ -546,6 +602,7 @@
 .gOV-a {glyph-orientation-vertical: auto}
 .gOV-inh {glyph-orientation-vertical: inherit}
 .gOV-ini {glyph-orientation-vertical: initial}
+.gOV-uns {glyph-orientation-vertical: unset}
 
 /* Hyphens */
 .h-a {hyphens: auto}
@@ -553,6 +610,7 @@
 .h-ini {hyphens: initial}
 .h-m {hyphens: manual}
 .h-n {hyphens: none}
+.h-uns {hyphens: unset}
 
 /* Image Orientation */
 .iO-0 {image-orientation: 0deg}
@@ -567,6 +625,7 @@
 .iO-fi {image-orientation: from-image}
 .iO-inh {image-orientation: inherit}
 .iO-ini {image-orientation: initial}
+.iO-uns {image-orientation: unset}
 
 /* Image Rendering */
 .iR-a {image-rendering: auto}
@@ -574,13 +633,14 @@
 .iR-inh {image-rendering: inherit}
 .iR-ini {image-rendering: initial}
 .iR-p {image-rendering: pixelated}
+.iR-uns {image-rendering: unset}
 
 /* Isolation */
 .i-a {isolation: auto}
 .i-inh {isolation: inherit}
 .i-ini {isolation: initial}
 .i-i {isolation: isolate}
-.i-u {isolation: unset}
+.i-uns {isolation: unset}
 
 /* Justify Content */
 .jC-c {justify-content: center}
@@ -590,6 +650,7 @@
 .jC-ini {justify-content: initial}
 .jC-sa {justify-content: space-around}
 .jC-sb {justify-content: space-between}
+.jC-uns {justify-content: unset}
 
 /* Line Break */
 .lB-a {line-break: auto}
@@ -598,13 +659,14 @@
 .lB-ini {line-break: initial}
 .lB-n {line-break: normal}
 .lB-s {line-break: strict}
-.lB-u {line-break: unset}
+.lB-uns {line-break: unset}
 
 /* List Style Position */
 .lSP-inh {list-style-position: inherit}
 .lSP-ini {list-style-position: initial}
 .lSP-ins {list-style-position: inside}
 .lSP-o {list-style-position: outside}
+.lSP-uns {list-style-position: unset}
 
 /* List Style Type */
 .lST-a {list-style-type: armenian}
@@ -627,6 +689,7 @@
 .lST-lr {list-style-type: lower-roman}
 .lST-n {list-style-type: none}
 .lST-s {list-style-type: square}
+.lST-uns {list-style-type: unset}
 .lST-ua {list-style-type: upper-alpha}
 .lST-ul {list-style-type: upper-latin}
 .lST-ur {list-style-type: upper-roman}
@@ -637,18 +700,19 @@
 .m-a {margin: auto}
 .m-inh {margin: inherit}
 .m-ini {margin: initial}
+.m-uns {margin: unset}
 
 /* Margin Block End */
 .mBE-a {margin-block-end: auto}
 .mBE-inh {margin-block-end: inh}
 .mBE-ini {margin-block-end: initial}
-.mBE-u {margin-block-end: unset}
+.mBE-uns {margin-block-end: unset}
 
 /* Margin Block Start */
 .mBS-a {margin-block-start: auto}
 .mBS-inh {margin-block-start: inh}
 .mBS-ini {margin-block-start: initial}
-.mBS-u {margin-block-start: unset}
+.mBS-uns {margin-block-start: unset}
 
 /* Min Inline Size */
 .mIS-fa {min-inline-size: fill-available}
@@ -657,7 +721,7 @@
 .mIS-ini {min-inline-size: initial}
 .mIS-maxc {min-inline-size: max-content}
 .mIS-minc {min-inline-size: min-content}
-.mIS-u {min-inline-size: unset}
+.mIS-uns {min-inline-size: unset}
 
 /* Mix Blend Mode */
 .mBM-c {mix-blend-mode: color}
@@ -678,7 +742,7 @@
 .mBM-sat {mix-blend-mode: saturation}
 .mBM-scr {mix-blend-mode: screen}
 .mBM-sl {mix-blend-mode: soft-light}
-.mBM-u {mix-blend-mode: unset}
+.mBM-uns {mix-blend-mode: unset}
 
 /* Object Fit */
 .oF-c {object-fit: cover}
@@ -687,6 +751,7 @@
 .oF-ini {object-fit: initial}
 .oF-n {object-fit: none}
 .oF-sd {object-fit: scale-down}
+.oF-uns {object-fit: unset}
 
 /* Object Position */
 .oP-cb {object-position: center bottom}
@@ -700,6 +765,7 @@
 .oP-rb {object-position: right bottom}
 .oP-rc {object-position: right center}
 .oP-rt {object-position: right top}
+.oP-uns {object-position: unset}
 
 /* Opacity */
 .o-0 {opacity: 0}
@@ -717,6 +783,7 @@
 .oS-o {outline-style: outset}
 .oS-r {outline-style: ridge}
 .oS-s {outline-style: solid}
+.oS-uns {outline-style: unset}
 .oS-wi {outline-style: window-inset}
 
 /* Overflow */
@@ -725,6 +792,7 @@
 .o-inh {overflow: inherit}
 .o-ini {overflow: initial}
 .o-s {overflow: scroll}
+.o-uns {overflow: unset}
 .o-v {overflow: visible}
 
 /* Overflow Wrap */
@@ -732,6 +800,7 @@
 .oW-inh {word-wrap: inherit; overflow-wrap: inherit}
 .oW-ini {word-wrap: initial; overflow-wrap: initial}
 .oW-n {word-wrap: normal; overflow-wrap: normal}
+.oW-uns {word-wrap: unset}
 
 /* Padding */
 .p-0 {padding: 0}
@@ -741,6 +810,7 @@
 .pE-inh {pointer-events: inherit}
 .pE-ini {pointer-events: initial}
 .pE-n {pointer-events: none}
+.pE-uns {pointer-events: unset}
 
 /* Position */
 .p-a {position: absolute}
@@ -749,6 +819,7 @@
 .p-ini {position: initial}
 .p-r {position: relative}
 .p-s {position: static}
+.p-uns {position: unset}
 
 /* Resize */
 .r-b {resize: both}
@@ -756,6 +827,7 @@
 .r-inh {resize: inherit}
 .r-ini {resize: initial}
 .r-n {resize: none}
+.r-uns {resize: unset}
 .r-v {resize: vertical}
 
 /* Ruby Align */
@@ -765,7 +837,7 @@
 .rA-sa {ruby-align: space-around}
 .rA-sb {ruby-align: space-between}
 .rA-s {ruby-align: start}
-.rA-u {ruby-align: unset}
+.rA-uns {ruby-align: unset}
 
 /* Ruby Position */
 .rP-inh {ruby-position: inherit}
@@ -782,6 +854,7 @@
 .sR-inh {shape-rendering: inherit}
 .sR-ini {shape-rendering: initial}
 .sR-oS {shape-rendering: optimizeSpeed}
+.sR-uns {shape-rendering: unset}
 
 /* Stroke Linecap */
 .sLC-b {stroke-linecap: butt}
@@ -789,6 +862,7 @@
 .sLC-ini {stroke-linecap: initial}
 .sLC-r {stroke-linecap: round}
 .sLC-s {stroke-linecap: square}
+.sLC-uns {stroke-linecap: unset}
 
 /* Stroke Linejoin */
 .sLJ-b {stroke-linejoin: bevel}
@@ -796,12 +870,14 @@
 .sLJ-ini {stroke-linejoin: initial}
 .sLJ-m {stroke-linejoin: miter}
 .sLJ-r {stroke-linejoin: round}
+.sLJ-uns {stroke-linejoin: unset}
 
 /* Table Layout */
 .tL-a {table-layout: auto}
 .tL-f {table-layout: fixed}
 .tL-inh {table-layout: inherit}
 .tL-ini {table-layout: initial}
+.tL-uns {table-layout: unset}
 
 /* Text Align */
 .tA-c {text-align: center}
@@ -810,6 +886,7 @@
 .tA-ini {text-align: initial}
 .tA-l {text-align: left}
 .tA-r {text-align: right}
+.tA-uns {text-align: unset}
 
 /* Text Anchor */
 .tAn-e {text-anchor: end}
@@ -817,6 +894,7 @@
 .tAn-ini {text-anchor: initial}
 .tAn-s {text-anchor: start}
 .tAn-m {text-anchor: middle}
+.tAn-uns {text-anchor: unset}
 
 /* Text Decoration */
 .tD-inh {text-decoration: inherit}
@@ -825,12 +903,14 @@
 .tD-n {text-decoration: none}
 .tD-o {text-decoration: overline}
 .tD-u {text-decoration: underline}
+.tD-uns {text-decoration: unset}
 
 /* Text Overflow */
 .tO-c {text-overflow: clip}
 .tO-e {text-overflow: ellipsis}
 .tO-inh {text-overflow: inherit}
 .tO-ini {text-overflow: initial}
+.tO-uns {text-overflow: unset}
 
 /* Text Rendering */
 .tR-a {text-rendering: auto}
@@ -839,6 +919,7 @@
 .tR-ini {text-rendering: initial}
 .tR-oL {text-rendering: optimizeLegibility}
 .tR-oS {text-rendering: optimizeSpeed}
+.tR-uns {text-renderin: unset}
 
 /* Text Transform */
 .tT-c {text-transform: capitalize}
@@ -846,6 +927,7 @@
 .tT-ini {text-transform: initial}
 .tT-l {text-transform: lowercase}
 .tT-n {text-transform: none}
+.tT-uns {text-decoration: unset}
 .tT-u {text-transform: uppercase}
 
 /* Text Underline Position */
@@ -853,6 +935,7 @@
 .tUP-inh {text-underline-position: inherit}
 .tUP-ini {text-underline-position: initial}
 .tUP-u {text-underline-position: under}
+.tUP-uns {text-decoration: unset}
 
 /* Touch Action */
 .tA-a {touch-action: auto}
@@ -862,6 +945,7 @@
 .tA-n {touch-action: none}
 .tA-px {touch-action: pan-x}
 .tA-py {touch-action: pan-y}
+.tA-uns {touch-action: unset}
 
 /* Transform Origin */
 .tO-cb {transform-origin: center bottom}
@@ -875,12 +959,14 @@
 .tO-rb {transform-origin: right bottom}
 .tO-rc {transform-origin: right center}
 .tO-rt {transform-origin: right top}
+.tO-uns {transform-origin: unset}
 
 /* Transform Style */
 .tS-f {transform-style: flat}
 .tS-inh {transform-style: inherit}
 .tS-ini {transform-style: initial}
 .tS-p3d {transform-style: preserve-3d}
+.tS-uns {transform-style: unset}
 
 /* Transition Timing Function */
 .tTF-e {transition-timing-function: ease}
@@ -892,6 +978,7 @@
 .tTF-l {transition-timing-function: linear}
 .tTF-se {transition-timing-function: step-end}
 .tTF-ss {transition-timing-function: step-start}
+.tTF-uns {transition-timing-function: unset}
 
 /* Unicode Bidi */
 .uB-bo {unicode-bidi: bidi-override}
@@ -899,6 +986,7 @@
 .uB-inh {unicode-bidi: inherit}
 .uB-ini {unicode-bidi: initial}
 .uB-n {unicode-bidi: normal}
+.uB-uns {unicode-bidi: unset}
 
 /* Vertical Align */
 .vA-b {vertical-align: bottom}
@@ -911,12 +999,14 @@
 .vA-t {vertical-align: top}
 .vA-tb {vertical-align: text-bottom}
 .vA-tt {vertical-align: text-top}
+.vA-uns {vertical-align: unset}
 
 /* Visibility */
 .v-c {visibility: collapse}
 .v-h {visibility: hidden}
 .v-inh {visibility: inherit}
 .v-ini {visibility: initial}
+.v-uns {visibility: unset}
 .v-v {visibility: visible}
 
 /* White Space */
@@ -926,6 +1016,7 @@
 .wS-now {white-space: nowrap}
 .wS-pl {white-space: pre-line}
 .wS-pw {white-space: pre-wrap}
+.wS-uns {white-space: unset}
 
 /* Writing Mode */
 .wM-inh {writing-mode: inherit}
@@ -936,9 +1027,11 @@
 .wM-rltb {writing-mode: rl-tb}
 .wM-tb {writing-mode: tb}
 .wM-tbrl {writing-mode: tb-rl}
+.wM-uns {writing-mode: unset}
 
 /* Zoom */
 .z-a {zoom: auto}
 .z-inh {zoom: inherit}
 .z-ini {zoom: initial}
 .z-n {zoom: normal}
+.z-uns {zoom: unset}
