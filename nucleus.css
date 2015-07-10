@@ -751,39 +751,102 @@
   box-sizing: unset}
 
 /* Border Top Style */
-.bTS-das {border-top-style: dashed}
-.bTS-dou {border-top-style: double}
-.bTS-dot {border-top-style: dotted}
-.bTS-g {border-top-style: groove}
-.bTS-h {border-top-style: hidden}
-.bTS-inh {border-top-style: inherit}
-.bTS-ini {border-top-style: initial}
-.bTS-ins {border-top-style: inset}
-.bTS-i {border-top-style: inset}
-.bTS-n {border-top-style: none}
-.bTS-o {border-top-style: outset}
-.bTS-r {border-top-style: ridge}
-.bTS-s {border-top-style: solid}
-.bTS-uns {border-top-style: unset}
-.bTS-wi {border-top-style: window-inset}
+.bTS-das {
+  border-top-style: dashed}
+.bTS-dou {
+  border-top-style: double}
+.bTS-dot {
+  border-top-style: dotted}
+.bTS-g {
+  border-top-style: groove}
+.bTS-h {
+  border-top-style: hidden}
+.bTS-inh {
+  border-top-style: inherit}
+.bTS-ini {
+  border-top-style: initial}
+.bTS-ins {
+  border-top-style: inset}
+.bTS-i {
+  border-top-style: inset}
+.bTS-n {
+  border-top-style: none}
+.bTS-o {
+  border-top-style: outset}
+.bTS-r {
+  border-top-style: ridge}
+.bTS-s {
+  border-top-style: solid}
+.bTS-uns {
+  border-top-style: unset}
+.bTS-wi {
+  border-top-style: window-inset}
 
 /* Break After */
-.bA-au {break-after: auto}
-.bA-al {break-after: always}
-.bA-av {break-after: avoid}
-.bA-ac {break-after: avoid-column}
-.bA-ap {break-after: avoid-page}
-.bA-ar {break-after: avoid-region}
-.bA-c {break-after: column}
-.bA-inh {break-after: inherit}
-.bA-ini {break-after: initial}
-.bA-l {break-after: left}
-.bA-p {break-after: page}
-.bA-rec {break-after: recto}
-.bA-reg {break-after: region}
-.bA-rig {break-after: right}
-.bA-uns {break-after: unset}
-.bA-v {break-after: verso}
+.bA-au {
+  -webkit-break-after: auto;
+  -moz-break-after: auto;
+  break-after: auto}
+.bA-al {
+  -webkit-break-after: always;
+  -moz-break-after: always;
+  break-after: always}
+.bA-av {
+  -webkit-break-after: avoid;
+  -moz-break-after: avoid;
+  break-after: avoid}
+.bA-ac {
+  -webkit-break-after: avoid-column;
+  -moz-break-after: avoid-column;
+  break-after: avoid-column}
+.bA-ap {
+  -webkit-break-after: avoid-page;
+  -moz-break-after: avoid-page;
+  break-after: avoid-page}
+.bA-ar {
+  -webkit-break-after: avoid-region;
+  -moz-break-after: avoid-region;
+  break-after: avoid-region}
+.bA-c {
+  -webkit-break-after: column;
+  -moz-break-after: column;
+  break-after: column}
+.bA-inh {
+  -webkit-break-after: inherit;
+  -moz-break-after: inherit;
+  break-after: inherit}
+.bA-ini {
+  -webkit-break-after: initial;
+  -moz-break-after: initial;
+  break-after: initial}
+.bA-l {
+  -webkit-break-after: left;
+  -moz-break-after: left;
+  break-after: left}
+.bA-p {
+  -webkit-break-after: page;
+  -moz-break-after: page;
+  break-after: page}
+.bA-rec {
+  -webkit-break-after: recto;
+  -moz-break-after: recto;
+  break-after: recto}
+.bA-reg {
+  -webkit-break-after: region;
+  -moz-break-after: region;
+  break-after: region}
+.bA-rig {
+  -webkit-break-after: right;
+  -moz-break-after: right;
+  break-after: right}
+.bA-uns {
+  -webkit-break-after: unset;
+  -moz-break-after: unset;
+  break-after: unset}
+.bA-v {
+  -webkit-break-after: verso;
+  -moz-break-after: verso;
+  break-after: verso}
 
 /* Break Before */
 .bB-au {break-before: auto}
