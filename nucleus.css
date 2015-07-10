@@ -1281,11 +1281,26 @@
   filter: unset}
 
 /* Flex Basis */
-.fB-a {flex-basis: auto}
-.fB-c {flex-basis: content}
-.fB-inh {flex-basis: inherit}
-.fB-ini {flex-basis: initial}
-.fB-uns {flex-basis: unset}
+.fB-a {
+  -webkit-flex-basis: auto;
+  -ms-flex-preferred-size: auto;
+  flex-basis: auto}
+.fB-c {
+  -webkit-flex-basis: content;
+  -ms-flex-preferred-size: content;
+  flex-basis: content}
+.fB-inh {
+  -webkit-flex-basis: inherit;
+  -ms-flex-preferred-size: inherit;
+  flex-basis: inherit}
+.fB-ini {
+  -webkit-flex-basis: initial;
+  -ms-flex-preferred-size: initial;
+  flex-basis: initial}
+.fB-uns {
+  -webkit-flex-basis: unset;
+  -ms-flex-preferred-size: unset;
+  flex-basis: unset}
 
 /* Flex Direction */
 .fD-c {flex-direction: column}
