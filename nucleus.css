@@ -2284,6 +2284,40 @@
   -moz-text-decoration-line: unset;
   text-decoration-line: unset}
 
+/* Text Decoration Style */
+.tDS-inh {
+  -webkit-text-decoration-style: inherit;
+  -moz-text-decoration-style: inherit;
+  text-decoration-style: inherit}
+.tDS-ini {
+  -webkit-text-decoration-style: initial;
+  -moz-text-decoration-style: initial;
+  text-decoration-style: initial}
+.tDS-s {
+  -webkit-text-decoration-style: solid;
+  -moz-text-decoration-style: solid;
+  text-decoration-style: solid}
+.tDS-dou {
+  -webkit-text-decoration-style: double;
+  -moz-text-decoration-style: double;
+  text-decoration-style: double}
+.tDS-dot {
+  -webkit-text-decoration-style: dotted;
+  -moz-text-decoration-style: dotted;
+  text-decoration-style: dotted}
+.tDS-das {
+  -webkit-text-decoration-style: dashed;
+  -moz-text-decoration-style: dashed;
+  text-decoration-style: dashed}
+.tDS-uns {
+  -webkit-text-decoration-style: unset;
+  -moz-text-decoration-style: unset;
+  text-decoration-style: unset}
+.tDS-w {
+  -webkit-text-decoration-style: wavy;
+  -moz-text-decoration-style: wavy;
+  text-decoration-style: wavy}
+
 /* Text Overflow */
 .tO-c {
   -o-text-overflow: clip;
