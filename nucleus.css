@@ -1189,59 +1189,96 @@
   display: unset}
 
 /* Dominant Baseline */
-.dB-al {dominant-baseline: alphabetic}
-.dB-a {dominant-baseline: auto}
-.dB-be {dominant-baseline: before-edge}
-.dB-c {dominant-baseline: central}
-.dB-h {dominant-baseline: hanging}
-.dB-i {dominant-baseline: ideographic}
-.dB-inh {dominant-baseline: inherit}
-.dB-ini {dominant-baseline: initial}
-.dB-m {dominant-baseline: mathematical}
-.dB-mid {dominant-baseline: middle}
-.dB-nc {dominant-baseline: no-change}
-.dB-rs {dominant-baseline: reset-size}
-.dB-tae {dominant-baseline: text-after-edge}
-.dB-tbe {dominant-baseline: text-before-edge}
-.dB-uns {dominant-baseline: unset}
-.dB-us {dominant-baseline: use-script}
+.dB-al {
+  dominant-baseline: alphabetic}
+.dB-a {
+  dominant-baseline: auto}
+.dB-be {
+  dominant-baseline: before-edge}
+.dB-c {
+  dominant-baseline: central}
+.dB-h {
+  dominant-baseline: hanging}
+.dB-i {
+  dominant-baseline: ideographic}
+.dB-inh {
+  dominant-baseline: inherit}
+.dB-ini {
+  dominant-baseline: initial}
+.dB-m {
+  dominant-baseline: mathematical}
+.dB-mid {
+  dominant-baseline: middle}
+.dB-nc {
+  dominant-baseline: no-change}
+.dB-rs {
+  dominant-baseline: reset-size}
+.dB-tae {
+  dominant-baseline: text-after-edge}
+.dB-tbe {
+  dominant-baseline: text-before-edge}
+.dB-uns {
+  dominant-baseline: unset}
+.dB-us {
+  dominant-baseline: use-script}
 
 /* Enable Background */
-.eB-a {enable-background: accumulate}
-.eB-inh {enable-background: inherit}
-.eB-ini {enable-background: initial}
-.eB-n {enable-background: new}
-.eB-uns {enable-background: unset}
+.eB-a {
+  enable-background: accumulate}
+.eB-inh {
+  enable-background: inherit}
+.eB-ini {
+  enable-background: initial}
+.eB-n {
+  enable-background: new}
+.eB-uns {
+  enable-background: unset}
 
 /* Empty Cells */
-.eC-h {empty-cells: hide}
-.eC-inh {empty-cells: inh}
-.eC-ini {empty-cells: ini}
-.eC-s {empty-cells: show}
-.eC-uns {empty-cells: unset}
+.eC-h {
+  empty-cells: hide}
+.eC-inh {
+  empty-cells: inh}
+.eC-ini {
+  empty-cells: ini}
+.eC-s {
+  empty-cells: show}
+.eC-uns {
+  empty-cells: unset}
 
 /* Fill Rule */
-.fR-e {fill-rule: evenodd}
-.fR-ini {fill-rule: initial}
-.fR-inh {fill-rule: inherit}
-.fR-n {fill-rule: nonzero}
-.fR-uns {fill-rule: unset}
+.fR-e {
+  fill-rule: evenodd}
+.fR-ini {
+  fill-rule: initial}
+.fR-inh {
+  fill-rule: inherit}
+.fR-n {
+  fill-rule: nonzero}
+.fR-uns {
+  fill-rule: unset}
 
 /* Filter */
 .f-g {
   filter: url(nucleus.svg#grayscale);
-  -webkit-filer: grayscale(1);
-  filter: grayscale(1);
-}
-.f-inh {filter: inherit}
-.f-ini {filter: initial}
-.f-n {filter: none}
+  -webkit-filter: grayscale(1);
+  filter: grayscale(1);}
+.f-inh {
+  -webkit-filter: inherit;
+  filter: inherit}
+.f-ini {
+  -webkit-filter: initial;
+  filter: initial}
+.f-n {
+  -webkit-filter: none;
+  filter: none}
 .f-s {
   filter: url(nucleus.svg#sepia);
   -webkit-filter: sepia(1);
-  filter: sepia(1);
-}
-.f-uns {filter: unset}
+  filter: sepia(1);}
+.f-uns {
+  -webkit-filter: unset;
+  filter: unset}
 
 /* Flex Basis */
 .fB-a {flex-basis: auto}
