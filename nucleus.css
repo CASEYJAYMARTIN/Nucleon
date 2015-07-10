@@ -1761,43 +1761,83 @@
   margin-block-start: unset}
 
 /* Min Inline Size */
-.mIS-fa {min-inline-size: fill-available}
-.mIS-fc {min-inline-size: fit-content}
-.mIS-inh {min-inline-size: inherit}
-.mIS-ini {min-inline-size: initial}
-.mIS-maxc {min-inline-size: max-content}
-.mIS-minc {min-inline-size: min-content}
-.mIS-uns {min-inline-size: unset}
+.mIS-fa {
+  min-inline-size: fill-available}
+.mIS-fc {
+  min-inline-size: fit-content}
+.mIS-inh {
+  min-inline-size: inherit}
+.mIS-ini {
+  min-inline-size: initial}
+.mIS-maxc {
+  min-inline-size: max-content}
+.mIS-minc {
+  min-inline-size: min-content}
+.mIS-uns {
+  min-inline-size: unset}
 
 /* Mix Blend Mode */
-.mBM-c {mix-blend-mode: color}
-.mBM-cb {mix-blend-mode: color-burn}
-.mBM-cd {mix-blend-mode: color-dodge}
-.mBM-d {mix-blend-mode: darken}
-.mBM-dif {mix-blend-mode: difference}
-.mBM-e {mix-blend-mode: exclusion}
-.mBM-hl {mix-blend-mode: hard-light}
-.mBM-h {mix-blend-mode: hue}
-.mBM-inh {mix-blend-mode: inherit}
-.mBM-ini {mix-blend-mode: initial}
-.mBM-lig {mix-blend-mode: lighten}
-.mBM-lum {mix-blend-mode: luminosity}
-.mBM-m {mix-blend-mode: multiply}
-.mBM-n {mix-blend-mode: normal}
-.mBM-o {mix-blend-mode: overlay}
-.mBM-sat {mix-blend-mode: saturation}
-.mBM-scr {mix-blend-mode: screen}
-.mBM-sl {mix-blend-mode: soft-light}
-.mBM-uns {mix-blend-mode: unset}
+.mBM-c {
+  mix-blend-mode: color}
+.mBM-cb {
+  mix-blend-mode: color-burn}
+.mBM-cd {
+  mix-blend-mode: color-dodge}
+.mBM-d {
+  mix-blend-mode: darken}
+.mBM-dif {
+  mix-blend-mode: difference}
+.mBM-e {
+  mix-blend-mode: exclusion}
+.mBM-hl {
+  mix-blend-mode: hard-light}
+.mBM-h {
+  mix-blend-mode: hue}
+.mBM-inh {
+  mix-blend-mode: inherit}
+.mBM-ini {
+  mix-blend-mode: initial}
+.mBM-lig {
+  mix-blend-mode: lighten}
+.mBM-lum {
+  mix-blend-mode: luminosity}
+.mBM-m {
+  mix-blend-mode: multiply}
+.mBM-n {
+  mix-blend-mode: normal}
+.mBM-o {
+  mix-blend-mode: overlay}
+.mBM-sat {
+  mix-blend-mode: saturation}
+.mBM-scr {
+  mix-blend-mode: screen}
+.mBM-sl {
+  mix-blend-mode: soft-light}
+.mBM-uns {
+  mix-blend-mode: unset}
 
 /* Object Fit */
-.oF-c {object-fit: cover}
-.oF-f {object-fit: fill}
-.oF-inh {object-fit: inherit}
-.oF-ini {object-fit: initial}
-.oF-n {object-fit: none}
-.oF-sd {object-fit: scale-down}
-.oF-uns {object-fit: unset}
+.oF-c {
+  -o-object-fit: cover;
+  object-fit: cover}
+.oF-f {
+  -o-object-fit: fill;
+  object-fit: fill}
+.oF-inh {
+  -o-object-fit: inherit;
+  object-fit: inherit}
+.oF-ini {
+  -o-object-fit: initial;
+  object-fit: initial}
+.oF-n {
+  -o-object-fit: none;
+  object-fit: none}
+.oF-sd {
+  -o-object-fit: scale-down;
+  object-fit: scale-down}
+.oF-uns {
+  -o-object-fit: unset;
+  object-fit: unset}
 
 /* Object Position */
 .oP-cb {object-position: center bottom}
