@@ -2022,6 +2022,18 @@
 .rP-uns {
   ruby-position: unset}
 
+/* Scroll Behavior */
+.sB-a {
+  scroll-behavior: auto}
+.sB-inh {
+  scroll-behavior: inherit}
+.sB-ini {
+  scroll-behavior: initial}
+.sB-s {
+  scroll-behavior: smooth}
+.sB-uns {
+  scroll-behavior: unset}
+
 /* Shape Rendering */
 .sR-a {
   shape-rendering: auto}
@@ -2360,57 +2372,101 @@
   transition-timing-function: unset}
 
 /* Unicode Bidi */
-.uB-bo {unicode-bidi: bidi-override}
-.uB-e {unicode-bidi: embed}
-.uB-inh {unicode-bidi: inherit}
-.uB-ini {unicode-bidi: initial}
-.uB-n {unicode-bidi: normal}
-.uB-uns {unicode-bidi: unset}
+.uB-bo {
+  unicode-bidi: bidi-override}
+.uB-e {
+  unicode-bidi: embed}
+.uB-inh {
+  unicode-bidi: inherit}
+.uB-ini {
+  unicode-bidi: initial}
+.uB-n {
+  unicode-bidi: normal}
+.uB-uns {
+  unicode-bidi: unset}
 
 /* Vertical Align */
-.vA-b {vertical-align: bottom}
-.vA-bl {vertical-align: baseline}
-.vA-inh {vertical-align: inherit}
-.vA-ini {vertical-align: initial}
-.vA-m {vertical-align: middle}
-.vA-sub {vertical-align: sub}
-.vA-sup {vertical-align: super}
-.vA-t {vertical-align: top}
-.vA-tb {vertical-align: text-bottom}
-.vA-tt {vertical-align: text-top}
-.vA-uns {vertical-align: unset}
+.vA-b {
+  vertical-align: bottom}
+.vA-bl {
+  vertical-align: baseline}
+.vA-inh {
+  vertical-align: inherit}
+.vA-ini {
+  vertical-align: initial}
+.vA-m {
+  vertical-align: middle}
+.vA-sub {
+  vertical-align: sub}
+.vA-sup {
+  vertical-align: super}
+.vA-t {
+  vertical-align: top}
+.vA-tb {
+  vertical-align: text-bottom}
+.vA-tt {
+  vertical-align: text-top}
+.vA-uns {
+  vertical-align: unset}
 
 /* Visibility */
-.v-c {visibility: collapse}
-.v-h {visibility: hidden}
-.v-inh {visibility: inherit}
-.v-ini {visibility: initial}
-.v-uns {visibility: unset}
-.v-v {visibility: visible}
+.v-c {
+  visibility: collapse}
+.v-h {
+  visibility: hidden}
+.v-inh {
+  visibility: inherit}
+.v-ini {
+  visibility: initial}
+.v-uns {
+  visibility: unset}
+.v-v {
+  visibility: visible}
 
 /* White Space */
-.wS-inh {white-space: inherit}
-.wS-ini {white-space: initial}
-.wS-nor {white-space: normal}
-.wS-now {white-space: nowrap}
-.wS-pl {white-space: pre-line}
-.wS-pw {white-space: pre-wrap}
-.wS-uns {white-space: unset}
+.wS-inh {
+  white-space: inherit}
+.wS-ini {
+  white-space: initial}
+.wS-nor {
+  white-space: normal}
+.wS-now {
+  white-space: nowrap}
+.wS-pl {
+  white-space: pre-line}
+.wS-pw {
+  white-space: pre-wrap}
+.wS-uns {
+  white-space: unset}
 
 /* Writing Mode */
-.wM-inh {writing-mode: inherit}
-.wM-ini {writing-mode: initial}
-.wM-lr {writing-mode: lr}
-.wM-lrtb {writing-mode: lr-tb}
-.wM-rl {writing-mode: rl}
-.wM-rltb {writing-mode: rl-tb}
-.wM-tb {writing-mode: tb}
-.wM-tbrl {writing-mode: tb-rl}
-.wM-uns {writing-mode: unset}
+.wM-inh {
+  writing-mode: inherit}
+.wM-ini {
+  writing-mode: initial}
+.wM-lr {
+  writing-mode: lr}
+.wM-lrtb {
+  writing-mode: lr-tb}
+.wM-rl {
+  writing-mode: rl}
+.wM-rltb {
+  writing-mode: rl-tb}
+.wM-tb {
+  writing-mode: tb}
+.wM-tbrl {
+  writing-mode: tb-rl}
+.wM-uns {
+  writing-mode: unset}
 
 /* Zoom */
-.z-a {zoom: auto}
-.z-inh {zoom: inherit}
-.z-ini {zoom: initial}
-.z-n {zoom: normal}
-.z-uns {zoom: unset}
+.z-a {
+  zoom: auto}
+.z-inh {
+  zoom: inherit}
+.z-ini {
+  zoom: initial}
+.z-n {
+  zoom: normal}
+.z-uns {
+  zoom: unset}
