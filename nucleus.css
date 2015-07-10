@@ -1031,19 +1031,40 @@
   column-fill: unset}
 
 /* Color Rendering */
-.cR-a {color-rendering: auto}
-.cR-inh {color-rendering: inherit}
-.cR-ini {color-rendering: initial}
-.cR-oQ {color-rendering: optimizeQuality}
-.cR-oS {color-rendering: optimizeSpeed}
-.cR-uns {color-rendering: unset}
+.cR-a {
+  color-rendering: auto}
+.cR-inh {
+  color-rendering: inherit}
+.cR-ini {
+  color-rendering: initial}
+.cR-oQ {
+  color-rendering: optimizeQuality}
+.cR-oS {
+  color-rendering: optimizeSpeed}
+.cR-uns {
+  color-rendering: unset}
 
 /* Column Span */
-.colS-a {column-span: all}
-.colS-inh {column-span: inherit}
-.colS-ini {column-span: initial}
-.colS-n {column-span: none}
-.colS-uns {column-span: unset}
+.colS-a {
+  -webkit-column-span: all;
+  -moz-column-span: all;
+  column-span: all}
+.colS-inh {
+  -webkit-column-span: inherit;
+  -moz-column-span: inherit;
+  column-span: inherit}
+.colS-ini {
+  -webkit-column-span: initial;
+  -moz-column-span: initial;
+  column-span: initial}
+.colS-n {
+  -webkit-column-span: none;
+  -moz-column-span: none;
+  column-span: none}
+.colS-uns {
+  -webkit-column-span: unset;
+  -moz-column-span: unset;
+  column-span: unset}
 
 /* Cursor */
 .cur-al {cursor: alias}
