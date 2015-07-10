@@ -1641,60 +1641,110 @@
   justify-content: unset}
 
 /* Line Break */
-.lB-a {line-break: auto}
-.lB-l {line-break: loose}
-.lB-inh {line-break: inh}
-.lB-ini {line-break: initial}
-.lB-n {line-break: normal}
-.lB-s {line-break: strict}
-.lB-uns {line-break: unset}
+.lB-a {
+  line-break: auto}
+.lB-l {
+  line-break: loose}
+.lB-inh {
+  line-break: inh}
+.lB-ini {
+  line-break: initial}
+.lB-n {
+  line-break: normal}
+.lB-s {
+  line-break: strict}
+.lB-uns {
+  line-break: unset}
 
 /* List Style Position */
-.lSP-inh {list-style-position: inherit}
-.lSP-ini {list-style-position: initial}
-.lSP-ins {list-style-position: inside}
-.lSP-o {list-style-position: outside}
-.lSP-uns {list-style-position: unset}
+.lSP-inh {
+  list-style-position: inherit}
+.lSP-ini {
+  list-style-position: initial}
+.lSP-ins {
+  list-style-position: inside}
+.lSP-o {
+  list-style-position: outside}
+.lSP-uns {
+  list-style-position: unset}
 
 /* List Style Type */
-.lST-a {list-style-type: armenian}
-.lST-c {list-style-type: circle}
-.lST-cjk {list-style-type: cjk-ideographic}
-.lST-dec {list-style-type: decimal}
-.lST-dis {list-style-type: disc}
-.lST-dlz {list-style-type: decimal-leading-zero}
-.lST-g {list-style-type: georgian}
-.lST-heb {list-style-type: hebrew}
-.lST-h {list-style-type: hiragana}
-.lST-hi {list-style-type: hiragana-iroha}
-.lST-inh {list-style-type: inherit}
-.lST-ini {list-style-type: initial}
-.lST-k {list-style-type: katakana}
-.lST-ki {list-style-type: katakana-iroha}
-.lST-la {list-style-type: lower-alpha}
-.lST-lg {list-style-type: lower-greek}
-.lST-ll {list-style-type: lower-latin}
-.lST-lr {list-style-type: lower-roman}
-.lST-n {list-style-type: none}
-.lST-s {list-style-type: square}
-.lST-uns {list-style-type: unset}
-.lST-ua {list-style-type: upper-alpha}
-.lST-ul {list-style-type: upper-latin}
-.lST-ur {list-style-type: upper-roman}
+.lST-a {
+  list-style-type: armenian}
+.lST-c {
+  list-style-type: circle}
+.lST-cjk {
+  list-style-type: cjk-ideographic}
+.lST-dec {
+  list-style-type: decimal}
+.lST-dis {
+  list-style-type: disc}
+.lST-dlz {
+  list-style-type: decimal-leading-zero}
+.lST-g {
+  list-style-type: georgian}
+.lST-heb {
+  list-style-type: hebrew}
+.lST-h {
+  list-style-type: hiragana}
+.lST-hi {
+  list-style-type: hiragana-iroha}
+.lST-inh {
+  list-style-type: inherit}
+.lST-ini {
+  list-style-type: initial}
+.lST-k {
+  list-style-type: katakana}
+.lST-ki {
+  list-style-type: katakana-iroha}
+.lST-la {
+  list-style-type: lower-alpha}
+.lST-lg {
+  list-style-type: lower-greek}
+.lST-ll {
+  list-style-type: lower-latin}
+.lST-lr {
+  list-style-type: lower-roman}
+.lST-n {
+  list-style-type: none}
+.lST-s {
+  list-style-type: square}
+.lST-uns {
+  list-style-type: unset}
+.lST-ua {
+  list-style-type: upper-alpha}
+.lST-ul {
+  list-style-type: upper-latin}
+.lST-ur {
+  list-style-type: upper-roman}
 
 /* Margin */
-.m-0 {margin: 0}
-.m-0a {margin: 0 auto}
-.m-a {margin: auto}
-.m-inh {margin: inherit}
-.m-ini {margin: initial}
-.m-uns {margin: unset}
+.m-0 {
+  margin: 0}
+.m-0a {
+  margin: 0 auto}
+.m-a {
+  margin: auto}
+.m-inh {
+  margin: inherit}
+.m-ini {
+  margin: initial}
+.m-uns {
+  margin: unset}
 
 /* Margin Block End */
-.mBE-a {margin-block-end: auto}
-.mBE-inh {margin-block-end: inh}
-.mBE-ini {margin-block-end: initial}
-.mBE-uns {margin-block-end: unset}
+.mBE-a {
+  -webkit-margin-after: auto;
+  margin-block-end: auto}
+.mBE-inh {
+  -webkit-margin-after: inh;
+  margin-block-end: inh}
+.mBE-ini {
+  -webkit-margin-after: initial;
+  margin-block-end: initial}
+.mBE-uns {
+  -webkit-margin-after: unset;
+  margin-block-end: unset}
 
 /* Margin Block Start */
 .mBS-a {margin-block-start: auto}
