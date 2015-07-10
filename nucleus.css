@@ -340,40 +340,80 @@
   animation-timing-function: unset}
 
 /* Backface Visibility */
-.bV-h {backface-visibility: hidden}
-.bV-inh {backface-visibility: inherit}
-.bV-ini {backface-visibility: initial}
-.bV-uns {backface-visibility: unset}
-.bV-v {backface-visibility: visibile}
+.bV-h {
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  backface-visibility: hidden}
+.bV-inh {
+  -webkit-backface-visibility: inherit;
+  -moz-backface-visibility: inherit;
+  backface-visibility: inherit}
+.bV-ini {
+  -webkit-backface-visibility: initial;
+  -moz-backface-visibility: initial;
+  backface-visibility: initial}
+.bV-uns {
+  -webkit-backface-visibility: unset;
+  -moz-backface-visibility: unset;
+  backface-visibility: unset}
+.bV-v {
+  -webkit-backface-visibility: visibile;
+  -moz-backface-visibility: visibile;
+  backface-visibility: visibile}
 
 /* Background Attachment */
-.bgA-f {background-attachment: fixed}
-.bgA-inh {background-attachment: inherit}
-.bgA-ini {background-attachment: initial}
-.bgA-l {background-attachment: local}
-.bgA-s {background-attachment: scroll}
-.bgA-uns {background-attachment: unset}
+.bgA-f {
+  background-attachment: fixed}
+.bgA-inh {
+  background-attachment: inherit}
+.bgA-ini {
+  background-attachment: initial}
+.bgA-l {
+  background-attachment: local}
+.bgA-s {
+  background-attachment: scroll}
+.bgA-uns {
+  background-attachment: unset}
 
 /* Background Blend Mode */
-.bgBM-c {background-blend-mode: color}
-.bgBM-cb {background-blend-mode: color-burn}
-.bgBM-cd {background-blend-mode: color-dodge}
-.bgBM-d {background-blend-mode: darken}
-.bgBM-dif {background-blend-mode: difference}
-.bgBM-e {background-blend-mode: exclusion}
-.bgBM-hl {background-blend-mode: hard-light}
-.bgBM-h {background-blend-mode: hue}
-.bgBM-inh {background-blend-mode: inherit}
-.bgBM-ini {background-blend-mode: initial}
-.bgBM-lig {background-blend-mode: lighten}
-.bgBM-lum {background-blend-mode: luminosity}
-.bgBM-m {background-blend-mode: multiply}
-.bgBM-n {background-blend-mode: normal}
-.bgBM-o {background-blend-mode: overlay}
-.bgBM-sat {background-blend-mode: saturation}
-.bgBM-scr {background-blend-mode: screen}
-.bgBM-sl {background-blend-mode: soft-light}
-.bgBM-u {background-blend-mode: unset}
+.bgBM-c {
+  background-blend-mode: color}
+.bgBM-cb {
+  background-blend-mode: color-burn}
+.bgBM-cd {
+  background-blend-mode: color-dodge}
+.bgBM-d {
+  background-blend-mode: darken}
+.bgBM-dif {
+  background-blend-mode: difference}
+.bgBM-e {
+  background-blend-mode: exclusion}
+.bgBM-hl {
+  background-blend-mode: hard-light}
+.bgBM-h {
+  background-blend-mode: hue}
+.bgBM-inh {
+  background-blend-mode: inherit}
+.bgBM-ini {
+  background-blend-mode: initial}
+.bgBM-lig {
+  background-blend-mode: lighten}
+.bgBM-lum {
+  background-blend-mode: luminosity}
+.bgBM-m {
+  background-blend-mode: multiply}
+.bgBM-n {
+  background-blend-mode: normal}
+.bgBM-o {
+  background-blend-mode: overlay}
+.bgBM-sat {
+  background-blend-mode: saturation}
+.bgBM-scr {
+  background-blend-mode: screen}
+.bgBM-sl {
+  background-blend-mode: soft-light}
+.bgBM-uns {
+  background-blend-mode: unset}
 
 /* Background Clip */
 .bgC-bb {background-clip: border-box}
