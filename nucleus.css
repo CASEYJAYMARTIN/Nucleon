@@ -202,10 +202,26 @@
   animation-direction: unset}
 
 /* Animation Iteration Count */
-.aIC-i {animation-iteration-count: infinite}
-.aIC-inh {animation-iteration-count: inherit}
-.aIC-ini {animation-iteration-count: initial}
-.aIC-uns {animation-iteration: unset}
+.aIC-i {
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -o-animation-iteration-count: infinite;
+  animation-iteration-count: infinite}
+.aIC-inh {
+  -webkit-animation-iteration-count: inherit;
+  -moz-animation-iteration-count: inherit;
+  -o-animation-iteration-count: inherit;
+  animation-iteration-count: inherit}
+.aIC-ini {
+  -webkit-animation-iteration-count: initial;
+  -moz-animation-iteration-count: initial;
+  -o-animation-iteration-count: initial;
+  animation-iteration-count: initial}
+.aIC-uns {
+  -webkit-animation-iteration-count: unset;
+  -moz-animation-iteration-count: unset;
+  -o-animation-iteration-count: unset;
+  animation-iteration-count: unset}
 
 /* Animation Fill Mode */
 .aFM-bw {animation-fill-mode: backwards}
