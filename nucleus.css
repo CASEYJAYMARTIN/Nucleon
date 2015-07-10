@@ -2048,6 +2048,20 @@
 .sST-u {
   scroll-snap-type: unset}
 
+/* Scroll Snap Type X */
+.sSTX-inh {
+  scroll-snap-type-x: inherit}
+.sSTX-ini {
+  scroll-snap-type-x: initial}
+.sSTX-m {
+  scroll-snap-type-x: mandatory}
+.sSTX-n {
+  scroll-snap-type-x: none}
+.sSTX-p {
+  scroll-snap-type-x: proximity}
+.sSTX-uns {
+  scroll-snap-type-x: unset}
+
 /* Shape Rendering */
 .sR-a {
   shape-rendering: auto}
