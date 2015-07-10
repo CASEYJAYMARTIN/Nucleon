@@ -87,15 +87,42 @@
   align-items: unset}
 
 /* Align Self */
-.aS-a {align-self: auto}
-.aS-b {align-self: baseline}
-.aS-c {align-self: center}
-.aS-fe {align-self: flex-end}
-.aS-fs {align-self: flex-start}
-.aS-inh {align-self: inherit}
-.aS-ini {align-self: initial}
-.aS-s {align-self: stretch}
-.aS-uns {align-self: unset}
+.aS-a {
+  -webkit-align-self: auto;
+  -ms-flex-item-align: auto;
+  align-self: auto}
+.aS-b {
+  -webkit-align-self: baseline;
+  -ms-flex-item-align: baseline;
+  align-self: baseline}
+.aS-c {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center}
+.aS-fe {
+  -webkit-align-self: flex-end;
+  -ms-flex-item-align: end;
+  align-self: flex-end}
+.aS-fs {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start}
+.aS-inh {
+  -webkit-align-self: inherit;
+  -ms-flex-item-align: inherit;
+  align-self: inherit}
+.aS-ini {
+  -webkit-align-self: initial;
+  -ms-flex-item-align: initial;
+  align-self: initial}
+.aS-s {
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch}
+.aS-uns {
+  -webkit-align-self: unset;
+  -ms-flex-item-align: unset;
+  align-self: unset}
 
 /* Alignment Baseline */
 .aB-a {alignment-baseline: auto}
