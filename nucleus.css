@@ -288,16 +288,56 @@
   animation-play-state: unset}
 
 /* Animation Timing Function */
-.aTF-e {animation-timing-function: ease}
-.aTF-ei {animation-timing-function: ease-in}
-.aTF-eio {animation-timing-function: ease-in-out}
-.aTF-eo {animation-timing-function: ease-out}
-.aTF-inh {animation-timing-function: inherit}
-.aTF-ini {animation-timing-function: initial}
-.aTF-l {animation-timing-function: linear}
-.aTF-se {animation-timing-function: step-end}
-.aTF-ss {animation-timing-function: step-start}
-.aTF-uns {animation-timing-funciton: unset}
+.aTF-e {
+  -webkit-animation-timing-function: ease;
+  -moz-animation-timing-function: ease;
+  -o-animation-timing-function: ease;
+  animation-timing-function: ease}
+.aTF-ei {
+  -webkit-animation-timing-function: ease-in;
+  -moz-animation-timing-function: ease-in;
+  -o-animation-timing-function: ease-in;
+  animation-timing-function: ease-in}
+.aTF-eio {
+  -webkit-animation-timing-function: ease-in-out;
+  -moz-animation-timing-function: ease-in-out;
+  -o-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out}
+.aTF-eo {
+  -webkit-animation-timing-function: ease-out;
+  -moz-animation-timing-function: ease-out;
+  -o-animation-timing-function: ease-out;
+  animation-timing-function: ease-out}
+.aTF-inh {
+  -webkit-animation-timing-function: inherit;
+  -moz-animation-timing-function: inherit;
+  -o-animation-timing-function: inherit;
+  animation-timing-function: inherit}
+.aTF-ini {
+  -webkit-animation-timing-function: initial;
+  -moz-animation-timing-function: initial;
+  -o-animation-timing-function: initial;
+  animation-timing-function: initial}
+.aTF-l {
+  -webkit-animation-timing-function: linear;
+  -moz-animation-timing-function: linear;
+  -o-animation-timing-function: linear;
+  animation-timing-function: linear}
+.aTF-se {
+  -webkit-animation-timing-function: step-end;
+  -moz-animation-timing-function: step-end;
+  -o-animation-timing-function: step-end;
+  animation-timing-function: step-end}
+.aTF-ss {
+  -webkit-animation-timing-function: step-start;
+  -moz-animation-timing-function: step-start;
+  -o-animation-timing-function: step-start;
+  animation-timing-function: step-start}
+.aTF-uns {
+  -webkit-animation-timing-function: unset;
+  -moz-animation-timing-function: unset;
+  -o-animation-timing-function: unset;
+  animation-timing-function: unset}
 
 /* Backface Visibility */
 .bV-h {backface-visibility: hidden}
