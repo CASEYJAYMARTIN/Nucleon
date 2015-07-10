@@ -416,12 +416,36 @@
   background-blend-mode: unset}
 
 /* Background Clip */
-.bgC-bb {background-clip: border-box}
-.bgC-cb {background-clip: content-box}
-.bgC-inh {background-clip: inherit}
-.bgC-ini {background-clip: initial}
-.bgC-pb {background-clip: padding-box}
-.gbC-uns {background-clip: unset}
+.bgC-bb {
+  -webkit-background-clip: border-box;
+  -moz-background-clip: border-box;
+  -o-background-clip: border-box;
+  background-clip: border-box}
+.bgC-cb {
+  -webkit-background-clip: content-box;
+  -moz-background-clip: content-box;
+  -o-background-clip: content-box;
+  background-clip: content-box}
+.bgC-inh {
+  -webkit-background-clip: inherit;
+  -moz-background-clip: inherit;
+  -o-background-clip: inherit;
+  background-clip: inherit}
+.bgC-ini {
+  -webkit-background-clip: initial;
+  -moz-background-clip: initial;
+  -o-background-clip: initial;
+  background-clip: initial}
+.bgC-pb {
+  -webkit-background-clip: padding-box;
+  -moz-background-clip: padding-box;
+  -o-background-clip: padding-box;
+  background-clip: padding-box}
+.gbC-uns {
+  -webkit-background-clip: unset;
+  -moz-background-clip: unset;
+  -o-background-clip: unset;
+  background-clip: unset}
 
 /* Background Origin */
 .bgO-bb {background-origin: border-box}
