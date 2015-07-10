@@ -2034,6 +2034,20 @@
 .sB-uns {
   scroll-behavior: unset}
 
+/* Scroll Snap Type */
+.sST-inh {
+  scroll-snap-type: inherit}
+.sST-ini {
+  scroll-snap-type: initial}
+.sST-m {
+  scroll-snap-type: mandatory}
+.sST-n {
+  scroll-snap-type: none}
+.sST-p {
+  scroll-snap-type: proximity}
+.sST-u {
+  scroll-snap-type: unset}
+
 /* Shape Rendering */
 .sR-a {
   shape-rendering: auto}
