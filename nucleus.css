@@ -224,13 +224,41 @@
   animation-iteration-count: unset}
 
 /* Animation Fill Mode */
-.aFM-bw {animation-fill-mode: backwards}
-.aFM-b {animation-fill-mode: both}
-.aFM-f {animation-fill-mode: forwards}
-.aFM-inh {animation-fill-mode: inherit}
-.aFM-ini {animation-fill-mode: initial}
-.aFM-n {animation-fill-mode: none}
-.aFM-uns {animation-fill-mode: unset}
+.aFM-bw {
+  -webkit-animation-fill-mode: backwards;
+  -moz-animation-fill-mode: backwards;
+  -o-animation-fill-mode: backwards;
+  animation-fill-mode: backwards}
+.aFM-b {
+  -webkit-animation-fill-mode: both;
+  -moz-animation-fill-mode: both;
+  -o-animation-fill-mode: both;
+  animation-fill-mode: both}
+.aFM-f {
+  -webkit-animation-fill-mode: forwards;
+  -moz-animation-fill-mode: forwards;
+  -o-animation-fill-mode: forwards;
+  animation-fill-mode: forwards}
+.aFM-inh {
+  -webkit-animation-fill-mode: inherit;
+  -moz-animation-fill-mode: inherit;
+  -o-animation-fill-mode: inherit;
+  animation-fill-mode: inherit}
+.aFM-ini {
+  -webkit-animation-fill-mode: initial;
+  -moz-animation-fill-mode: initial;
+  -o-animation-fill-mode: initial;
+  animation-fill-mode: initial}
+.aFM-n {
+  -webkit-animation-fill-mode: none;
+  -moz-animation-fill-mode: none;
+  -o-animation-fill-mode: none;
+  animation-fill-mode: none}
+.aFM-uns {
+  -webkit-animation-fill-mode: unset;
+  -moz-animation-fill-mode: unset;
+  -o-animation-fill-mode: unset;
+  animation-fill-mode: unset}
 
 /* Animation Play State */
 .aPS-inh {animation-play-state: inherit}
