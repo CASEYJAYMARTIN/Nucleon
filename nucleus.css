@@ -2062,6 +2062,20 @@
 .sSTX-uns {
   scroll-snap-type-x: unset}
 
+/* Scroll Snap Type Y */
+.sSTY-inh {
+  scroll-snap-type-y: inherit}
+.sSTY-ini {
+  scroll-snap-type-y: initial}
+.sSTY-m {
+  scroll-snap-type-y: mandatory}
+.sSTY-n {
+  scroll-snap-type-y: none}
+.sSTY-p {
+  scroll-snap-type-y: proximity}
+.sSTY-uns {
+  scroll-snap-type-y: unset}
+
 /* Shape Rendering */
 .sR-a {
   shape-rendering: auto}
