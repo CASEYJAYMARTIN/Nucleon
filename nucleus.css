@@ -2076,6 +2076,32 @@
 .sSTY-uns {
   scroll-snap-type-y: unset}
 
+/* Shape Outside */
+.sO-bb {
+  -webkit-shape-outside: border-box;
+  shape-outside: border-box}
+.sO-cb {
+  -webkit-shape-outside: content-box;
+  shape-outside: content-box}
+.sO-inh {
+  -webkit-shape-outside: inherit;
+  shape-outside: inherit}
+.sO-ini {
+  -webkit-shape-outside: initial;
+  shape-outside: initial}
+.sO-mb {
+  -webkit-shape-outside: margin-box;
+  shape-outside: margin-box}
+.sO-n {
+  -webkit-shape-outside: none;
+  shape-outside: none}
+.sO-pb {
+  -webkit-shape-outside: padding-box;
+  shape-outside: padding-box}
+.sO-uns {
+  -webkit-shape-outside: unset;
+  shape-outside: unset}
+
 /* Shape Rendering */
 .sR-a {
   shape-rendering: auto}
