@@ -2118,6 +2118,24 @@
 .sR-uns {
   shape-rendering: unset}
 
+/* Speak As */
+.sA-a {
+  speak-as: auto}
+.sA-b {
+  speak-as: bullets}
+.sA-inh {
+  speak-as: inherit}
+.sA-ini {
+  speak-as: initial}
+.sA-n {
+  speak-as: numbers}
+.sA-so {
+  speak-as: spell-out}
+.sA-uns {
+  speak-as: unset}
+.sA-w {
+  speak-as: words}
+
 /* Stroke Linecap */
 .sLC-b {
   stroke-linecap: butt}
