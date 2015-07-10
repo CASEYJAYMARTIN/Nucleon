@@ -2142,39 +2142,74 @@
   text-overflow: unset}
 
 /* Text Rendering */
-.tR-a {text-rendering: auto}
-.tR-gP {text-rendering: geometricPrecision}
-.tR-inh {text-rendering: inherit}
-.tR-ini {text-rendering: initial}
-.tR-oL {text-rendering: optimizeLegibility}
-.tR-oS {text-rendering: optimizeSpeed}
-.tR-uns {text-renderin: unset}
+.tR-a {
+  text-rendering: auto}
+.tR-gP {
+  text-rendering: geometricPrecision}
+.tR-inh {
+  text-rendering: inherit}
+.tR-ini {
+  text-rendering: initial}
+.tR-oL {
+  text-rendering: optimizeLegibility}
+.tR-oS {
+  text-rendering: optimizeSpeed}
+.tR-uns {
+  text-renderin: unset}
 
 /* Text Transform */
-.tT-c {text-transform: capitalize}
-.tT-inh {text-transform: inherit}
-.tT-ini {text-transform: initial}
-.tT-l {text-transform: lowercase}
-.tT-n {text-transform: none}
-.tT-uns {text-decoration: unset}
-.tT-u {text-transform: uppercase}
+.tT-c {
+  text-transform: capitalize}
+.tT-inh {
+  text-transform: inherit}
+.tT-ini {
+  text-transform: initial}
+.tT-l {
+  text-transform: lowercase}
+.tT-n {
+  text-transform: none}
+.tT-uns {
+  text-decoration: unset}
+.tT-u {
+  text-transform: uppercase}
 
 /* Text Underline Position */
-.tUP-a {text-underline-position: auto}
-.tUP-inh {text-underline-position: inherit}
-.tUP-ini {text-underline-position: initial}
-.tUP-u {text-underline-position: under}
-.tUP-uns {text-decoration: unset}
+.tUP-a {
+  text-underline-position: auto}
+.tUP-inh {
+  text-underline-position: inherit}
+.tUP-ini {
+  text-underline-position: initial}
+.tUP-u {
+  text-underline-position: under}
+.tUP-uns {
+  text-decoration: unset}
 
 /* Touch Action */
-.tA-a {touch-action: auto}
-.tA-inh {touch-action: inherit}
-.tA-ini {touch-action: initial}
-.tA-m {touch-action: manipulation}
-.tA-n {touch-action: none}
-.tA-px {touch-action: pan-x}
-.tA-py {touch-action: pan-y}
-.tA-uns {touch-action: unset}
+.tA-a {
+  -ms-touch-action: auto;
+  touch-action: auto}
+.tA-inh {
+  -ms-touch-action: inherit;
+  touch-action: inherit}
+.tA-ini {
+  -ms-touch-action: initial;
+  touch-action: initial}
+.tA-m {
+  -ms-touch-action: manipulation;
+  touch-action: manipulation}
+.tA-n {
+  -ms-touch-action: none;
+  touch-action: none}
+.tA-px {
+  -ms-touch-action: pan-x;
+  touch-action: pan-x}
+.tA-py {
+  -ms-touch-action: pan-y;
+  touch-action: pan-y}
+.tA-uns {
+  -ms-touch-action: unset;
+  touch-action: unset}
 
 /* Transform Origin */
 .tO-cb {transform-origin: center bottom}
