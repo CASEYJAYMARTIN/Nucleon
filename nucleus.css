@@ -2308,16 +2308,56 @@
   transform-style: unset}
 
 /* Transition Timing Function */
-.tTF-e {transition-timing-function: ease}
-.tTF-ei {transition-timing-function: ease-in}
-.tTF-eio {transition-timing-function: ease-in-out}
-.tTF-eo {transition-timing-function: ease-out}
-.tTF-inh {transition-timing-function: inherit}
-.tTF-ini {transition-timing-function: initial}
-.tTF-l {transition-timing-function: linear}
-.tTF-se {transition-timing-function: step-end}
-.tTF-ss {transition-timing-function: step-start}
-.tTF-uns {transition-timing-function: unset}
+.tTF-e {
+  -webkit-transition-timing-function: ease;
+  -moz-transition-timing-function: ease;
+  -o-transition-timing-function: ease;
+  transition-timing-function: ease}
+.tTF-ei {
+  -webkit-transition-timing-function: ease-in;
+  -moz-transition-timing-function: ease-in;
+  -o-transition-timing-function: ease-in;
+  transition-timing-function: ease-in}
+.tTF-eio {
+  -webkit-transition-timing-function: ease-in-out;
+  -moz-transition-timing-function: ease-in-out;
+  -o-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out}
+.tTF-eo {
+  -webkit-transition-timing-function: ease-out;
+  -moz-transition-timing-function: ease-out;
+  -o-transition-timing-function: ease-out;
+  transition-timing-function: ease-out}
+.tTF-inh {
+  -webkit-transition-timing-function: inherit;
+  -moz-transition-timing-function: inherit;
+  -o-transition-timing-function: inherit;
+  transition-timing-function: inherit}
+.tTF-ini {
+  -webkit-transition-timing-function: initial;
+  -moz-transition-timing-function: initial;
+  -o-transition-timing-function: initial;
+  transition-timing-function: initial}
+.tTF-l {
+  -webkit-transition-timing-function: linear;
+  -moz-transition-timing-function: linear;
+  -o-transition-timing-function: linear;
+  transition-timing-function: linear}
+.tTF-se {
+  -webkit-transition-timing-function: step-end;
+  -moz-transition-timing-function: step-end;
+  -o-transition-timing-function: step-end;
+  transition-timing-function: step-end}
+.tTF-ss {
+  -webkit-transition-timing-function: step-start;
+  -moz-transition-timing-function: step-start;
+  -o-transition-timing-function: step-start;
+  transition-timing-function: step-start}
+.tTF-uns {
+  -webkit-transition-timing-function: unset;
+  -moz-transition-timing-function: unset;
+  -o-transition-timing-function: unset;
+  transition-timing-function: unset}
 
 /* Unicode Bidi */
 .uB-bo {unicode-bidi: bidi-override}
