@@ -2192,6 +2192,38 @@
 .tA-uns {
   text-align: unset}
 
+/* Text Align Last */
+.tAL-a {
+  -moz-text-align-last: auto;
+  text-align-last: auto}
+.tAL-c {
+  -moz-text-align-last: center;
+  text-align-last: center}
+.tAL-e {
+  -moz-text-align-last: end;
+  text-align-last: end}
+.tAL-inh {
+  -moz-text-align-last: inherit;
+  text-align-last: inherit}
+.tAL-ini {
+  -moz-text-align-last: initial;
+  text-align-last: initial}
+.tAL-j {
+  -moz-text-align-last: justify;
+  text-align-last: justify}
+.tAL-l {
+  -moz-text-align-last: left;
+  text-align-last: left}
+.tAL-r {
+  -moz-text-align-last: right;
+  text-align-last: right}
+.tAL-s {
+  -moz-text-align-last: start;
+  text-align-last: start}
+.tAL-uns {
+  -moz-text-align-last: unset;
+  text-align-last: unset}
+
 /* Text Anchor */
 .tAn-e {
   text-anchor: end}
