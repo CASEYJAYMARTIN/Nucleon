@@ -2076,6 +2076,17 @@
 .sSTY-uns {
   scroll-snap-type-y: unset}
 
+/* Shape Image Threshold */
+.sIT-inh {
+  -webkit-shape-image-threshold: inherit;
+  shape-image-threshold: inherit}
+.sIT-ini {
+  -webkit-shape-image-threshold: initial;
+  shape-image-threshold: initial}
+.sIT-uns {
+  -webkit-shape-image-threshold: unset;
+  shape-image-threshold: unset}
+
 /* Shape Outside */
 .sO-bb {
   -webkit-shape-outside: border-box;
