@@ -1581,21 +1581,64 @@
   image-rendering: unset}
 
 /* Isolation */
-.i-a {isolation: auto}
-.i-inh {isolation: inherit}
-.i-ini {isolation: initial}
-.i-i {isolation: isolate}
-.i-uns {isolation: unset}
+.i-a {
+  isolation: auto}
+.i-inh {
+  isolation: inherit}
+.i-ini {
+  isolation: initial}
+.i-i {
+  isolation: isolate}
+.i-uns {
+  isolation: unset}
 
 /* Justify Content */
-.jC-c {justify-content: center}
-.jC-fe {justify-content: flex-end}
-.jC-fs {justify-content: flex-start}
-.jC-inh {justify-content: inherit}
-.jC-ini {justify-content: initial}
-.jC-sa {justify-content: space-around}
-.jC-sb {justify-content: space-between}
-.jC-uns {justify-content: unset}
+.jC-c {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -moz-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center}
+.jC-fe {
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -moz-box-pack: end;
+  -ms-flex-pack: end;
+  justify-content: flex-end}
+.jC-fs {
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -moz-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start}
+.jC-inh {
+  -webkit-box-pack: inherit;
+  -webkit-justify-content: inherit;
+  -moz-box-pack: inherit;
+  -ms-flex-pack: inherit;
+  justify-content: inherit}
+.jC-ini {
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -moz-box-pack: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial}
+.jC-sa {
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: distribute;
+  justify-content: space-around}
+.jC-sb {
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -moz-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between}
+.jC-uns {
+  -webkit-box-pack: unset;
+  -webkit-justify-content: unset;
+  -moz-box-pack: unset;
+  -ms-flex-pack: unset;
+  justify-content: unset}
 
 /* Line Break */
 .lB-a {line-break: auto}
