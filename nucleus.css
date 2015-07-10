@@ -1361,12 +1361,30 @@
   flex-direction: unset}
 
 /* Flex Wrap */
-.fW-inh {flex-wrap: inherit}
-.fW-ini {flex-wrap: initial}
-.fW-n {flex-wrap: nowrap}
-.fW-uns {flex-wrap: unset}
-.fW-w {flex-wrap: wrap}
-.fW-wr {flex-wrap: wrap-reverse}
+.fW-inh {
+  -webkit-flex-wrap: inherit;
+  -ms-flex-wrap: inherit;
+  flex-wrap: inherit}
+.fW-ini {
+  -webkit-flex-wrap: initial;
+  -ms-flex-wrap: initial;
+  flex-wrap: initial}
+.fW-n {
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap}
+.fW-uns {
+  -webkit-flex-wrap: unset;
+  -ms-flex-wrap: unset;
+  flex-wrap: unset}
+.fW-w {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap}
+.fW-wr {
+  -webkit-flex-wrap: wrap-reverse;
+  -ms-flex-wrap: wrap-reverse;
+  flex-wrap: wrap-reverse}
 
 /* Float */
 .f-inh {float: inherit}
