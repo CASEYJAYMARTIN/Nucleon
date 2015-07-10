@@ -1878,149 +1878,268 @@
   object-position: unset}
 
 /* Opacity */
-.o-0 {opacity: 0}
-.o-1 {opacity: 1}
+.o-0 {
+  opacity: 0}
+.o-1 {
+  opacity: 1}
 
 /* Outline Style */
-.oS-das {outline-style: dashed}
-.oS-dot {outline-style: dotted}
-.oS-dou {outline-style: double}
-.oS-g {outline-style: groove}
-.oS-inh {outline-style: inherit}
-.oS-ini {outline-style: initial}
-.oS-i {outline-style: inset}
-.oS-n {outline-style: none}
-.oS-o {outline-style: outset}
-.oS-r {outline-style: ridge}
-.oS-s {outline-style: solid}
-.oS-uns {outline-style: unset}
-.oS-wi {outline-style: window-inset}
+.oS-das {
+  outline-style: dashed}
+.oS-dot {
+  outline-style: dotted}
+.oS-dou {
+  outline-style: double}
+.oS-g {
+  outline-style: groove}
+.oS-inh {
+  outline-style: inherit}
+.oS-ini {
+  outline-style: initial}
+.oS-i {
+  outline-style: inset}
+.oS-n {
+  outline-style: none}
+.oS-o {
+  outline-style: outset}
+.oS-r {
+  outline-style: ridge}
+.oS-s {
+  outline-style: solid}
+.oS-uns {
+  outline-style: unset}
+.oS-wi {
+  outline-style: window-inset}
 
 /* Overflow */
-.o-a {overflow: auto}
-.o-h {overflow: hidden}
-.o-inh {overflow: inherit}
-.o-ini {overflow: initial}
-.o-s {overflow: scroll}
-.o-uns {overflow: unset}
-.o-v {overflow: visible}
+.o-a {
+  overflow: auto}
+.o-h {
+  overflow: hidden}
+.o-inh {
+  overflow: inherit}
+.o-ini {
+  overflow: initial}
+.o-s {
+  overflow: scroll}
+.o-uns {
+  overflow: unset}
+.o-v {
+  overflow: visible}
 
 /* Overflow Wrap */
-.oW-bw {word-wrap: break-word; overflow-wrap: break-word}
-.oW-inh {word-wrap: inherit; overflow-wrap: inherit}
-.oW-ini {word-wrap: initial; overflow-wrap: initial}
-.oW-n {word-wrap: normal; overflow-wrap: normal}
-.oW-uns {word-wrap: unset}
+.oW-bw {
+  word-wrap: break-word;
+  overflow-wrap: break-word}
+.oW-inh {
+  word-wrap: inherit;
+  overflow-wrap: inherit}
+.oW-ini {
+  word-wrap: initial;
+  overflow-wrap: initial}
+.oW-n {
+  word-wrap: normal;
+  overflow-wrap: normal}
+.oW-uns {
+  word-wrap: unset;
+  overflow-wrap: unset}
 
 /* Padding */
-.p-0 {padding: 0}
+.p-0 {
+  padding: 0}
 
 /* Pointer Events */
-.pE-a {pointer-events: auto}
-.pE-inh {pointer-events: inherit}
-.pE-ini {pointer-events: initial}
-.pE-n {pointer-events: none}
-.pE-uns {pointer-events: unset}
+.pE-a {
+  pointer-events: auto}
+.pE-inh {
+  pointer-events: inherit}
+.pE-ini {
+  pointer-events: initial}
+.pE-n {
+  pointer-events: none}
+.pE-uns {
+  pointer-events: unset}
 
 /* Position */
-.p-a {position: absolute}
-.p-f {position: fixed}
-.p-inh {position: inherit}
-.p-ini {position: initial}
-.p-r {position: relative}
-.p-s {position: static}
-.p-uns {position: unset}
+.p-a {
+  position: absolute}
+.p-f {
+  position: fixed}
+.p-inh {
+  position: inherit}
+.p-ini {
+  position: initial}
+.p-r {
+  position: relative}
+.p-s {
+  position: static}
+.p-uns {
+  position: unset}
 
 /* Resize */
-.r-b {resize: both}
-.r-h {resize: horizontal}
-.r-inh {resize: inherit}
-.r-ini {resize: initial}
-.r-n {resize: none}
-.r-uns {resize: unset}
-.r-v {resize: vertical}
+.r-b {
+  resize: both}
+.r-h {
+  resize: horizontal}
+.r-inh {
+  resize: inherit}
+.r-ini {
+  resize: initial}
+.r-n {
+  resize: none}
+.r-uns {
+  resize: unset}
+.r-v {
+  resize: vertical}
 
 /* Ruby Align */
-.rA-c {ruby-align: center}
-.rA-inh {ruby-align: inherit}
-.rA-ini {ruby-align: initial}
-.rA-sa {ruby-align: space-around}
-.rA-sb {ruby-align: space-between}
-.rA-s {ruby-align: start}
-.rA-uns {ruby-align: unset}
+.rA-c {
+  ruby-align: center}
+.rA-inh {
+  ruby-align: inherit}
+.rA-ini {
+  ruby-align: initial}
+.rA-sa {
+  ruby-align: space-around}
+.rA-sb {
+  ruby-align: space-between}
+.rA-s {
+  ruby-align: start}
+.rA-uns {
+  ruby-align: unset}
 
 /* Ruby Position */
-.rP-inh {ruby-position: inherit}
-.rP-ini {ruby-position: initial}
-.rP-ic {ruby-position: inter-character}
-.rP-o {ruby-position: over}
-.rP-und {ruby-position: under}
-.rP-uns {ruby-position: unset}
+.rP-inh {
+  ruby-position: inherit}
+.rP-ini {
+  ruby-position: initial}
+.rP-ic {
+  ruby-position: inter-character}
+.rP-o {
+  ruby-position: over}
+.rP-und {
+  ruby-position: under}
+.rP-uns {
+  ruby-position: unset}
 
 /* Shape Rendering */
-.sR-a {shape-rendering: auto}
-.sR-cE {shape-rendering: crispEdges}
-.sR-gP {shape-rendering: geometricPrecision}
-.sR-inh {shape-rendering: inherit}
-.sR-ini {shape-rendering: initial}
-.sR-oS {shape-rendering: optimizeSpeed}
-.sR-uns {shape-rendering: unset}
+.sR-a {
+  shape-rendering: auto}
+.sR-cE {
+  shape-rendering: crispEdges}
+.sR-gP {
+  shape-rendering: geometricPrecision}
+.sR-inh {
+  shape-rendering: inherit}
+.sR-ini {
+  shape-rendering: initial}
+.sR-oS {
+  shape-rendering: optimizeSpeed}
+.sR-uns {
+  shape-rendering: unset}
 
 /* Stroke Linecap */
-.sLC-b {stroke-linecap: butt}
-.sLC-inh {stroke-linecap: inherit}
-.sLC-ini {stroke-linecap: initial}
-.sLC-r {stroke-linecap: round}
-.sLC-s {stroke-linecap: square}
-.sLC-uns {stroke-linecap: unset}
+.sLC-b {
+  stroke-linecap: butt}
+.sLC-inh {
+  stroke-linecap: inherit}
+.sLC-ini {
+  stroke-linecap: initial}
+.sLC-r {
+  stroke-linecap: round}
+.sLC-s {
+  stroke-linecap: square}
+.sLC-uns {
+  stroke-linecap: unset}
 
 /* Stroke Linejoin */
-.sLJ-b {stroke-linejoin: bevel}
-.sLJ-inh {stroke-linejoin: inherit}
-.sLJ-ini {stroke-linejoin: initial}
-.sLJ-m {stroke-linejoin: miter}
-.sLJ-r {stroke-linejoin: round}
-.sLJ-uns {stroke-linejoin: unset}
+.sLJ-b {
+  stroke-linejoin: bevel}
+.sLJ-inh {
+  stroke-linejoin: inherit}
+.sLJ-ini {
+  stroke-linejoin: initial}
+.sLJ-m {
+  stroke-linejoin: miter}
+.sLJ-r {
+  stroke-linejoin: round}
+.sLJ-uns {
+  stroke-linejoin: unset}
 
 /* Table Layout */
-.tL-a {table-layout: auto}
-.tL-f {table-layout: fixed}
-.tL-inh {table-layout: inherit}
-.tL-ini {table-layout: initial}
-.tL-uns {table-layout: unset}
+.tL-a {
+  table-layout: auto}
+.tL-f {
+  table-layout: fixed}
+.tL-inh {
+  table-layout: inherit}
+.tL-ini {
+  table-layout: initial}
+.tL-uns {
+  table-layout: unset}
 
 /* Text Align */
-.tA-c {text-align: center}
-.tA-j {text-align: justify}
-.tA-inh {text-align: inherit}
-.tA-ini {text-align: initial}
-.tA-l {text-align: left}
-.tA-r {text-align: right}
-.tA-uns {text-align: unset}
+.tA-c {
+  text-align: center}
+.tA-j {
+  text-align: justify}
+.tA-inh {
+  text-align: inherit}
+.tA-ini {
+  text-align: initial}
+.tA-l {
+  text-align: left}
+.tA-r {
+  text-align: right}
+.tA-uns {
+  text-align: unset}
 
 /* Text Anchor */
-.tAn-e {text-anchor: end}
-.tAn-inh {text-anchor: inherit}
-.tAn-ini {text-anchor: initial}
-.tAn-s {text-anchor: start}
-.tAn-m {text-anchor: middle}
-.tAn-uns {text-anchor: unset}
+.tAn-e {
+  text-anchor: end}
+.tAn-inh {
+  text-anchor: inherit}
+.tAn-ini {
+  text-anchor: initial}
+.tAn-s {
+  text-anchor: start}
+.tAn-m {
+  text-anchor: middle}
+.tAn-uns {
+  text-anchor: unset}
 
 /* Text Decoration */
-.tD-inh {text-decoration: inherit}
-.tD-ini {text-decoration: initial}
-.tD-l {text-decoration: line-through}
-.tD-n {text-decoration: none}
-.tD-o {text-decoration: overline}
-.tD-u {text-decoration: underline}
-.tD-uns {text-decoration: unset}
+.tD-inh {
+  text-decoration: inherit}
+.tD-ini {
+  text-decoration: initial}
+.tD-l {
+  text-decoration: line-through}
+.tD-n {
+  text-decoration: none}
+.tD-o {
+  text-decoration: overline}
+.tD-u {
+  text-decoration: underline}
+.tD-uns {
+  text-decoration: unset}
 
 /* Text Overflow */
-.tO-c {text-overflow: clip}
-.tO-e {text-overflow: ellipsis}
-.tO-inh {text-overflow: inherit}
-.tO-ini {text-overflow: initial}
-.tO-uns {text-overflow: unset}
+.tO-c {
+  -o-text-overflow: clip;
+  text-overflow: clip}
+.tO-e {
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis}
+.tO-inh {
+  -o-text-overflow: inherit;
+  text-overflow: inherit}
+.tO-ini {
+  -o-text-overflow: initial;
+  text-overflow: initial}
+.tO-uns {
+  -o-text-overflow: unset;
+  text-overflow: unset}
 
 /* Text Rendering */
 .tR-a {text-rendering: auto}
