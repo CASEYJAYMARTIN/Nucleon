@@ -577,94 +577,178 @@
   background-size: unset}
 
 /* Baseline Shift */
-.blS-a {baseline-shift: auto}
-.blS-b {baseline-shift: baseline}
-.blS-inh {baseline-shift: inherit}
-.blS-ini {baseline-shift: initial}
-.blS-sub {baseline-shift: sub}
-.blS-sup {baseline-shift: super}
-.blS-uns {baseline-shift: unset}
+.blS-a {
+  baseline-shift: auto}
+.blS-b {
+  baseline-shift: baseline}
+.blS-inh {
+  baseline-shift: inherit}
+.blS-ini {
+  baseline-shift: initial}
+.blS-sub {
+  baseline-shift: sub}
+.blS-sup {
+  baseline-shift: super}
+.blS-uns {
+  baseline-shift: unset}
 
 /* Border */
-.b-0 {border: 0}
+.b-0 {
+  border: 0}
 
 /* Border Bottom Style */
-.bBS-das {border-bottom-style: dashed}
-.bBS-dou {border-bottom-style: double}
-.bBS-dot {border-bottom-style: dotted}
-.bBS-g {border-bottom-style: groove}
-.bBS-h {border-bottom-style: hidden}
-.bBS-inh {border-bottom-style: inherit}
-.bBS-ini {border-bottom-style: initial}
-.bBS-ins {border-bottom-style: inset}
-.bBS-i {border-bottom-style: inset}
-.bBS-n {border-bottom-style: none}
-.bBS-o {border-bottom-style: outset}
-.bBS-r {border-bottom-style: ridge}
-.bBS-s {border-bottom-style: solid}
-.bBS-uns {border-bottom-style: unset}
-.bBS-wi {border-bottom-style: window-inset}
+.bBS-das {
+  border-bottom-style: dashed}
+.bBS-dou {
+  border-bottom-style: double}
+.bBS-dot {
+  border-bottom-style: dotted}
+.bBS-g {
+  border-bottom-style: groove}
+.bBS-h {
+  border-bottom-style: hidden}
+.bBS-inh {
+  border-bottom-style: inherit}
+.bBS-ini {
+  border-bottom-style: initial}
+.bBS-ins {
+  border-bottom-style: inset}
+.bBS-i {
+  border-bottom-style: inset}
+.bBS-n {
+  border-bottom-style: none}
+.bBS-o {
+  border-bottom-style: outset}
+.bBS-r {
+  border-bottom-style: ridge}
+.bBS-s {
+  border-bottom-style: solid}
+.bBS-uns {
+  border-bottom-style: unset}
+.bBS-wi {
+  border-bottom-style: window-inset}
 
 /* Border Collapse */
-.bC-c {border-collapse: collapse}
-.bC-inh {border-collapse: inherit}
-.bC-ini {border-collapse: initial}
-.bC-s {border-collapse: separate}
-.bC-uns {border-collapse: unset}
+.bC-c {
+  border-collapse: collapse}
+.bC-inh {
+  border-collapse: inherit}
+.bC-ini {
+  border-collapse: initial}
+.bC-s {
+  border-collapse: separate}
+.bC-uns {
+  border-collapse: unset}
 
 /* Border Left Style */
-.bLS-das {border-left-style: dashed}
-.bLS-dou {border-left-style: double}
-.bLS-dot {border-left-style: dotted}
-.bLS-g {border-left-style: groove}
-.bLS-h {border-left-style: hidden}
-.bLS-inh {border-left-style: inherit}
-.bLS-ini {border-left-style: initial}
-.bLS-ins {border-left-style: inset}
-.bLS-i {border-left-style: inset}
-.bLS-n {border-left-style: none}
-.bLS-o {border-left-style: outset}
-.bLS-r {border-left-style: ridge}
-.bLS-s {border-left-style: solid}
-.bLS-uns {border-left-style: unset}
-.bLS-wi {border-left-style: window-inset}
+.bLS-das {
+  border-left-style: dashed}
+.bLS-dou {
+  border-left-style: double}
+.bLS-dot {
+  border-left-style: dotted}
+.bLS-g {
+  border-left-style: groove}
+.bLS-h {
+  border-left-style: hidden}
+.bLS-inh {
+  border-left-style: inherit}
+.bLS-ini {
+  border-left-style: initial}
+.bLS-ins {
+  border-left-style: inset}
+.bLS-i {
+  border-left-style: inset}
+.bLS-n {
+  border-left-style: none}
+.bLS-o {
+  border-left-style: outset}
+.bLS-r {
+  border-left-style: ridge}
+.bLS-s {
+  border-left-style: solid}
+.bLS-uns {
+  border-left-style: unset}
+.bLS-wi {
+  border-left-style: window-inset}
 
 /* Border Right Style */
-.bRS-das {border-right-style: dashed}
-.bRS-dou {border-right-style: double}
-.bRS-dot {border-right-style: dotted}
-.bRS-g {border-right-style: groove}
-.bRS-h {border-right-style: hidden}
-.bRS-inh {border-right-style: inherit}
-.bRS-ini {border-right-style: initial}
-.bRS-ins {border-right-style: inset}
-.bRS-i {border-right-style: inset}
-.bRS-n {border-right-style: none}
-.bRS-o {border-right-style: outset}
-.bRS-r {border-right-style: ridge}
-.bRS-s {border-right-style: solid}
-.bRS-uns {border-right-style: unset}
-.bRS-wi {border-right-style: window-inset}
+.bRS-das {
+  border-right-style: dashed}
+.bRS-dou {
+  border-right-style: double}
+.bRS-dot {
+  border-right-style: dotted}
+.bRS-g {
+  border-right-style: groove}
+.bRS-h {
+  border-right-style: hidden}
+.bRS-inh {
+  border-right-style: inherit}
+.bRS-ini {
+  border-right-style: initial}
+.bRS-ins {
+  border-right-style: inset}
+.bRS-i {
+  border-right-style: inset}
+.bRS-n {
+  border-right-style: none}
+.bRS-o {
+  border-right-style: outset}
+.bRS-r {
+  border-right-style: ridge}
+.bRS-s {
+  border-right-style: solid}
+.bRS-uns {
+  border-right-style: unset}
+.bRS-wi {
+  border-right-style: window-inset}
 
 /* Border Style */
-.bS-d {border-style: double}
-.bS-g {border-style: groove}
-.bS-h {border-style: hidden}
-.bS-inh {border-style: inherit}
-.bS-ini {border-style: initial}
-.bS-i {border-style: inset}
-.bS-n {border-style: none}
-.bS-o {border-style: outset}
-.bS-r {border-style: ridge}
-.bS-s {border-style: solid}
-.bS-uns {border-style: unset}
+.bS-d {
+  border-style: double}
+.bS-g {
+  border-style: groove}
+.bS-h {
+  border-style: hidden}
+.bS-inh {
+  border-style: inherit}
+.bS-ini {
+  border-style: initial}
+.bS-i {
+  border-style: inset}
+.bS-n {
+  border-style: none}
+.bS-o {
+  border-style: outset}
+.bS-r {
+  border-style: ridge}
+.bS-s {
+  border-style: solid}
+.bS-uns {
+  border-style: unset}
 
 /* Box Sizing */
-.bS-bb {box-sizing: border-box}
-.bS-cb {box-sizing: content-box}
-.bS-inh {box-sizing: inherit}
-.bS-ini {box-sizing: initial}
-.bS-uns {box-sizing: unset}
+.bS-bb {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box}
+.bS-cb {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box}
+.bS-inh {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit}
+.bS-ini {
+  -webkit-box-sizing: initial;
+  -moz-box-sizing: initial;
+  box-sizing: initial}
+.bS-uns {
+  -webkit-box-sizing: unset;
+  -moz-box-sizing: unset;
+  box-sizing: unset}
 
 /* Border Top Style */
 .bTS-das {border-top-style: dashed}
