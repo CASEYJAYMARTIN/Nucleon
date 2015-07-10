@@ -1535,27 +1535,50 @@
   hyphens: unset}
 
 /* Image Orientation */
-.iO-0 {image-orientation: 0deg}
-.iO-90 {image-orientation: 90deg}
-.iO-180 {image-orientation: 180deg}
-.iO-270 {image-orientation: 270deg}
-.iO-0f {image-orientation: 0deg flip}
-.iO-90f {image-orientation: 90deg flip}
-.iO-180f {image-orientation: 180deg flip}
-.iO-270f {image-orientation: 270deg flip}
-.iO-f {image-orientation: flip}
-.iO-fi {image-orientation: from-image}
-.iO-inh {image-orientation: inherit}
-.iO-ini {image-orientation: initial}
-.iO-uns {image-orientation: unset}
+.iO-0 {
+  image-orientation: 0deg}
+.iO-90 {
+  image-orientation: 90deg}
+.iO-180 {
+  image-orientation: 180deg}
+.iO-270 {
+  image-orientation: 270deg}
+.iO-0f {
+  image-orientation: 0deg flip}
+.iO-90f {
+  image-orientation: 90deg flip}
+.iO-180f {
+  image-orientation: 180deg flip}
+.iO-270f {
+  image-orientation: 270deg flip}
+.iO-f {
+  image-orientation: flip}
+.iO-fi {
+  image-orientation: from-image}
+.iO-inh {
+  image-orientation: inherit}
+.iO-ini {
+  image-orientation: initial}
+.iO-uns {
+  image-orientation: unset}
 
 /* Image Rendering */
-.iR-a {image-rendering: auto}
-.iR-ce {image-rendering: crisp-edges}
-.iR-inh {image-rendering: inherit}
-.iR-ini {image-rendering: initial}
-.iR-p {image-rendering: pixelated}
-.iR-uns {image-rendering: unset}
+.iR-a {
+  image-rendering: auto}
+.iR-ce {
+  image-rendering: crisp-edges}
+.iR-inh {
+  image-rendering: inherit}
+.iR-ini {
+  image-rendering: initial}
+.iR-p {
+  -ms-interpolation-mode: nearest-neighbor;
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -o-pixelated;
+  image-rendering: pixelated}
+.iR-uns {
+  image-rendering: unset}
 
 /* Isolation */
 .i-a {isolation: auto}
