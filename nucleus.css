@@ -1155,21 +1155,38 @@
   cursor: zoom-out}
 
 /* Direction */
-.dir-inh {direction: inherit}
-.dir-ini {direction: initial}
-.dir-ltr {direction: ltr}
-.dir-rtl {direction: rtl}
-.dir-uns {direction: unset}
+.dir-inh {
+  direction: inherit}
+.dir-ini {
+  direction: initial}
+.dir-ltr {
+  direction: ltr}
+.dir-rtl {
+  direction: rtl}
+.dir-uns {
+  direction: unset}
 
 /* Display */
-.d-b {display: block}
-.d-f {display: flex}
-.d-inh {display: inherit}
-.d-ini {display: initial}
-.d-i {display: inline}
-.d-ib {display: inline-block}
-.d-n {display: none}
-.d-uns {display: unset}
+.d-b {
+  display: block}
+.d-f {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex}
+.d-inh {
+  display: inherit}
+.d-ini {
+  display: initial}
+.d-i {
+  display: inline}
+.d-ib {
+  display: inline-block}
+.d-n {
+  display: none}
+.d-uns {
+  display: unset}
 
 /* Dominant Baseline */
 .dB-al {dominant-baseline: alphabetic}
