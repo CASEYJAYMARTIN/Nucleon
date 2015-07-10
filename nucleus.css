@@ -1387,77 +1387,152 @@
   flex-wrap: wrap-reverse}
 
 /* Float */
-.f-inh {float: inherit}
-.f-ini {float: initial}
-.f-l {float: left}
-.f-n {float: none}
-.f-r {float: right}
-.f-uns {float: unset}
+.f-inh {
+  float: inherit}
+.f-ini {
+  float: initial}
+.f-l {
+  float: left}
+.f-n {
+  float: none}
+.f-r {
+  float: right}
+.f-uns {
+  float: unset}
 
 /* Font Style */
-.fS-inh {font-style: inherit}
-.fS-ini {font-style: initial}
-.fS-i {font-style: italic}
-.fS-n {font-style: normal}
-.fS-o {font-style: oblique}
-.fS-uns {font-style: unset}
+.fS-inh {
+  font-style: inherit}
+.fS-ini {
+  font-style: initial}
+.fS-i {
+  font-style: italic}
+.fS-n {
+  font-style: normal}
+.fS-o {
+  font-style: oblique}
+.fS-uns {
+  font-style: unset}
 
 /* Font Stretch */
-.fS-c {font-stretch: condensed}
-.fS-e {font-stretch: expanded}
-.fS-ec {font-stretch: extra-condensed}
-.fS-ee {font-stretch: extra-expanded}
-.fS-inh {font-stretch: inherit}
-.fS-ini {font-stretch: initial}
-.fS-sc {font-stretch: semi-condensed}
-.fS-se {font-stretch: semi-expanded}
-.fS-uc {font-stretch: ultra-condensed}
-.fS-ue {font-stretch: ultra-expanded}
-.fS-uns {font-stretch: unset}
+.fS-c {
+  font-stretch: condensed}
+.fS-e {
+  font-stretch: expanded}
+.fS-ec {
+  font-stretch: extra-condensed}
+.fS-ee {
+  font-stretch: extra-expanded}
+.fS-inh {
+  font-stretch: inherit}
+.fS-ini {
+  font-stretch: initial}
+.fS-sc {
+  font-stretch: semi-condensed}
+.fS-se {
+  font-stretch: semi-expanded}
+.fS-uc {
+  font-stretch: ultra-condensed}
+.fS-ue {
+  font-stretch: ultra-expanded}
+.fS-uns {
+  font-stretch: unset}
 
 /* Font Variant */
-.fV-inh {font-variant: inherit}
-.fV-ini {font-variant: initlal}
-.fV-n {font-variant: normal}
-.fV-s {font-variant: small-caps}
-.fV-uns {font-variant: unset}
+.fV-inh {
+  font-variant: inherit}
+.fV-ini {
+  font-variant: initlal}
+.fV-n {
+  font-variant: normal}
+.fV-s {
+  font-variant: small-caps}
+.fV-uns {
+  font-variant: unset}
 
 /* Font Weight */
-.fW-b {font-weight: bold}
-.fW-br {font-weight: bolder}
-.fW-inh {font-weight: inherit}
-.fW-ini {font-weight: initial}
-.fW-l {font-weight: light}
-.fW-lr {font-weight: lighter}
-.fW-n {font-weight: normal}
-.fW-uns {font-weight: unset}
+.fW-b {
+  font-weight: bold}
+.fW-br {
+  font-weight: bolder}
+.fW-inh {
+  font-weight: inherit}
+.fW-ini {
+  font-weight: initial}
+.fW-l {
+  font-weight: light}
+.fW-lr {
+  font-weight: lighter}
+.fW-n {
+  font-weight: normal}
+.fW-uns {
+  font-weight: unset}
 
 /* Glyph Orientation Horizontal */
-.gOH-0 {glyph-orientation-horizontal: 0deg}
-.gOH-90 {glyph-orientation-horizontal: 90deg}
-.gOH-180 {glyph-orientation-horizontal: 180deg}
-.gOH-270 {glyph-orientation-horizontal: 270deg}
-.gOH-inh {glyph-orientation-horizontal: inherit}
-.gOH-ini {glyph-orientation-horizontal: initial}
-.gOH-uns {glyph-orientation-horizontal: unset}
+.gOH-0 {
+  glyph-orientation-horizontal: 0deg}
+.gOH-90 {
+  glyph-orientation-horizontal: 90deg}
+.gOH-180 {
+  glyph-orientation-horizontal: 180deg}
+.gOH-270 {
+  glyph-orientation-horizontal: 270deg}
+.gOH-inh {
+  glyph-orientation-horizontal: inherit}
+.gOH-ini {
+  glyph-orientation-horizontal: initial}
+.gOH-uns {
+  glyph-orientation-horizontal: unset}
 
 /* Glyph Orientation Vertical */
-.gOV-0 {glyph-orientation-vertical: 0deg}
-.gOV-90 {glyph-orientation-vertical: 90deg}
-.gOV-180 {glyph-orientation-vertical: 180deg}
-.gOV-270 {glyph-orientation-vertical: 270deg}
-.gOV-a {glyph-orientation-vertical: auto}
-.gOV-inh {glyph-orientation-vertical: inherit}
-.gOV-ini {glyph-orientation-vertical: initial}
-.gOV-uns {glyph-orientation-vertical: unset}
+.gOV-0 {
+  glyph-orientation-vertical: 0deg}
+.gOV-90 {
+  glyph-orientation-vertical: 90deg}
+.gOV-180 {
+  glyph-orientation-vertical: 180deg}
+.gOV-270 {
+  glyph-orientation-vertical: 270deg}
+.gOV-a {
+  glyph-orientation-vertical: auto}
+.gOV-inh {
+  glyph-orientation-vertical: inherit}
+.gOV-ini {
+  glyph-orientation-vertical: initial}
+.gOV-uns {
+  glyph-orientation-vertical: unset}
 
 /* Hyphens */
-.h-a {hyphens: auto}
-.h-inh {hyphens: inherit}
-.h-ini {hyphens: initial}
-.h-m {hyphens: manual}
-.h-n {hyphens: none}
-.h-uns {hyphens: unset}
+.h-a {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto}
+.h-inh {
+  -webkit-hyphens: inherit;
+  -moz-hyphens: inherit;
+  -ms-hyphens: inherit;
+  hyphens: inherit}
+.h-ini {
+  -webkit-hyphens: initial;
+  -moz-hyphens: initial;
+  -ms-hyphens: initial;
+  hyphens: initial}
+.h-m {
+  -webkit-hyphens: manual;
+  -moz-hyphens: manual;
+  -ms-hyphens: manual;
+  hyphens: manual}
+.h-n {
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none}
+.h-uns {
+  -webkit-hyphens: unset;
+  -moz-hyphens: unset;
+  -ms-hyphens: unset;
+  hyphens: unset}
 
 /* Image Orientation */
 .iO-0 {image-orientation: 0deg}
