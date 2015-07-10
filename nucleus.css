@@ -2186,6 +2186,20 @@
 .sLJ-uns {
   stroke-linejoin: unset}
 
+/* Tab Size */
+.tabS-inh {
+  -moz-tab-size: inherit;
+  -o-tab-size: inherit;
+  tab-size: inherit}
+.tabS-ini {
+  -moz-tab-size: initial;
+  -o-tab-size: initial;
+  tab-size: initial}
+.tabS-uns {
+  -moz-tab-size: unset;
+  -o-tab-size: unset;
+  tab-size: unset}
+
 /* Table Layout */
 .tL-a {
   table-layout: auto}
