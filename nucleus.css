@@ -2212,18 +2212,78 @@
   touch-action: unset}
 
 /* Transform Origin */
-.tO-cb {transform-origin: center bottom}
-.tO-cc {transform-origin: center center}
-.tO-ct {transform-origin: center top}
-.tO-inh {transform-origin: inherit}
-.tO-ini {transform-origin: initial}
-.tO-lb {transform-origin: left bottom}
-.tO-lc {transform-origin: left center}
-.tO-lt {transform-origin: left top}
-.tO-rb {transform-origin: right bottom}
-.tO-rc {transform-origin: right center}
-.tO-rt {transform-origin: right top}
-.tO-uns {transform-origin: unset}
+.tO-cb {
+  -webkit-transform-origin: center bottom;
+  -moz-transform-origin: center bottom;
+  -ms-transform-origin: center bottom;
+  -o-transform-origin: center bottom;
+  transform-origin: center bottom}
+.tO-cc {
+  -webkit-transform-origin: center center;
+  -moz-transform-origin: center center;
+  -ms-transform-origin: center center;
+  -o-transform-origin: center center;
+  transform-origin: center center}
+.tO-ct {
+  -webkit-transform-origin: center top;
+  -moz-transform-origin: center top;
+  -ms-transform-origin: center top;
+  -o-transform-origin: center top;
+  transform-origin: center top}
+.tO-inh {
+  -webkit-transform-origin: inherit;
+  -moz-transform-origin: inherit;
+  -ms-transform-origin: inherit;
+  -o-transform-origin: inherit;
+  transform-origin: inherit}
+.tO-ini {
+  -webkit-transform-origin: initial;
+  -moz-transform-origin: initial;
+  -ms-transform-origin: initial;
+  -o-transform-origin: initial;
+  transform-origin: initial}
+.tO-lb {
+  -webkit-transform-origin: left bottom;
+  -moz-transform-origin: left bottom;
+  -ms-transform-origin: left bottom;
+  -o-transform-origin: left bottom;
+  transform-origin: left bottom}
+.tO-lc {
+  -webkit-transform-origin: left center;
+  -moz-transform-origin: left center;
+  -ms-transform-origin: left center;
+  -o-transform-origin: left center;
+  transform-origin: left center}
+.tO-lt {
+  -webkit-transform-origin: left top;
+  -moz-transform-origin: left top;
+  -ms-transform-origin: left top;
+  -o-transform-origin: left top;
+  transform-origin: left top}
+.tO-rb {
+  -webkit-transform-origin: right bottom;
+  -moz-transform-origin: right bottom;
+  -ms-transform-origin: right bottom;
+  -o-transform-origin: right bottom;
+  transform-origin: right bottom}
+.tO-rc {
+  -webkit-transform-origin: right center;
+  -moz-transform-origin: right center;
+  -ms-transform-origin: right center;
+  -o-transform-origin: right center;
+  transform-origin: right center}
+.tO-rt {
+  -webkit-transform-origin: right top;
+  -moz-transform-origin: right top;
+  -ms-transform-origin: right top;
+  -o-transform-origin: right top;
+  transform-origin: right top}
+.tO-uns {
+  -webkit-transform-origin: unset;
+  -moz-transform-origin: unset;
+  -ms-transform-origin: unset;
+  -o-transform-origin: unset;
+  transform-origin: unset}
 
 /* Transform Style */
 .tS-f {transform-style: flat}
