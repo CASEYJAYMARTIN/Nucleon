@@ -1840,18 +1840,42 @@
   object-fit: unset}
 
 /* Object Position */
-.oP-cb {object-position: center bottom}
-.oP-cc {object-position: center center}
-.oP-ct {object-position: center top}
-.oP-inh {object-position: inherit}
-.oP-ini {object-position: initial}
-.oP-lb {object-position: left bottom}
-.oP-lc {object-position: left center}
-.oP-lt {object-position: left top}
-.oP-rb {object-position: right bottom}
-.oP-rc {object-position: right center}
-.oP-rt {object-position: right top}
-.oP-uns {object-position: unset}
+.oP-cb {
+  -o-object-position: center bottom;
+  object-position: center bottom}
+.oP-cc {
+  -o-object-position: center center;
+  object-position: center center}
+.oP-ct {
+  -o-object-position: center top;
+  object-position: center top}
+.oP-inh {
+  -o-object-position: inherit;
+  object-position: inherit}
+.oP-ini {
+  -o-object-position: initial;
+  object-position: initial}
+.oP-lb {
+  -o-object-position: left bottom;
+  object-position: left bottom}
+.oP-lc {
+  -o-object-position: left center;
+  object-position: left center}
+.oP-lt {
+  -o-object-position: left top;
+  object-position: left top}
+.oP-rb {
+  -o-object-position: right bottom;
+  object-position: right bottom}
+.oP-rc {
+  -o-object-position: right center;
+  object-position: right center}
+.oP-rt {
+  -o-object-position: right top;
+  object-position: right top}
+.oP-uns {
+  -o-object-position: unset;
+  object-position: unset}
 
 /* Opacity */
 .o-0 {opacity: 0}
