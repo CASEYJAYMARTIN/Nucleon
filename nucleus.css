@@ -2286,11 +2286,26 @@
   transform-origin: unset}
 
 /* Transform Style */
-.tS-f {transform-style: flat}
-.tS-inh {transform-style: inherit}
-.tS-ini {transform-style: initial}
-.tS-p3d {transform-style: preserve-3d}
-.tS-uns {transform-style: unset}
+.tS-f {
+  -webkit-transform-style: flat;
+  -moz-transform-style: flat;
+  transform-style: flat}
+.tS-inh {
+  -webkit-transform-style: inherit;
+  -moz-transform-style: inherit;
+  transform-style: inherit}
+.tS-ini {
+  -webkit-transform-style: initial;
+  -moz-transform-style: initial;
+  transform-style: initial}
+.tS-p3d {
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  transform-style: preserve-3d}
+.tS-uns {
+  -webkit-transform-style: unset;
+  -moz-transform-style: unset;
+  transform-style: unset}
 
 /* Transition Timing Function */
 .tTF-e {transition-timing-function: ease}
