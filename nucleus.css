@@ -949,45 +949,86 @@
   break-inside: unset}
 
 /* Caption Side */
-.capS-b {caption-side: bottom}
-.capS-inh {caption-side: inherit}
-.capS-ini {caption-side: initial}
-.capS-l {caption-side: left}
-.capS-r {caption-side: right}
-.capS-t {caption-side: top}
-.capS-uns {caption-side: unset}
+.capS-b {
+  caption-side: bottom}
+.capS-inh {
+  caption-side: inherit}
+.capS-ini {
+  caption-side: initial}
+.capS-l {
+  caption-side: left}
+.capS-r {
+  caption-side: right}
+.capS-t {
+  caption-side: top}
+.capS-uns {
+  caption-side: unset}
 
 /* Clear */
-.c-b {clear: both}
-.c-inh {clear: inherit}
-.c-ini {clear: initial}
-.c-l {clear: left}
-.c-n {clear: none}
-.c-r {clear: right}
-.c-uns {clear: unset}
+.c-b {
+  clear: both}
+.c-inh {
+  clear: inherit}
+.c-ini {
+  clear: initial}
+.c-l {
+  clear: left}
+.c-n {
+  clear: none}
+.c-r {
+  clear: right}
+.c-uns {
+  clear: unset}
 
 /* Color Interpolation */
-.cI-a {color-interpolation: auto}
-.cI-inh {color-interpolation: inherit}
-.cI-ini {color-interpolation: initial}
-.cI-l {color-interpolation: linearRGB}
-.cI-s {color-interpolation: sRGB}
-.cI-uns {color-interpolation: unset}
+.cI-a {
+  color-interpolation: auto}
+.cI-inh {
+  color-interpolation: inherit}
+.cI-ini {
+  color-interpolation: initial}
+.cI-l {
+  color-interpolation: linearRGB}
+.cI-s {
+  color-interpolation: sRGB}
+.cI-uns {
+  color-interpolation: unset}
 
 /* Color Interpolation Filters */
-.cIF-a {color-interpolation-filters: auto}
-.cIF-inh {color-interpolation-filters: inherit}
-.cIF-ini {color-interpolation-filters: initial}
-.cIF-l {color-interpolation-filters: linearRGB}
-.cIF-s {color-interpolation-filters: sRGB}
-.cIF-uns {color-interpolation-filters: unset}
+.cIF-a {
+  color-interpolation-filters: auto}
+.cIF-inh {
+  color-interpolation-filters: inherit}
+.cIF-ini {
+  color-interpolation-filters: initial}
+.cIF-l {
+  color-interpolation-filters: linearRGB}
+.cIF-s {
+  color-interpolation-filters: sRGB}
+.cIF-uns {
+  color-interpolation-filters: unset}
 
 /* Column Fill */
-.cF-a {column-fill: auto}
-.cF-b {column-fill: balance}
-.cF-inh {column-fill: inherit}
-.cF-ini {column-fill: initial}
-.cF-u {column-fill: unset}
+.cF-a {
+  -webkit-column-fill: auto;
+  -moz-column-fill: auto;
+  column-fill: auto}
+.cF-b {
+  -webkit-column-fill: balance;
+  -moz-column-fill: balance;
+  column-fill: balance}
+.cF-inh {
+  -webkit-column-fill: inherit;
+  -moz-column-fill: inherit;
+  column-fill: inherit}
+.cF-ini {
+  -webkit-column-fill: initial;
+  -moz-column-fill: initial;
+  column-fill: initial}
+.cF-u {
+  -webkit-column-fill: unset;
+  -moz-column-fill: unset;
+  column-fill: unset}
 
 /* Color Rendering */
 .cR-a {color-rendering: auto}
