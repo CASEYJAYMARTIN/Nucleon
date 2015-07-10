@@ -2087,6 +2087,17 @@
   -webkit-shape-image-threshold: unset;
   shape-image-threshold: unset}
 
+/* Shape Margin */
+.sM-inh {
+  -webkit-shape-margin: inherit;
+  shape-margin: inherit}
+.sM-ini {
+  -webkit-shape-margin: initial;
+  shape-margin: initial}
+.sM-uns {
+  -webkit-shape-margin: unset;
+  shape-margin: unset}
+
 /* Shape Outside */
 .sO-bb {
   -webkit-shape-outside: border-box;
