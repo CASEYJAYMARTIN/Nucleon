@@ -261,11 +261,31 @@
   animation-fill-mode: unset}
 
 /* Animation Play State */
-.aPS-inh {animation-play-state: inherit}
-.aPS-ini {animation-play-state: initial}
-.aPS-p {animation-play-state: paused}
-.aPS-r {animation-play-state: running}
-.aPS-uns {animation-play-state: unset}
+.aPS-inh {
+  -webkit-animation-play-state: inherit;
+  -moz-animation-play-state: inherit;
+  -o-animation-play-state: inherit;
+  animation-play-state: inherit}
+.aPS-ini {
+  -webkit-animation-play-state: initial;
+  -moz-animation-play-state: initial;
+  -o-animation-play-state: initial;
+  animation-play-state: initial}
+.aPS-p {
+  -webkit-animation-play-state: paused;
+  -moz-animation-play-state: paused;
+  -o-animation-play-state: paused;
+  animation-play-state: paused}
+.aPS-r {
+  -webkit-animation-play-state: running;
+  -moz-animation-play-state: running;
+  -o-animation-play-state: running;
+  animation-play-state: running}
+.aPS-uns {
+  -webkit-animation-play-state: unset;
+  -moz-animation-play-state: unset;
+  -o-animation-play-state: unset;
+  animation-play-state: unset}
 
 /* Animation Timing Function */
 .aTF-e {animation-timing-function: ease}
