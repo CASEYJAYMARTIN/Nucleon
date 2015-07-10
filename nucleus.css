@@ -1747,10 +1747,18 @@
   margin-block-end: unset}
 
 /* Margin Block Start */
-.mBS-a {margin-block-start: auto}
-.mBS-inh {margin-block-start: inh}
-.mBS-ini {margin-block-start: initial}
-.mBS-uns {margin-block-start: unset}
+.mBS-a {
+  -webkit-margin-before: auto;
+  margin-block-start: auto}
+.mBS-inh {
+  -webkit-margin-before: inh;
+  margin-block-start: inh}
+.mBS-ini {
+  -webkit-margin-before: initial;
+  margin-block-start: initial}
+.mBS-uns {
+  -webkit-margin-before: unset;
+  margin-block-start: unset}
 
 /* Min Inline Size */
 .mIS-fa {min-inline-size: fill-available}
