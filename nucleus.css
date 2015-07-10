@@ -480,50 +480,101 @@
   background-origin: unset}
 
 /* Background Position */
-.bgP-cb {background-position: center bottom}
-.bgP-cc {background-position: center center}
-.bgP-ct {background-position: center top}
-.bgP-inh {background-position: inherit}
-.bgP-ini {background-position: initial}
-.bgP-lb {background-position: left bottom}
-.bgP-lc {background-position: left center}
-.bgP-lt {background-position: left top}
-.bgP-rb {background-position: right bottom}
-.bgP-rc {background-position: right center}
-.bgP-rt {background-position: right top}
-.bgP-uns {background-position: unset}
+.bgP-cb {
+  background-position: center bottom}
+.bgP-cc {
+  background-position: center center}
+.bgP-ct {
+  background-position: center top}
+.bgP-inh {
+  background-position: inherit}
+.bgP-ini {
+  background-position: initial}
+.bgP-lb {
+  background-position: left bottom}
+.bgP-lc {
+  background-position: left center}
+.bgP-lt {
+  background-position: left top}
+.bgP-rb {
+  background-position: right bottom}
+.bgP-rc {
+  background-position: right center}
+.bgP-rt {
+  background-position: right top}
+.bgP-uns {
+  background-position: unset}
 
 /* Background Position X */
-.bgPX-c {background-position-x: center }
-.bgPX-inh {background-position-x: inherit}
-.bgPX-ini {background-position-x: initial}
-.bgPX-l {background-position-x: left}
-.bgPX-r {background-position-x: right}
-.bgPX-uns {background-position-x: unset}
+.bgPX-c {
+  background-position-x: center }
+.bgPX-inh {
+  background-position-x: inherit}
+.bgPX-ini {
+  background-position-x: initial}
+.bgPX-l {
+  background-position-x: left}
+.bgPX-r {
+  background-position-x: right}
+.bgPX-uns {
+  background-position-x: unset}
 
 /* Background Position Y */
-.bgPY-b {background-position-y: bottom}
-.bgPY-c {background-position-y: center}
-.bgPY-inh {background-position-y: inherit}
-.bgPY-ini {background-position-y: initial}
-.bgPY-t {background-position-y: top}
-.bgPY-uns {background-position-y: unset}
+.bgPY-b {
+  background-position-y: bottom}
+.bgPY-c {
+  background-position-y: center}
+.bgPY-inh {
+  background-position-y: inherit}
+.bgPY-ini {
+  background-position-y: initial}
+.bgPY-t {
+  background-position-y: top}
+.bgPY-uns {
+  background-position-y: unset}
 
 /* Background Repeat */
-.bgR-inh {background-repeat: inherit}
-.bgR-ini {background-repeat: initial}
-.bgR-nr {background-repeat: no-repeat}
-.bgR-r {background-repeat: repeat}
-.bgr-rx {background-repeat: repeat-x}
-.bgR-ry {background-repeat: repeat-y}
-.bgR-uns {background-repeat: unset}
+.bgR-inh {
+  background-repeat: inherit}
+.bgR-ini {
+  background-repeat: initial}
+.bgR-nr {
+  background-repeat: no-repeat}
+.bgR-r {
+  background-repeat: repeat}
+.bgr-rx {
+  background-repeat: repeat-x}
+.bgR-ry {
+  background-repeat: repeat-y}
+.bgR-uns {
+  background-repeat: unset}
 
 /* Background Size */
-.bgS-a {background-size: auto}
-.bgS-c {background-size: cover}
-.bgS-inh {background-size: inherit}
-.bgS-ini {background-size: initial}
-.bgS-uns {background-size: unset}
+.bgS-a {
+  -webkit-background-size: auto auto;
+  -moz-background-size: auto;
+  -o-background-size: auto;
+  background-size: auto}
+.bgS-c {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover}
+.bgS-inh {
+  -webkit-background-size: inherit inherit;
+  -moz-background-size: inherit;
+  -o-background-size: inherit;
+  background-size: inherit}
+.bgS-ini {
+  -webkit-background-size: initial initial;
+  -moz-background-size: initial;
+  -o-background-size: initial;
+  background-size: initial}
+.bgS-uns {
+  -webkit-background-size: unset unset;
+  -moz-background-size: unset;
+  -o-background-size: unset;
+  background-size: unset}
 
 /* Baseline Shift */
 .blS-a {baseline-shift: auto}
