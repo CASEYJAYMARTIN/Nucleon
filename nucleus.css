@@ -448,12 +448,36 @@
   background-clip: unset}
 
 /* Background Origin */
-.bgO-bb {background-origin: border-box}
-.bgO-cb {background-origin: content-box}
-.bgO-inh {background-origin: inherit}
-.bgO-ini {background-origin: initial}
-.bgO-pb {background-origin: padding-box}
-.bgO-uns {background-origin: unset}
+.bgO-bb {
+  -webkit-background-origin: border-box;
+  -moz-background-origin: border-box;
+  -o-background-origin: border-box;
+  background-origin: border-box}
+.bgO-cb {
+  -webkit-background-origin: content-box;
+  -moz-background-origin: content-box;
+  -o-background-origin: content-box;
+  background-origin: content-box}
+.bgO-inh {
+  -webkit-background-origin: inherit;
+  -moz-background-origin: inherit;
+  -o-background-origin: inherit;
+  background-origin: inherit}
+.bgO-ini {
+  -webkit-background-origin: initial;
+  -moz-background-origin: initial;
+  -o-background-origin: initial;
+  background-origin: initial}
+.bgO-pb {
+  -webkit-background-origin: padding-box;
+  -moz-background-origin: padding-box;
+  -o-background-origin: padding-box;
+  background-origin: padding-box}
+.bgO-uns {
+  -webkit-background-origin: unset;
+  -moz-background-origin: unset;
+  -o-background-origin: unset;
+  background-origin: unset}
 
 /* Background Position */
 .bgP-cb {background-position: center bottom}
