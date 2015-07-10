@@ -2274,6 +2274,26 @@
 .tAn-uns {
   text-anchor: unset}
 
+/* Text Combine Upright */
+.tCU-a {
+  -ms-text-combine-horizontal: all;
+  text-combine-upright: all}
+.tCU-d {
+  -ms-text-combine-horizontal: digits;
+  text-combine-upright: digits}
+.tCU-inh {
+  -ms-text-combine-horizontal: inherit;
+  text-combine-upright: inherit}
+.tCU-ini {
+  -ms-text-combine-horizontal: initial;
+  text-combine-upright: initial}
+.tCU-n {
+  -ms-text-combine-horizontal: none;
+  text-combine-upright: none}
+.tCU-uns {
+  -ms-text-combine-horizontal: unset;
+  text-combine-upright: unset}
+
 /* Text Decoration */
 .tD-inh {
   text-decoration: inherit}
