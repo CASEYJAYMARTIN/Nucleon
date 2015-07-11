@@ -2404,6 +2404,24 @@
 .tI-uns {
   text-indent: unset}
 
+/* Text Orientation */
+.tO-inh {
+  text-orientation: inherit}
+.tO-ini {
+  text-orientation: initial}
+.tO-m {
+  text-orientation: mixed}
+.tO-s {
+  text-orientation: sideways}
+.tO-sl {
+  text-orientation: sideways-left}
+.tO-sr {
+  text-orientation: sideways-right}
+.tO-uns {
+  text-orientation: unset}
+.tO-ugo {
+  text-orientation: use-glyph-orientation}
+
 /* Text Overflow */
 .tO-c {
   -o-text-overflow: clip;
