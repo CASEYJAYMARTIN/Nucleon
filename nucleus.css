@@ -2627,6 +2627,33 @@
   -moz-transform-style: unset;
   transform-style: unset}
 
+/* Transition Property */
+.tP-a {
+  -webkit-transition-property: all;
+  -moz-transition-property: all;
+  -o-transition-property: all;
+  transition-property: all}
+.tP-inh {
+  -webkit-transition-property: inherit;
+  -moz-transition-property: inherit;
+  -o-transition-property: inherit;
+  transition-property: inherit}
+.tP-ini {
+  -webkit-transition-property: initial;
+  -moz-transition-property: initial;
+  -o-transition-property: initial;
+  transition-property: initial}
+.tP-n {
+  -webkit-transition-property: none;
+  -moz-transition-property: none;
+  -o-transition-property: none;
+  transition-property: none}
+.tP-uns {
+  -webkit-transition-property: unset;
+  -moz-transition-property: unset;
+  -o-transition-property: unset;
+  transition-property: unset}
+
 /* Transition Timing Function */
 .tTF-e {
   -webkit-transition-timing-function: ease;
