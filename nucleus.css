@@ -2811,6 +2811,18 @@
 .wS-uns {
   word-spacing: unset}
 
+/* Word Wrap */
+.wW-bw {
+  word-wrap: break-word}
+.wW-inh {
+  word-wrap: inherit}
+.wW-ini {
+  word-wrap: initial}
+.wW-n {
+  word-wrap: normal}
+.wW-uns {
+  word-wrap: unset}
+
 /* Writing Mode */
 .wM-inh {
   writing-mode: inherit}
