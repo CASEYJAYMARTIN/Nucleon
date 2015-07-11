@@ -2715,8 +2715,21 @@
   unicode-bidi: inherit}
 .uB-ini {
   unicode-bidi: initial}
+.uB-i {
+  unicode-bidi: -webkit-isolate;
+  unicode-bidi: -moz-isolate;
+  unicode-bidi: -ms-isolate;
+  unicode-bidi: isolate}
+.uB-io {
+  unicode-bidi: -webkit-isolate-override;
+  unicode-bidi: -moz-isolate-override;
+  unicode-bidi: -ms-isolate-override;
+  unicode-bidi: isolate-override}
 .uB-n {
   unicode-bidi: normal}
+.uB-p {
+  unicode-bidi: -moz-plaintext;
+  unicode-bidi: plaintext}
 .uB-uns {
   unicode-bidi: unset}
 
