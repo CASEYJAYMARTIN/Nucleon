@@ -2310,6 +2310,24 @@
 .tD-uns {
   text-decoration: unset}
 
+/* Text Decoration Color */
+.tDC-cC {
+  -webkit-text-decoration-color: currentColor;
+  -moz-text-decoration-color: currentColor;
+  text-decoration-color: currentColor}
+.tDC-inh {
+  -webkit-text-decoration-color: inherit;
+  -moz-text-decoration-color: inherit;
+  text-decoration-color: inherit}
+.tDC-ini {
+  -webkit-text-decoration-color: initial;
+  -moz-text-decoration-color: initial;
+  text-decoration-color: initial}
+.tDC-uns {
+  -webkit-text-decoration-color: unset;
+  -moz-text-decoration-color: unset;
+  text-decoration-color: unset}
+
 /* Text Decoration Line */
 .tDL-inh {
   -webkit-text-decoration-line: inherit;
