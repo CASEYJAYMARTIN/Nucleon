@@ -2517,6 +2517,20 @@
   -ms-touch-action: unset;
   touch-action: unset}
 
+/* Transform Box */
+.tB-bb {
+  transform-box: border-box}
+.tB-fb {
+  transform-box: fill-box}
+.tB-inh {
+  tranform-box: inherit}
+.tB-ini {
+  transform-box: initial}
+.tB-u {
+  transform-box: unset}
+.tB-view-box {
+  transform-box: view-box}
+
 /* Transform Origin */
 .tO-cb {
   -webkit-transform-origin: center bottom;
