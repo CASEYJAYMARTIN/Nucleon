@@ -2392,6 +2392,18 @@
   -moz-text-decoration-style: wavy;
   text-decoration-style: wavy}
 
+/* Text Indent */
+.tI-el {
+  text-indent: each-line}
+.tI-h {
+  text-indent: hanging}
+.tI-inh {
+  text-indent: inherit}
+.tI-ini {
+  text-indent: initial}
+.tI-uns {
+  text-indent: unset}
+
 /* Text Overflow */
 .tO-c {
   -o-text-overflow: clip;
