@@ -2787,6 +2787,20 @@
 .wS-uns {
   white-space: unset}
 
+/* Word Break */
+.wB-ba {
+  word-break: break-all}
+.wB-inh {
+  word-break: inherit}
+.wB-ini {
+  word-break: initial}
+.wB-ka {
+  word-break: keep-all}
+.wB-n {
+  word-break: normal}
+.wB-uns {
+  word-break: unset}
+
 /* Writing Mode */
 .wM-inh {
   writing-mode: inherit}
