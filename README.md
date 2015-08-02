@@ -1,3 +1,3 @@
-![Nucleus logo](./nucleus.png)
+![Nucleon logo](./nucleon.png)
 
-# Nucleus
+# Nucleon
